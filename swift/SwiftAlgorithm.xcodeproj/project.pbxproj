@@ -19,38 +19,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		260BE2912BBBB85E0026DABE /* AlgorithmStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmStudy; sourceTree = BUILT_PRODUCTS_DIR; };
+		260BE2912BBBB85E0026DABE /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		26A2A08C2E7B112100DBE02B /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				BOJ/Array/1475.swift,
-				BOJ/Array/2577.swift,
-				BOJ/Array/3273.swift,
-				BOJ/BFS/1926.swift,
-				BOJ/BFS/2178.swift,
-				BOJ/BFS/7576.swift,
-				BOJ/Deque/1021.swift,
-				BOJ/Deque/give.swift,
-				BOJ/LinkedList/1158.swift,
-				BOJ/LinkedList/1406.swift,
-				BOJ/LinkedList/5397.swift,
-				BOJ/Queue/2164.swift,
-				BOJ/Stack/1874.swift,
-				BOJ/Stack/2504.swift,
-				BOJ/Stack/3986.swift,
-				BOJ/Stack/10773.swift,
-				BOJ/Stack/10799.swift,
-				BOJ/Stack/sksksk.swift,
-			);
-			target = 260BE2902BBBB85E0026DABE /* AlgorithmStudy */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		26A2A0202E7B112100DBE02B /* AlgorithmStudy */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (26A2A08C2E7B112100DBE02B /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = AlgorithmStudy; sourceTree = "<group>"; };
+		26A2A0202E7B112100DBE02B /* SwiftAlgorithm */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = SwiftAlgorithm; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +40,7 @@
 		260BE2882BBBB85E0026DABE = {
 			isa = PBXGroup;
 			children = (
-				26A2A0202E7B112100DBE02B /* AlgorithmStudy */,
+				26A2A0202E7B112100DBE02B /* SwiftAlgorithm */,
 				260BE2922BBBB85E0026DABE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -75,7 +48,7 @@
 		260BE2922BBBB85E0026DABE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				260BE2912BBBB85E0026DABE /* AlgorithmStudy */,
+				260BE2912BBBB85E0026DABE /* SwiftAlgorithm */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,9 +56,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		260BE2902BBBB85E0026DABE /* AlgorithmStudy */ = {
+		260BE2902BBBB85E0026DABE /* SwiftAlgorithm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 260BE2982BBBB85E0026DABE /* Build configuration list for PBXNativeTarget "AlgorithmStudy" */;
+			buildConfigurationList = 260BE2982BBBB85E0026DABE /* Build configuration list for PBXNativeTarget "SwiftAlgorithm" */;
 			buildPhases = (
 				260BE28D2BBBB85E0026DABE /* Sources */,
 				260BE28E2BBBB85E0026DABE /* Frameworks */,
@@ -96,11 +69,11 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				26A2A0202E7B112100DBE02B /* AlgorithmStudy */,
+				26A2A0202E7B112100DBE02B /* SwiftAlgorithm */,
 			);
-			name = AlgorithmStudy;
-			productName = AlgorithmStudy;
-			productReference = 260BE2912BBBB85E0026DABE /* AlgorithmStudy */;
+			name = SwiftAlgorithm;
+			productName = SwiftAlgorithm;
+			productReference = 260BE2912BBBB85E0026DABE /* SwiftAlgorithm */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -119,7 +92,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 260BE28C2BBBB85E0026DABE /* Build configuration list for PBXProject "AlgorithmStudy" */;
+			buildConfigurationList = 260BE28C2BBBB85E0026DABE /* Build configuration list for PBXProject "SwiftAlgorithm" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -132,7 +105,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				260BE2902BBBB85E0026DABE /* AlgorithmStudy */,
+				260BE2902BBBB85E0026DABE /* SwiftAlgorithm */,
 			);
 		};
 /* End PBXProject section */
@@ -296,7 +269,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		260BE28C2BBBB85E0026DABE /* Build configuration list for PBXProject "AlgorithmStudy" */ = {
+		260BE28C2BBBB85E0026DABE /* Build configuration list for PBXProject "SwiftAlgorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				260BE2962BBBB85E0026DABE /* Debug */,
@@ -305,7 +278,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		260BE2982BBBB85E0026DABE /* Build configuration list for PBXNativeTarget "AlgorithmStudy" */ = {
+		260BE2982BBBB85E0026DABE /* Build configuration list for PBXNativeTarget "SwiftAlgorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				260BE2992BBBB85E0026DABE /* Debug */,
