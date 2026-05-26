@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# Xcode user-local state
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# SwiftPM / build artifacts
+.build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local problem-solving tool state
+.kps/
