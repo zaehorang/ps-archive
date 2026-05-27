@@ -8,12 +8,17 @@
       "titleSlug": "remove-element",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/remove-element/",
-      "lastSyncedAt": "2026-05-27T09:37:23.860Z",
+      "lastSyncedAt": "2026-05-27T11:12:22.105Z",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0027_remove_element.swift",
           "lastSubmissionId": "2014421295",
           "lastSyncedAt": "2026-05-27T09:37:23.860Z"
+        },
+        "python3": {
+          "solutionPath": "leetcode/python/0027_remove_element.py",
+          "lastSubmissionId": "2014505130",
+          "lastSyncedAt": "2026-05-27T11:12:22.105Z"
         }
       }
     }
