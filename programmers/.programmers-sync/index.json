@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "problems": [
+    {
+      "problemId": "120820",
+      "frontendId": "120820",
+      "title": "나이 출력",
+      "titleSlug": "120820_나이_출력",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=swift",
+      "lastSyncedAt": "2026-05-27T12:26:22.184Z",
+      "languages": {
+        "swift": {
+          "solutionPath": "programmers/swift/120820_나이_출력.swift",
+          "lastSubmissionId": "programmers:120820:swift:0tw9gva",
+          "lastSyncedAt": "2026-05-27T12:26:22.184Z"
+        }
+      }
+    }
+  ]
+}

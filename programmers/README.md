@@ -30,3 +30,9 @@ Automatic Programmers sync is a v2 candidate; these files are currently maintain
 | `re_12909` | `Stack&Queue` | [Swift](swift/Stack&Queue/re_12909.swift) |
 | `re_42586` | `Stack&Queue` | [Swift](swift/Stack&Queue/re_42586.swift) |
 | `re_42587` | `Stack&Queue` | [Swift](swift/Stack&Queue/re_42587.swift) |
+
+<!-- PROGRAMMERS_TABLE_START -->
+| # | Title | Difficulty | Swift | Python |
+| ---: | --- | --- | --- | --- |
+| 120820 | 나이 출력 | - | [Swift](swift/120820_나이_출력.swift) | - |
+<!-- PROGRAMMERS_TABLE_END -->
