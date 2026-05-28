@@ -1,12 +1,11 @@
 class Solution:
+    # Two Pointer
     def removeDuplicates(self, nums: List[int]) -> int:
-        index = 0
-        current = -101
+        left = 0
 
-        for elem in nums:
-            if current < elem:
-                nums[index] = elem
-                current = elem
-                index += 1
+        for right in range(len(nums)):
+            if nums[left] != nums[right]:
+                left += 1
+                nums[left], nums[right] = nums[right], nums[left]
 
-        return index
+        return left + 1

@@ -8,7 +8,7 @@
       "titleSlug": "remove-duplicates-from-sorted-array",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "lastSyncedAt": "2026-05-28T08:18:38.672Z",
+      "lastSyncedAt": "2026-05-28T08:25:55.028Z",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0026_remove_duplicates_from_sorted_array.swift",
@@ -17,8 +17,8 @@
         },
         "python3": {
           "solutionPath": "leetcode/python/0026_remove_duplicates_from_sorted_array.py",
-          "lastSubmissionId": "2015286603",
-          "lastSyncedAt": "2026-05-28T08:18:38.672Z"
+          "lastSubmissionId": "2015291798",
+          "lastSyncedAt": "2026-05-28T08:25:55.028Z"
         }
       }
     },
