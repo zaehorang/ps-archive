@@ -21,6 +21,22 @@
           "lastSyncedAt": "2026-05-27T12:30:50.717Z"
         }
       }
+    },
+    {
+      "problemId": "120830",
+      "frontendId": "120830",
+      "title": "양꼬치",
+      "titleSlug": "120830_양꼬치",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120830",
+      "lastSyncedAt": "2026-05-29T07:59:39.435Z",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/120830_양꼬치.py",
+          "lastSubmissionId": "programmers:120830:python3:0hlez96",
+          "lastSyncedAt": "2026-05-29T07:59:39.435Z"
+        }
+      }
     }
   ]
 }
