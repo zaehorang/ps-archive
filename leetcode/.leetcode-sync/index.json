@@ -50,12 +50,17 @@
       "titleSlug": "remove-duplicates-from-sorted-array-ii",
       "difficulty": "Medium",
       "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
-      "lastSyncedAt": "2026-05-29T05:23:13.970Z",
+      "lastSyncedAt": "2026-05-29T07:53:21.597Z",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0080_remove_duplicates_from_sorted_array_ii.swift",
           "lastSubmissionId": "2016081547",
           "lastSyncedAt": "2026-05-29T05:23:13.970Z"
+        },
+        "python3": {
+          "solutionPath": "leetcode/python/0080_remove_duplicates_from_sorted_array_ii.py",
+          "lastSubmissionId": "2016210670",
+          "lastSyncedAt": "2026-05-29T07:53:21.597Z"
         }
       }
     }
