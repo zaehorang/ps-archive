@@ -13,14 +13,20 @@
         "swift": {
           "solutionPath": "programmers/swift/120820_나이_출력.swift",
           "lastSubmissionId": "programmers:120820:swift:0tw9gva",
-          "lastSyncedAt": "2026-05-27T12:26:22.184Z"
+          "lastSyncedAt": "2026-05-27T12:26:22.184Z",
+          "firstAcceptedDate": "2026-05-27",
+          "lastAcceptedDate": "2026-05-27"
         },
         "python3": {
           "solutionPath": "programmers/python/120820_나이_출력.py",
           "lastSubmissionId": "programmers:120820:python3:1oyefpg",
-          "lastSyncedAt": "2026-05-27T12:30:50.717Z"
+          "lastSyncedAt": "2026-05-27T12:30:50.717Z",
+          "firstAcceptedDate": "2026-05-27",
+          "lastAcceptedDate": "2026-05-27"
         }
-      }
+      },
+      "firstAcceptedDate": "2026-05-27",
+      "lastAcceptedDate": "2026-05-27"
     },
     {
       "problemId": "120830",
@@ -34,14 +40,32 @@
         "python3": {
           "solutionPath": "programmers/python/120830_양꼬치.py",
           "lastSubmissionId": "programmers:120830:python3:0hlez96",
-          "lastSyncedAt": "2026-05-29T07:59:39.435Z"
+          "lastSyncedAt": "2026-05-29T07:59:39.435Z",
+          "firstAcceptedDate": "2026-05-29",
+          "lastAcceptedDate": "2026-05-29"
         },
         "swift": {
           "solutionPath": "programmers/swift/120830_양꼬치.swift",
           "lastSubmissionId": "programmers:120830:swift:1wapswg",
-          "lastSyncedAt": "2026-05-29T08:00:59.283Z"
+          "lastSyncedAt": "2026-05-29T08:00:59.283Z",
+          "firstAcceptedDate": "2026-05-29",
+          "lastAcceptedDate": "2026-05-29"
         }
+      },
+      "firstAcceptedDate": "2026-05-29",
+      "lastAcceptedDate": "2026-05-29"
+    }
+  ],
+  "activity": {
+    "days": {
+      "2026-05-27": {
+        "acceptedCount": 2,
+        "newProblemCount": 1
+      },
+      "2026-05-29": {
+        "acceptedCount": 2,
+        "newProblemCount": 1
       }
     }
-  ]
+  }
 }
