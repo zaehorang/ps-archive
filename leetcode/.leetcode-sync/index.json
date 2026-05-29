@@ -42,6 +42,22 @@
           "lastSyncedAt": "2026-05-27T11:12:22.105Z"
         }
       }
+    },
+    {
+      "problemId": "80",
+      "frontendId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "lastSyncedAt": "2026-05-29T05:23:13.970Z",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0080_remove_duplicates_from_sorted_array_ii.swift",
+          "lastSubmissionId": "2016081547",
+          "lastSyncedAt": "2026-05-29T05:23:13.970Z"
+        }
+      }
     }
   ]
 }
