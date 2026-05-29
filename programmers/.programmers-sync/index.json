@@ -2,6 +2,22 @@
   "version": 1,
   "problems": [
     {
+      "problemId": "120807",
+      "frontendId": "120807",
+      "title": "숫자 비교하기",
+      "titleSlug": "120807_숫자_비교하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120807",
+      "lastSyncedAt": "2026-05-29T09:18:02.043Z",
+      "languages": {
+        "swift": {
+          "solutionPath": "programmers/swift/120807_숫자_비교하기.swift",
+          "lastSubmissionId": "programmers:120807:swift:0krxzlf",
+          "lastSyncedAt": "2026-05-29T09:18:02.043Z"
+        }
+      }
+    },
+    {
       "problemId": "120820",
       "frontendId": "120820",
       "title": "나이 출력",
@@ -55,17 +71,5 @@
       "firstAcceptedDate": "2026-05-29",
       "lastAcceptedDate": "2026-05-29"
     }
-  ],
-  "activity": {
-    "days": {
-      "2026-05-27": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-05-29": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      }
-    }
-  }
+  ]
 }
