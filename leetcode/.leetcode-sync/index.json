@@ -89,7 +89,7 @@
       "titleSlug": "majority-element",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/majority-element/",
-      "lastSyncedAt": "2026-06-01T15:02:20.784Z",
+      "lastSyncedAt": "2026-06-01T15:05:26.896Z",
       "firstAcceptedDate": "2026-06-01",
       "lastAcceptedDate": "2026-06-02",
       "languages": {
@@ -102,10 +102,10 @@
         },
         "python3": {
           "solutionPath": "leetcode/python/0169_majority_element.py",
-          "lastSubmissionId": "2019224506",
-          "lastSyncedAt": "2026-06-01T14:58:17.319Z",
+          "lastSubmissionId": "2019230968",
+          "lastSyncedAt": "2026-06-01T15:05:26.896Z",
           "firstAcceptedDate": "2026-06-01",
-          "lastAcceptedDate": "2026-06-01"
+          "lastAcceptedDate": "2026-06-02"
         }
       }
     }
@@ -129,7 +129,7 @@
         "newProblemCount": 1
       },
       "2026-06-02": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 0
       }
     }
