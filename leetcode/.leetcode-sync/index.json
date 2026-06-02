@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "problems": [
     {
       "problemId": "26",
@@ -12,14 +12,14 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0026_remove_duplicates_from_sorted_array.swift",
-          "lastSubmissionId": "2015266604",
+          "lastAcceptedSourceId": "2015266604",
           "lastSyncedAt": "2026-05-28T07:51:24.353Z",
           "firstAcceptedDate": "2026-05-28",
           "lastAcceptedDate": "2026-05-28"
         },
         "python3": {
           "solutionPath": "leetcode/python/0026_remove_duplicates_from_sorted_array.py",
-          "lastSubmissionId": "2015291798",
+          "lastAcceptedSourceId": "2015291798",
           "lastSyncedAt": "2026-05-28T08:25:55.028Z",
           "firstAcceptedDate": "2026-05-28",
           "lastAcceptedDate": "2026-05-28"
@@ -39,14 +39,14 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0027_remove_element.swift",
-          "lastSubmissionId": "2014421295",
+          "lastAcceptedSourceId": "2014421295",
           "lastSyncedAt": "2026-05-27T09:37:23.860Z",
           "firstAcceptedDate": "2026-05-27",
           "lastAcceptedDate": "2026-05-27"
         },
         "python3": {
           "solutionPath": "leetcode/python/0027_remove_element.py",
-          "lastSubmissionId": "2014505130",
+          "lastAcceptedSourceId": "2014505130",
           "lastSyncedAt": "2026-05-27T11:12:22.105Z",
           "firstAcceptedDate": "2026-05-27",
           "lastAcceptedDate": "2026-05-27"
@@ -66,14 +66,14 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0080_remove_duplicates_from_sorted_array_ii.swift",
-          "lastSubmissionId": "2016081547",
+          "lastAcceptedSourceId": "2016081547",
           "lastSyncedAt": "2026-05-29T05:23:13.970Z",
           "firstAcceptedDate": "2026-05-29",
           "lastAcceptedDate": "2026-05-29"
         },
         "python3": {
           "solutionPath": "leetcode/python/0080_remove_duplicates_from_sorted_array_ii.py",
-          "lastSubmissionId": "2016210670",
+          "lastAcceptedSourceId": "2016210670",
           "lastSyncedAt": "2026-05-29T07:53:21.597Z",
           "firstAcceptedDate": "2026-05-29",
           "lastAcceptedDate": "2026-05-29"
@@ -95,14 +95,14 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0169_majority_element.swift",
-          "lastSubmissionId": "2019228117",
+          "lastAcceptedSourceId": "2019228117",
           "lastSyncedAt": "2026-06-01T15:02:20.784Z",
           "firstAcceptedDate": "2026-06-01",
           "lastAcceptedDate": "2026-06-02"
         },
         "python3": {
           "solutionPath": "leetcode/python/0169_majority_element.py",
-          "lastSubmissionId": "2019230968",
+          "lastAcceptedSourceId": "2019230968",
           "lastSyncedAt": "2026-06-01T15:05:26.896Z",
           "firstAcceptedDate": "2026-06-01",
           "lastAcceptedDate": "2026-06-02"
