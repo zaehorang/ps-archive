@@ -8,14 +8,14 @@
       "titleSlug": "two-sum",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/two-sum/",
-      "lastSyncedAt": "2026-06-05T03:50:47.496Z",
+      "lastSyncedAt": "2026-06-05T03:57:38.125Z",
       "firstAcceptedDate": "2026-06-05",
       "lastAcceptedDate": "2026-06-05",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0001_two_sum.swift",
-          "lastAcceptedSourceId": "2022831248",
-          "lastSyncedAt": "2026-06-05T03:50:47.496Z",
+          "lastAcceptedSourceId": "2022835826",
+          "lastSyncedAt": "2026-06-05T03:57:38.125Z",
           "firstAcceptedDate": "2026-06-05",
           "lastAcceptedDate": "2026-06-05"
         }
@@ -153,7 +153,7 @@
         "newProblemCount": 0
       },
       "2026-06-05": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
