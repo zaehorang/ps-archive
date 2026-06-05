@@ -2,6 +2,26 @@
   "version": 2,
   "problems": [
     {
+      "problemId": "1",
+      "frontendId": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "lastSyncedAt": "2026-06-05T03:50:47.496Z",
+      "firstAcceptedDate": "2026-06-05",
+      "lastAcceptedDate": "2026-06-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0001_two_sum.swift",
+          "lastAcceptedSourceId": "2022831248",
+          "lastSyncedAt": "2026-06-05T03:50:47.496Z",
+          "firstAcceptedDate": "2026-06-05",
+          "lastAcceptedDate": "2026-06-05"
+        }
+      }
+    },
+    {
       "problemId": "26",
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
@@ -131,6 +151,10 @@
       "2026-06-02": {
         "acceptedCount": 2,
         "newProblemCount": 0
+      },
+      "2026-06-05": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
