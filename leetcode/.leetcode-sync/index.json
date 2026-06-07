@@ -103,6 +103,26 @@
       "lastAcceptedDate": "2026-05-29"
     },
     {
+      "problemId": "125",
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-palindrome/",
+      "lastSyncedAt": "2026-06-07T06:48:20.131Z",
+      "firstAcceptedDate": "2026-06-07",
+      "lastAcceptedDate": "2026-06-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0125_valid_palindrome.swift",
+          "lastAcceptedSourceId": "2025084705",
+          "lastSyncedAt": "2026-06-07T06:48:20.131Z",
+          "firstAcceptedDate": "2026-06-07",
+          "lastAcceptedDate": "2026-06-07"
+        }
+      }
+    },
+    {
       "problemId": "169",
       "frontendId": "169",
       "title": "Majority Element",
@@ -154,6 +174,10 @@
       },
       "2026-06-05": {
         "acceptedCount": 2,
+        "newProblemCount": 1
+      },
+      "2026-06-07": {
+        "acceptedCount": 1,
         "newProblemCount": 1
       }
     }
