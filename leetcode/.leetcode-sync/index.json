@@ -109,14 +109,14 @@
       "titleSlug": "valid-palindrome",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/valid-palindrome/",
-      "lastSyncedAt": "2026-06-07T06:48:20.131Z",
+      "lastSyncedAt": "2026-06-07T06:55:39.716Z",
       "firstAcceptedDate": "2026-06-07",
       "lastAcceptedDate": "2026-06-07",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0125_valid_palindrome.swift",
-          "lastAcceptedSourceId": "2025084705",
-          "lastSyncedAt": "2026-06-07T06:48:20.131Z",
+          "lastAcceptedSourceId": "2025091075",
+          "lastSyncedAt": "2026-06-07T06:55:39.716Z",
           "firstAcceptedDate": "2026-06-07",
           "lastAcceptedDate": "2026-06-07"
         }
@@ -177,7 +177,7 @@
         "newProblemCount": 1
       },
       "2026-06-07": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
