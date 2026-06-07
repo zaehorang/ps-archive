@@ -123,6 +123,26 @@
       }
     },
     {
+      "problemId": "155",
+      "frontendId": "155",
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "lastSyncedAt": "2026-06-07T07:37:57.654Z",
+      "firstAcceptedDate": "2026-06-07",
+      "lastAcceptedDate": "2026-06-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0155_min_stack.swift",
+          "lastAcceptedSourceId": "2025127004",
+          "lastSyncedAt": "2026-06-07T07:37:57.654Z",
+          "firstAcceptedDate": "2026-06-07",
+          "lastAcceptedDate": "2026-06-07"
+        }
+      }
+    },
+    {
       "problemId": "169",
       "frontendId": "169",
       "title": "Majority Element",
@@ -177,8 +197,8 @@
         "newProblemCount": 1
       },
       "2026-06-07": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
+        "acceptedCount": 3,
+        "newProblemCount": 2
       }
     }
   }
