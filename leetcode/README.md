@@ -10,4 +10,5 @@
 | 125 | Valid Palindrome | Easy | 2026-06-07 | [Swift](swift/0125_valid_palindrome.swift) | - |
 | 155 | Min Stack | Medium | 2026-06-07 | [Swift](swift/0155_min_stack.swift) | - |
 | 169 | Majority Element | Easy | 2026-06-01 | [Swift](swift/0169_majority_element.swift) | [Python](python/0169_majority_element.py) |
+| 206 | Reverse Linked List | Easy | 2026-06-08 | [Swift](swift/0206_reverse_linked_list.swift) | - |
 <!-- LEETCODE_TABLE_END -->

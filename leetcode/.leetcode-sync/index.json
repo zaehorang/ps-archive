@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "problems": [
     {
       "problemId": "1",
@@ -14,10 +14,11 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0001_two_sum.swift",
-          "lastAcceptedSourceId": "2022835826",
           "lastSyncedAt": "2026-06-05T03:57:38.125Z",
           "firstAcceptedDate": "2026-06-05",
-          "lastAcceptedDate": "2026-06-05"
+          "lastAcceptedDate": "2026-06-05",
+          "lastAcceptedSourceId": "2022835826",
+          "solutionRevisionNumber": 1
         }
       }
     },
@@ -32,17 +33,19 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0026_remove_duplicates_from_sorted_array.swift",
-          "lastAcceptedSourceId": "2015266604",
           "lastSyncedAt": "2026-05-28T07:51:24.353Z",
           "firstAcceptedDate": "2026-05-28",
-          "lastAcceptedDate": "2026-05-28"
+          "lastAcceptedDate": "2026-05-28",
+          "lastAcceptedSourceId": "2015266604",
+          "solutionRevisionNumber": 1
         },
         "python3": {
           "solutionPath": "leetcode/python/0026_remove_duplicates_from_sorted_array.py",
-          "lastAcceptedSourceId": "2015291798",
           "lastSyncedAt": "2026-05-28T08:25:55.028Z",
           "firstAcceptedDate": "2026-05-28",
-          "lastAcceptedDate": "2026-05-28"
+          "lastAcceptedDate": "2026-05-28",
+          "lastAcceptedSourceId": "2015291798",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-28",
@@ -59,17 +62,19 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0027_remove_element.swift",
-          "lastAcceptedSourceId": "2014421295",
           "lastSyncedAt": "2026-05-27T09:37:23.860Z",
           "firstAcceptedDate": "2026-05-27",
-          "lastAcceptedDate": "2026-05-27"
+          "lastAcceptedDate": "2026-05-27",
+          "lastAcceptedSourceId": "2014421295",
+          "solutionRevisionNumber": 1
         },
         "python3": {
           "solutionPath": "leetcode/python/0027_remove_element.py",
-          "lastAcceptedSourceId": "2014505130",
           "lastSyncedAt": "2026-05-27T11:12:22.105Z",
           "firstAcceptedDate": "2026-05-27",
-          "lastAcceptedDate": "2026-05-27"
+          "lastAcceptedDate": "2026-05-27",
+          "lastAcceptedSourceId": "2014505130",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-27",
@@ -86,17 +91,19 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0080_remove_duplicates_from_sorted_array_ii.swift",
-          "lastAcceptedSourceId": "2016081547",
           "lastSyncedAt": "2026-05-29T05:23:13.970Z",
           "firstAcceptedDate": "2026-05-29",
-          "lastAcceptedDate": "2026-05-29"
+          "lastAcceptedDate": "2026-05-29",
+          "lastAcceptedSourceId": "2016081547",
+          "solutionRevisionNumber": 1
         },
         "python3": {
           "solutionPath": "leetcode/python/0080_remove_duplicates_from_sorted_array_ii.py",
-          "lastAcceptedSourceId": "2016210670",
           "lastSyncedAt": "2026-05-29T07:53:21.597Z",
           "firstAcceptedDate": "2026-05-29",
-          "lastAcceptedDate": "2026-05-29"
+          "lastAcceptedDate": "2026-05-29",
+          "lastAcceptedSourceId": "2016210670",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-29",
@@ -115,10 +122,11 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0125_valid_palindrome.swift",
-          "lastAcceptedSourceId": "2025091075",
           "lastSyncedAt": "2026-06-07T06:55:39.716Z",
           "firstAcceptedDate": "2026-06-07",
-          "lastAcceptedDate": "2026-06-07"
+          "lastAcceptedDate": "2026-06-07",
+          "lastAcceptedSourceId": "2025091075",
+          "solutionRevisionNumber": 1
         }
       }
     },
@@ -135,10 +143,11 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0155_min_stack.swift",
-          "lastAcceptedSourceId": "2025127004",
           "lastSyncedAt": "2026-06-07T07:37:57.654Z",
           "firstAcceptedDate": "2026-06-07",
-          "lastAcceptedDate": "2026-06-07"
+          "lastAcceptedDate": "2026-06-07",
+          "lastAcceptedSourceId": "2025127004",
+          "solutionRevisionNumber": 1
         }
       }
     },
@@ -155,17 +164,40 @@
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0169_majority_element.swift",
-          "lastAcceptedSourceId": "2019228117",
           "lastSyncedAt": "2026-06-01T15:02:20.784Z",
           "firstAcceptedDate": "2026-06-01",
-          "lastAcceptedDate": "2026-06-02"
+          "lastAcceptedDate": "2026-06-02",
+          "lastAcceptedSourceId": "2019228117",
+          "solutionRevisionNumber": 1
         },
         "python3": {
           "solutionPath": "leetcode/python/0169_majority_element.py",
-          "lastAcceptedSourceId": "2019230968",
           "lastSyncedAt": "2026-06-01T15:05:26.896Z",
           "firstAcceptedDate": "2026-06-01",
-          "lastAcceptedDate": "2026-06-02"
+          "lastAcceptedDate": "2026-06-02",
+          "lastAcceptedSourceId": "2019230968",
+          "solutionRevisionNumber": 1
+        }
+      }
+    },
+    {
+      "problemId": "206",
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "lastSyncedAt": "2026-06-08T08:53:24.679Z",
+      "firstAcceptedDate": "2026-06-08",
+      "lastAcceptedDate": "2026-06-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0206_reverse_linked_list.swift",
+          "lastAcceptedSourceId": "2026164569",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-06-08T08:53:24.679Z",
+          "firstAcceptedDate": "2026-06-08",
+          "lastAcceptedDate": "2026-06-08"
         }
       }
     }
@@ -199,6 +231,10 @@
       "2026-06-07": {
         "acceptedCount": 3,
         "newProblemCount": 2
+      },
+      "2026-06-08": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
