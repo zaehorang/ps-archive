@@ -187,15 +187,15 @@
       "titleSlug": "reverse-linked-list",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/reverse-linked-list/",
-      "lastSyncedAt": "2026-06-08T09:02:41.327Z",
+      "lastSyncedAt": "2026-06-08T09:05:18.082Z",
       "firstAcceptedDate": "2026-06-08",
       "lastAcceptedDate": "2026-06-08",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0206_reverse_linked_list.swift",
-          "lastAcceptedSourceId": "2026173157",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-06-08T09:02:41.327Z",
+          "lastAcceptedSourceId": "2026175725",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-06-08T09:05:18.082Z",
           "firstAcceptedDate": "2026-06-08",
           "lastAcceptedDate": "2026-06-08"
         }
@@ -233,7 +233,7 @@
         "newProblemCount": 2
       },
       "2026-06-08": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 1
       }
     }
