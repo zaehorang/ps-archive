@@ -15,17 +15,15 @@
  */
 class Solution {
     func searchBST(_ root: TreeNode?, _ val: Int) -> TreeNode? {
-        var next = root
+        var current = root
 
-        while next != nil {
-            guard let current = next else { return nil }
+        while let node = current {
+            if node.val == val { return current }
 
-            if current.val > val {
-                next = current.left
-            } else if current.val < val {
-                next = current.right
+            if node.val > val {
+                current = node.left
             } else {
-                return next
+                current = node.right
             }
         }
 

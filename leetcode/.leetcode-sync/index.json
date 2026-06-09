@@ -208,15 +208,15 @@
       "titleSlug": "search-in-a-binary-search-tree",
       "difficulty": "Easy",
       "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
-      "lastSyncedAt": "2026-06-09T07:11:43.302Z",
+      "lastSyncedAt": "2026-06-09T07:14:27.674Z",
       "firstAcceptedDate": "2026-06-09",
       "lastAcceptedDate": "2026-06-09",
       "languages": {
         "swift": {
           "solutionPath": "leetcode/swift/0700_search_in_a_binary_search_tree.swift",
-          "lastAcceptedSourceId": "2027200558",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-06-09T07:11:43.302Z",
+          "lastAcceptedSourceId": "2027203358",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-06-09T07:14:27.674Z",
           "firstAcceptedDate": "2026-06-09",
           "lastAcceptedDate": "2026-06-09"
         }
@@ -258,7 +258,7 @@
         "newProblemCount": 1
       },
       "2026-06-09": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
