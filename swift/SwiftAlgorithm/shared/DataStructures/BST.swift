@@ -7,6 +7,19 @@
 
 import Foundation
 
+// Binary Search Tree
+//
+// 주요 연산의 시간복잡도는 트리의 높이 h에 비례한다.
+// 균형 잡힌 트리라면 h = log n 이므로 평균 O(log n),
+// 한쪽으로 치우친 트리라면 h = n 이므로 최악 O(n)이 된다.
+//
+// insert / contains / findMin / findMax / remove: O(h)
+// - 평균: O(log n)
+// - 최악: O(n)
+//
+// inorder / preorder / postorder: O(n)
+// - 모든 노드를 한 번씩 방문하기 때문
+
 final class TreeNode {
     var value: Int
     var left: TreeNode?
