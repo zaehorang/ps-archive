@@ -12,4 +12,5 @@
 | 169 | Majority Element | Easy | 2026-06-01 | [Swift](swift/0169_majority_element.swift) | [Python](python/0169_majority_element.py) |
 | 206 | Reverse Linked List | Easy | 2026-06-08 | [Swift](swift/0206_reverse_linked_list.swift) | - |
 | 700 | Search in a Binary Search Tree | Easy | 2026-06-09 | [Swift](swift/0700_search_in_a_binary_search_tree.swift) | - |
+| 701 | Insert into a Binary Search Tree | Medium | 2026-06-09 | [Swift](swift/0701_insert_into_a_binary_search_tree.swift) | - |
 <!-- LEETCODE_TABLE_END -->

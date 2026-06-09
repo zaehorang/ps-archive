@@ -221,6 +221,27 @@
           "lastAcceptedDate": "2026-06-09"
         }
       }
+    },
+    {
+      "problemId": "784",
+      "frontendId": "701",
+      "title": "Insert into a Binary Search Tree",
+      "titleSlug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "lastSyncedAt": "2026-06-09T07:44:49.506Z",
+      "firstAcceptedDate": "2026-06-09",
+      "lastAcceptedDate": "2026-06-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "leetcode/swift/0701_insert_into_a_binary_search_tree.swift",
+          "lastAcceptedSourceId": "2027231703",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-06-09T07:44:49.506Z",
+          "firstAcceptedDate": "2026-06-09",
+          "lastAcceptedDate": "2026-06-09"
+        }
+      }
     }
   ],
   "activity": {
@@ -258,8 +279,8 @@
         "newProblemCount": 1
       },
       "2026-06-09": {
-        "acceptedCount": 3,
-        "newProblemCount": 1
+        "acceptedCount": 4,
+        "newProblemCount": 2
       }
     }
   }
