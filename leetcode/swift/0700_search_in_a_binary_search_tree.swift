@@ -15,18 +15,14 @@
  */
 class Solution {
     func searchBST(_ root: TreeNode?, _ val: Int) -> TreeNode? {
-        var current = root
+        // 재귀 풀이
+        guard let node = root else { return nil }
+        if node.val == val { return root }
 
-        while let node = current {
-            if node.val == val { return current }
-
-            if node.val > val {
-                current = node.left
-            } else {
-                current = node.right
-            }
+        if node.val > val {
+            return searchBST(node.left, val)
+        } else {
+            return searchBST(node.right, val)
         }
-
-        return nil
     }
 }
