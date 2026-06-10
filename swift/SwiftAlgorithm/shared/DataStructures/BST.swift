@@ -272,3 +272,26 @@ final class BinarySearchTree {
         result.append(node.value)
     }
 }
+
+extension BinarySearchTree {
+    func isValidBST() -> Bool {
+        isValidBST(root, lower: nil, upper: nil)
+    }
+
+    private func isValidBST(_ node: TreeNode?, lower: Int?, upper: Int?) -> Bool {
+        guard let node else {
+            return true
+        }
+
+        if let lower, node.value <= lower {
+            return false
+        }
+
+        if let upper, node.value >= upper {
+            return false
+        }
+
+        return isValidBST(node.left, lower: lower, upper: node.value)
+            && isValidBST(node.right, lower: node.value, upper: upper)
+    }
+}
