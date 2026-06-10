@@ -62,3 +62,28 @@ struct Stack<Element> {
         elements.removeAll()
     }
 }
+
+final class MinStack {
+    private var stack: [(value: Int, minValue: Int)] = []
+
+    func push(_ value: Int) {
+        let currentMin = stack.isEmpty
+            ? value
+            : min(value, stack.last!.minValue)
+
+        stack.append((value, currentMin))
+    }
+
+    @discardableResult
+    func pop() -> (value: Int, minValue: Int)? {
+        stack.popLast()
+    }
+
+    func top() -> Int {
+        stack.last!.value
+    }
+
+    func getMin() -> Int {
+        stack.last!.minValue
+    }
+}
