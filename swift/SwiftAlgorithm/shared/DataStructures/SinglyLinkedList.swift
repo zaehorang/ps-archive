@@ -154,7 +154,7 @@ struct SinglyLinkedList<Element> {
         count = 0
     }
     
-    mutating func reveres() {
+    mutating func reverse() {
         var prev: Node? = nil
         var current = head
         
@@ -175,6 +175,182 @@ struct SinglyLinkedList<Element> {
 }
 
 extension SinglyLinkedList where Element: Equatable {
+    // 특정 값이 리스트에 있는지 확인한다.
+    // Time: O(n)
+    func contains(_ value: Element) -> Bool {
+        var current = head
+        
+        while let node = current {
+            if node.value == value {
+                return true
+            }
+            
+            current = node.next
+        }
+        
+        return false
+    }
+}
+
+// MARK: - Simple Singly Linked List with head only
+
+// tail 없이 head만 저장하는 단순한 Singly Linked List
+//
+// 구현은 더 단순하지만 마지막 노드에 바로 접근할 수 없으므로
+// last와 append는 head부터 끝까지 순회해야 한다.
+struct SimpleSinglyLinkedList<Element> {
+    final class Node {
+        var value: Element
+        var next: Node?
+        
+        init(_ value: Element) {
+            self.value = value
+        }
+    }
+    
+    private var head: Node?
+    private(set) var count: Int = 0
+    
+    // 리스트가 비어 있는지 확인한다.
+    // Time: O(1)
+    var isEmpty: Bool {
+        count == 0
+    }
+    
+    // 첫 번째 값을 제거하지 않고 확인한다.
+    // Time: O(1)
+    func first() -> Element? {
+        head?.value
+    }
+    
+    // 마지막 값을 제거하지 않고 확인한다.
+    // head만 가지고 있으므로 마지막 노드까지 순회해야 한다.
+    // Time: O(n)
+    func last() -> Element? {
+        var current = head
+        
+        while let next = current?.next {
+            current = next
+        }
+        
+        return current?.value
+    }
+    
+    // 리스트의 앞에 값을 추가한다.
+    // Time: O(1)
+    mutating func prepend(_ value: Element) {
+        let newNode = Node(value)
+        newNode.next = head
+        head = newNode
+        count += 1
+    }
+    
+    // 리스트의 뒤에 값을 추가한다.
+    // head만 가지고 있으므로 마지막 노드까지 순회해야 한다.
+    // Time: O(n)
+    mutating func append(_ value: Element) {
+        let newNode = Node(value)
+        
+        guard let head else {
+            self.head = newNode
+            count += 1
+            return
+        }
+        
+        var current = head
+        
+        while let next = current.next {
+            current = next
+        }
+        
+        current.next = newNode
+        count += 1
+    }
+    
+    // 리스트의 첫 번째 값을 제거하고 반환한다.
+    // Time: O(1)
+    @discardableResult
+    mutating func removeFirst() -> Element? {
+        guard let currentHead = head else {
+            return nil
+        }
+        
+        head = currentHead.next
+        count -= 1
+        
+        return currentHead.value
+    }
+    
+    // 리스트의 마지막 값을 제거하고 반환한다.
+    // 마지막 직전 노드를 찾기 위해 head부터 순회해야 한다.
+    // Time: O(n)
+    @discardableResult
+    mutating func removeLast() -> Element? {
+        guard let head else {
+            return nil
+        }
+        
+        if head.next == nil {
+            let value = head.value
+            self.head = nil
+            count = 0
+            return value
+        }
+        
+        var current = head
+        
+        while current.next?.next != nil {
+            current = current.next!
+        }
+        
+        let value = current.next?.value
+        current.next = nil
+        count -= 1
+        
+        return value
+    }
+    
+    // 리스트의 모든 값을 배열로 변환한다.
+    // Time: O(n)
+    func toArray() -> [Element] {
+        var result: [Element] = []
+        var current = head
+        
+        while let node = current {
+            result.append(node.value)
+            current = node.next
+        }
+        
+        return result
+    }
+    
+    // 리스트의 모든 값을 제거한다.
+    // Time: O(1)
+    mutating func removeAll() {
+        head = nil
+        count = 0
+    }
+    
+    // 리스트의 순서를 뒤집는다.
+    // Time: O(n)
+    mutating func reverse() {
+        var prev: Node? = nil
+        var current = head
+        
+        while let node = current {
+            let next = node.next
+            
+            node.next = prev
+            
+            prev = node
+            current = next
+        }
+        
+        head = prev
+    }
+}
+
+extension SimpleSinglyLinkedList where Element: Equatable {
     // 특정 값이 리스트에 있는지 확인한다.
     // Time: O(n)
     func contains(_ value: Element) -> Bool {
