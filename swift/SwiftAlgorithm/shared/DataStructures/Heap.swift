@@ -7,13 +7,14 @@
 
 import Foundation
 
-struct Heap<T: Comparable> {
+struct Heap<T> {
     private var elements: [T] = [] // 0번은 패딩용
     private let areSorted: (T, T) -> Bool
     
     var isEmpty: Bool { elements.count <= 1 }
     var count: Int { max(elements.count - 1, 0) }  // 마지막 노드 인덱스랑 같음
     var peek: T? { isEmpty ? nil : elements[1] }
+    var top: T? { peek }
     
     init(areSorted: @escaping (T, T) -> Bool) {
         self.areSorted = areSorted
@@ -24,7 +25,7 @@ struct Heap<T: Comparable> {
         if !array.isEmpty {
             self.elements = [array.first!] // 먼저 더미 자리만 차지
             self.elements.append(contentsOf: array) // 실제 데이터는 1부터
-            makeHeap()
+            buildHeap()
         }
     }
     
@@ -33,7 +34,7 @@ struct Heap<T: Comparable> {
     private func parentIndex(of index: Int) -> Int { index / 2 }
     
     /// O(log n) = O(h)
-    private mutating func heapifyDown(from index: Int, until end: Int) {
+    private mutating func siftDown(from index: Int, until end: Int) {
         var k = index
         
         while leftChildIndex(of: k) <= end { // 리프 노드가 아닐 때까지
@@ -52,7 +53,7 @@ struct Heap<T: Comparable> {
     }
     
     /// O(log n) = O(h)
-    private mutating func heapifyUp(from index: Int) {
+    private mutating func siftUp(from index: Int) {
         var k = index
         while k > 1 {
             let p = parentIndex(of: k)
@@ -63,12 +64,12 @@ struct Heap<T: Comparable> {
     }
     
     /// O(n)
-    private mutating func makeHeap() {
+    private mutating func buildHeap() {
         guard count > 1 else { return }
         
         // 마지막 리프 노드의 부모부터 확인하면 된다.
         for i in stride(from: count / 2, through: 1, by: -1) {
-            heapifyDown(from: i, until: count)
+            siftDown(from: i, until: count)
         }
     }
     
@@ -78,7 +79,11 @@ struct Heap<T: Comparable> {
             elements.append(value) // index 0 더미 자리 확보
         }
         elements.append(value)
-        heapifyUp(from: count)
+        siftUp(from: count)
+    }
+    
+    mutating func push(_ value: T) {
+        insert(value)
     }
     
     /// O(log n) = O(h)
@@ -88,12 +93,16 @@ struct Heap<T: Comparable> {
         
         elements.swapAt(1, count)
         let popped = elements.removeLast()
-        heapifyDown(from: 1, until: count)
+        siftDown(from: 1, until: count)
         
         return popped
     }
     
-    /// O(nlog n): 루트 노드와 마지막 노드를 자리바꿈하고 heapify하는데 필요한 시간
+    mutating func pop() -> T? {
+        popTop()
+    }
+    
+    /// O(nlog n): 루트 노드와 마지막 노드를 자리바꿈하고 sift down 하는데 필요한 시간
     func heapSorted() -> [T] {
         var copy = self
         var out: [T] = []
@@ -160,17 +169,20 @@ extension Heap where T == Int {
 }
 
 // MARK: - 간단 버전
-struct EashHeap<T: Comparable> {
+struct EasyHeap<T> {
     private var heap: [T] = []
     private var size = 0
     
     let areSorted: (T, T) -> Bool
     
+    var isEmpty: Bool { size == 0 }
+    var count: Int { size }
+    
     init(areSorted: @escaping (T, T) -> Bool) {
         self.areSorted = areSorted
     }
     
-    func top() -> T? { size >= 1 ? heap[0] : nil }
+    func top() -> T? { size >= 1 ? heap[1] : nil }
     
     mutating func push(_ value: T) {
         if heap.isEmpty { // 0번 인덱스 미리 채우기
@@ -193,7 +205,10 @@ struct EashHeap<T: Comparable> {
         }
     }
     
-    mutating func pop() {
+    mutating func pop() -> T? {
+        guard !isEmpty else { return nil }
+        
+        let top = heap[1]
         heap[1] = heap[size]
         heap.removeLast()
         size -= 1
@@ -219,10 +234,14 @@ struct EashHeap<T: Comparable> {
             
             index = targetChildIndex
         }
+        
+        return top
     }
 }
 
-extension EashHeap where T == Int {
+typealias EashHeap<T> = EasyHeap<T>
+
+extension EasyHeap where T == Int {
     mutating func testMin(){
         push(10)
         push(2)
@@ -230,10 +249,10 @@ extension EashHeap where T == Int {
         push(9)
         
         print(heap) // [10, 2, 9, 5, 10]
-        print("테스트 결과:", heap == [10, 2, 5, 10, 9])
+        print("테스트 결과:", heap == [10, 2, 9, 5, 10])
         
-        pop() // pop: 2
-        pop() // pop: 5
+        _ = pop() // pop: 2
+        _ = pop() // pop: 5
         print(heap) // [10, 9, 10]
         print("테스트 결과:", heap == [10, 9, 10])
         
@@ -242,7 +261,7 @@ extension EashHeap where T == Int {
         print(heap) // [10, 5, 10, 9, 15]
         print("테스트 결과:", heap == [10, 5, 10, 9, 15])
         
-        pop() // pop: 5
+        _ = pop() // pop: 5
         print(heap) // [10, 9, 10, 15]
         print("테스트 결과:", heap == [10, 9, 10, 15])
     }
