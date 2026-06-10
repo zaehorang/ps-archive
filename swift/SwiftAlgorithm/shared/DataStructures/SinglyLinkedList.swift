@@ -13,7 +13,7 @@ import Foundation
 // 배열과 달리 중간 삽입/삭제 시 요소들을 한 칸씩 밀 필요는 없지만,
 // 특정 위치에 접근하려면 head부터 순차적으로 이동해야 한다.
 struct SinglyLinkedList<Element> {
-    private final class Node {
+    final class Node {
         var value: Element
         var next: Node?
         
@@ -153,6 +153,25 @@ struct SinglyLinkedList<Element> {
         tail = nil
         count = 0
     }
+    
+    mutating func reveres() {
+        var prev: Node? = nil
+        var current = head
+        
+        tail = head
+        
+        while let node = current {
+            let next = node.next
+            
+            node.next = prev
+            
+            prev = node
+            current = next
+        }
+        
+        head = prev
+    }
+    
 }
 
 extension SinglyLinkedList where Element: Equatable {
