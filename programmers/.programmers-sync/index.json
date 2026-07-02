@@ -2,6 +2,27 @@
   "version": 3,
   "problems": [
     {
+      "problemId": "1844",
+      "frontendId": "1844",
+      "title": "게임 맵 최단거리",
+      "titleSlug": "1844_게임_맵_최단거리",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=python3",
+      "lastSyncedAt": "2026-07-02T07:04:03.750Z",
+      "firstAcceptedDate": "2026-07-02",
+      "lastAcceptedDate": "2026-07-02",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/1844_게임_맵_최단거리.py",
+          "lastAcceptedSourceId": "programmers:1844:python3:1s9kdom",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-07-02T07:04:03.750Z",
+          "firstAcceptedDate": "2026-07-02",
+          "lastAcceptedDate": "2026-07-02"
+        }
+      }
+    },
+    {
       "problemId": "43165",
       "frontendId": "43165",
       "title": "타겟 넘버",
@@ -113,8 +134,8 @@
         "newProblemCount": 2
       },
       "2026-07-02": {
-        "acceptedCount": 3,
-        "newProblemCount": 1
+        "acceptedCount": 4,
+        "newProblemCount": 2
       }
     }
   }
