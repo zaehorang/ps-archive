@@ -1,18 +1,15 @@
 def solution(numbers, target):
     count = len(numbers)
-    answer = 0
     
     def recursion(index, current):
-        nonlocal answer
-        
         if index >= count:
             if current == target:
-                answer += 1
-            return
+                return 1
+            return 0
         
-        recursion(index + 1, current + numbers[index])
-        recursion(index + 1, current - numbers[index])
-    
-    recursion(0, 0)
-    
-    return answer
+        plus = recursion(index + 1, current + numbers[index])
+        minus = recursion(index + 1, current - numbers[index])
+        
+        return plus + minus
+        
+    return recursion(0, 0)
