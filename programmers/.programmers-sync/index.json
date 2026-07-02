@@ -1,6 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "problems": [
+    {
+      "problemId": "43165",
+      "frontendId": "43165",
+      "title": "타겟 넘버",
+      "titleSlug": "43165_타겟_넘버",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=python3",
+      "lastSyncedAt": "2026-07-02T06:18:11.635Z",
+      "firstAcceptedDate": "2026-07-02",
+      "lastAcceptedDate": "2026-07-02",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/43165_타겟_넘버.py",
+          "lastAcceptedSourceId": "programmers:43165:python3:0xy7s5f",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-07-02T06:18:11.635Z",
+          "firstAcceptedDate": "2026-07-02",
+          "lastAcceptedDate": "2026-07-02"
+        }
+      }
+    },
     {
       "problemId": "120807",
       "frontendId": "120807",
@@ -12,10 +33,11 @@
       "languages": {
         "swift": {
           "solutionPath": "programmers/swift/120807_숫자_비교하기.swift",
-          "lastAcceptedSourceId": "programmers:120807:swift:0krxzlf",
           "lastSyncedAt": "2026-05-29T09:18:02.043Z",
           "firstAcceptedDate": "2026-05-29",
-          "lastAcceptedDate": "2026-05-29"
+          "lastAcceptedDate": "2026-05-29",
+          "lastAcceptedSourceId": "programmers:120807:swift:0krxzlf",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-29",
@@ -32,17 +54,19 @@
       "languages": {
         "swift": {
           "solutionPath": "programmers/swift/120820_나이_출력.swift",
-          "lastAcceptedSourceId": "programmers:120820:swift:0tw9gva",
           "lastSyncedAt": "2026-05-27T12:26:22.184Z",
           "firstAcceptedDate": "2026-05-27",
-          "lastAcceptedDate": "2026-05-27"
+          "lastAcceptedDate": "2026-05-27",
+          "lastAcceptedSourceId": "programmers:120820:swift:0tw9gva",
+          "solutionRevisionNumber": 1
         },
         "python3": {
           "solutionPath": "programmers/python/120820_나이_출력.py",
-          "lastAcceptedSourceId": "programmers:120820:python3:1oyefpg",
           "lastSyncedAt": "2026-05-27T12:30:50.717Z",
           "firstAcceptedDate": "2026-05-27",
-          "lastAcceptedDate": "2026-05-27"
+          "lastAcceptedDate": "2026-05-27",
+          "lastAcceptedSourceId": "programmers:120820:python3:1oyefpg",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-27",
@@ -59,17 +83,19 @@
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/120830_양꼬치.py",
-          "lastAcceptedSourceId": "programmers:120830:python3:0hlez96",
           "lastSyncedAt": "2026-05-29T07:59:39.435Z",
           "firstAcceptedDate": "2026-05-29",
-          "lastAcceptedDate": "2026-05-29"
+          "lastAcceptedDate": "2026-05-29",
+          "lastAcceptedSourceId": "programmers:120830:python3:0hlez96",
+          "solutionRevisionNumber": 1
         },
         "swift": {
           "solutionPath": "programmers/swift/120830_양꼬치.swift",
-          "lastAcceptedSourceId": "programmers:120830:swift:1wapswg",
           "lastSyncedAt": "2026-05-29T08:00:59.283Z",
           "firstAcceptedDate": "2026-05-29",
-          "lastAcceptedDate": "2026-05-29"
+          "lastAcceptedDate": "2026-05-29",
+          "lastAcceptedSourceId": "programmers:120830:swift:1wapswg",
+          "solutionRevisionNumber": 1
         }
       },
       "firstAcceptedDate": "2026-05-29",
@@ -85,6 +111,10 @@
       "2026-05-29": {
         "acceptedCount": 3,
         "newProblemCount": 2
+      },
+      "2026-07-02": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
