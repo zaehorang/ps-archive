@@ -1,15 +1,12 @@
 def solution(numbers, target):
-    count = len(numbers)
+    n = len(numbers)
     
-    def recursion(index, current):
-        if index >= count:
-            if current == target:
-                return 1
-            return 0
+    def dfs(index, total):
+        if index == n:
+            return 1 if total == target else 0
         
-        plus = recursion(index + 1, current + numbers[index])
-        minus = recursion(index + 1, current - numbers[index])
+        plus = dfs(index + 1, total + numbers[index])
+        minus = dfs(index + 1, total - numbers[index])
         
         return plus + minus
-        
-    return recursion(0, 0)
+    return dfs(0, 0)

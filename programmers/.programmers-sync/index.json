@@ -8,15 +8,15 @@
       "titleSlug": "43165_타겟_넘버",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=python3",
-      "lastSyncedAt": "2026-07-02T06:20:04.716Z",
+      "lastSyncedAt": "2026-07-02T06:23:38.890Z",
       "firstAcceptedDate": "2026-07-02",
       "lastAcceptedDate": "2026-07-02",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/43165_타겟_넘버.py",
-          "lastAcceptedSourceId": "programmers:43165:python3:1a481wv",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-07-02T06:20:04.716Z",
+          "lastAcceptedSourceId": "programmers:43165:python3:00wpxzd",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-07-02T06:23:38.890Z",
           "firstAcceptedDate": "2026-07-02",
           "lastAcceptedDate": "2026-07-02"
         }
@@ -113,7 +113,7 @@
         "newProblemCount": 2
       },
       "2026-07-02": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 1
       }
     }
