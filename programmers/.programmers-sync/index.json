@@ -29,15 +29,15 @@
       "titleSlug": "12978_배달",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12978",
-      "lastSyncedAt": "2026-07-06T11:31:25.890Z",
+      "lastSyncedAt": "2026-07-06T11:33:17.677Z",
       "firstAcceptedDate": "2026-07-06",
       "lastAcceptedDate": "2026-07-06",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12978_배달.py",
-          "lastAcceptedSourceId": "programmers:12978:python3:0ah26sd",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-07-06T11:31:25.890Z",
+          "lastAcceptedSourceId": "programmers:12978:python3:09ep4pb",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-07-06T11:33:17.677Z",
           "firstAcceptedDate": "2026-07-06",
           "lastAcceptedDate": "2026-07-06"
         }
@@ -159,7 +159,7 @@
         "newProblemCount": 2
       },
       "2026-07-06": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
