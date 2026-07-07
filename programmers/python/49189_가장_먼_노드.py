@@ -1,5 +1,8 @@
 from collections import deque
 
+# BFS는 “이동 횟수”가 최단거리일 때 쓰고, 
+# Dijkstra는 “이동 비용의 합”이 최단거리일 때 쓰는 알고리즘이야.
+
 def solution(n, edge):
     
     # 1. make graph
