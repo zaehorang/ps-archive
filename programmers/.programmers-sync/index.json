@@ -71,15 +71,15 @@
       "titleSlug": "49189_가장_먼_노드",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/49189",
-      "lastSyncedAt": "2026-07-07T04:23:29.942Z",
+      "lastSyncedAt": "2026-07-07T04:30:26.083Z",
       "firstAcceptedDate": "2026-07-07",
       "lastAcceptedDate": "2026-07-07",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/49189_가장_먼_노드.py",
-          "lastAcceptedSourceId": "programmers:49189:python3:0bvh86v",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-07-07T04:23:29.942Z",
+          "lastAcceptedSourceId": "programmers:49189:python3:07uwp7q",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-07-07T04:30:26.083Z",
           "firstAcceptedDate": "2026-07-07",
           "lastAcceptedDate": "2026-07-07"
         }
@@ -184,7 +184,7 @@
         "newProblemCount": 1
       },
       "2026-07-07": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 1
       }
     }
