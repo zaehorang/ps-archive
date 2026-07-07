@@ -42,9 +42,4 @@ def solution(n, edge):
     dist = dijkstra(graph, n)[1:]
     target = max(dist)
     
-    answer = 0
-    
-    for k in dist: 
-        if k == target: answer += 1
-    
-    return answer
+    return dist.count(target)
