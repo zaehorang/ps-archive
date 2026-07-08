@@ -242,6 +242,27 @@
           "lastAcceptedDate": "2026-06-09"
         }
       }
+    },
+    {
+      "problemId": "744",
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "titleSlug": "network-delay-time",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/network-delay-time/",
+      "lastSyncedAt": "2026-07-08T08:06:30.395Z",
+      "firstAcceptedDate": "2026-07-08",
+      "lastAcceptedDate": "2026-07-08",
+      "languages": {
+        "python3": {
+          "solutionPath": "leetcode/python/0743_network_delay_time.py",
+          "lastAcceptedSourceId": "2060223332",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-07-08T08:06:30.395Z",
+          "firstAcceptedDate": "2026-07-08",
+          "lastAcceptedDate": "2026-07-08"
+        }
+      }
     }
   ],
   "activity": {
@@ -281,6 +302,10 @@
       "2026-06-09": {
         "acceptedCount": 4,
         "newProblemCount": 2
+      },
+      "2026-07-08": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
