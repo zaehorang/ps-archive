@@ -50,15 +50,15 @@
       "titleSlug": "42626_더_맵게",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=python3",
-      "lastSyncedAt": "2026-08-04T03:59:46.636Z",
+      "lastSyncedAt": "2026-08-04T04:05:19.649Z",
       "firstAcceptedDate": "2026-08-04",
       "lastAcceptedDate": "2026-08-04",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/42626_더_맵게.py",
-          "lastAcceptedSourceId": "programmers:42626:python3:1tu4eo0",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-04T03:59:46.636Z",
+          "lastAcceptedSourceId": "programmers:42626:python3:1g9okjp",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-04T04:05:19.649Z",
           "firstAcceptedDate": "2026-08-04",
           "lastAcceptedDate": "2026-08-04"
         }
@@ -209,7 +209,7 @@
         "newProblemCount": 1
       },
       "2026-08-04": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }

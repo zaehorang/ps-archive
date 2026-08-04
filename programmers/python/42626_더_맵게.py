@@ -1,38 +1,32 @@
 import heapq
 
-def make_new_Scovile(min1, min2):
-    return min1 + (min2 * 2)
 
 def solution(scoville, K):
-    '''
-        n: 2 ~ 1.000.000
-        k: 0이상 --> 새롭운 값 계산이 최대를 넘을 일 x
-    
-        1. 매번 min1, min2를 갖고 스코빌 지수 계산
-            - min1이 k 이상이 되면 끝.
-            --> 반복되는 min calculate --> min Heap structure
-        2. 추가
-        3. 반복
-        
-        모두 K 이상으로 만들 수 없는 경우: -1
-            - 다 섞어서 못섞음.
-            - 처음부터 못섞기? 없음 len >= 2
-    
-    '''
-    heap = scoville
-    heapq.heapify(heap)
-    
-    answer = 0
-    
-    while True:
-        min1 = heapq.heappop(heap)
-        if min1 >= K: break
-        if not heap:
-            return -1
-        min2 = heapq.heappop(heap)
+    """
+    모든 음식의 스코빌 지수를 K 이상으로 만들기 위해
+    필요한 최소 혼합 횟수를 반환한다.
 
-        heapq.heappush(heap, make_new_Scovile(min1, min2))
-        
-        answer += 1
-    
-    return answer
+    더 이상 음식을 섞을 수 없는데 최솟값이 K보다 작다면 -1을 반환한다.
+    """
+
+    # 원본 리스트를 변경하지 않도록 복사
+    heap = scoville[:]
+    heapq.heapify(heap)
+
+    mix_count = 0
+
+    # heap[0]은 현재 가장 작은 스코빌 지수
+    while heap and heap[0] < K:
+        # 음식을 섞으려면 최소 두 개가 필요하다.
+        if len(heap) < 2:
+            return -1
+
+        first = heapq.heappop(heap)
+        second = heapq.heappop(heap)
+
+        new_scoville = first + second * 2
+        heapq.heappush(heap, new_scoville)
+
+        mix_count += 1
+
+    return mix_count
