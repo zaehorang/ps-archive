@@ -184,15 +184,15 @@
       "titleSlug": "120821_배열_뒤집기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120821",
-      "lastSyncedAt": "2026-08-05T14:13:28.207Z",
+      "lastSyncedAt": "2026-08-05T14:14:35.537Z",
       "firstAcceptedDate": "2026-08-05",
       "lastAcceptedDate": "2026-08-05",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/120821_배열_뒤집기.py",
-          "lastAcceptedSourceId": "programmers:120821:python3:0n4jcgg",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-05T14:13:28.207Z",
+          "lastAcceptedSourceId": "programmers:120821:python3:0vp5gfm",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-05T14:14:35.537Z",
           "firstAcceptedDate": "2026-08-05",
           "lastAcceptedDate": "2026-08-05"
         }
@@ -255,7 +255,7 @@
         "newProblemCount": 1
       },
       "2026-08-05": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 2
       }
     }
