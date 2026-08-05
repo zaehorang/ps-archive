@@ -178,6 +178,27 @@
       "lastAcceptedDate": "2026-05-27"
     },
     {
+      "problemId": "120821",
+      "frontendId": "120821",
+      "title": "배열 뒤집기",
+      "titleSlug": "120821_배열_뒤집기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/120821",
+      "lastSyncedAt": "2026-08-05T14:13:28.207Z",
+      "firstAcceptedDate": "2026-08-05",
+      "lastAcceptedDate": "2026-08-05",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/120821_배열_뒤집기.py",
+          "lastAcceptedSourceId": "programmers:120821:python3:0n4jcgg",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-05T14:13:28.207Z",
+          "firstAcceptedDate": "2026-08-05",
+          "lastAcceptedDate": "2026-08-05"
+        }
+      }
+    },
+    {
       "problemId": "120830",
       "frontendId": "120830",
       "title": "양꼬치",
@@ -234,8 +255,8 @@
         "newProblemCount": 1
       },
       "2026-08-05": {
-        "acceptedCount": 1,
-        "newProblemCount": 1
+        "acceptedCount": 2,
+        "newProblemCount": 2
       }
     }
   }
