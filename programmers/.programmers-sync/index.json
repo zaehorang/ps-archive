@@ -65,6 +65,27 @@
       }
     },
     {
+      "problemId": "43105",
+      "frontendId": "43105",
+      "title": "정수 삼각형",
+      "titleSlug": "43105_정수_삼각형",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=python3",
+      "lastSyncedAt": "2026-08-06T11:53:38.172Z",
+      "firstAcceptedDate": "2026-08-06",
+      "lastAcceptedDate": "2026-08-06",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/43105_정수_삼각형.py",
+          "lastAcceptedSourceId": "programmers:43105:python3:0ghgta3",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-06T11:53:38.172Z",
+          "firstAcceptedDate": "2026-08-06",
+          "lastAcceptedDate": "2026-08-06"
+        }
+      }
+    },
+    {
       "problemId": "43165",
       "frontendId": "43165",
       "title": "타겟 넘버",
@@ -257,6 +278,10 @@
       "2026-08-05": {
         "acceptedCount": 3,
         "newProblemCount": 2
+      },
+      "2026-08-06": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
