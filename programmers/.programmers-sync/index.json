@@ -134,15 +134,15 @@
       "titleSlug": "70129_이진_변환_반복하기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/70129",
-      "lastSyncedAt": "2026-08-10T09:29:36.133Z",
+      "lastSyncedAt": "2026-08-10T09:36:04.207Z",
       "firstAcceptedDate": "2026-08-10",
       "lastAcceptedDate": "2026-08-10",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/70129_이진_변환_반복하기.py",
-          "lastAcceptedSourceId": "programmers:70129:python3:1o5ya4b",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-08-10T09:29:36.133Z",
+          "lastAcceptedSourceId": "programmers:70129:python3:1xyb0wu",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-08-10T09:36:04.207Z",
           "firstAcceptedDate": "2026-08-10",
           "lastAcceptedDate": "2026-08-10"
         }
@@ -305,7 +305,7 @@
         "newProblemCount": 1
       },
       "2026-08-10": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 1
       }
     }
