@@ -170,6 +170,27 @@
       }
     },
     {
+      "problemId": "87694",
+      "frontendId": "87694",
+      "title": "아이템 줍기",
+      "titleSlug": "87694_아이템_줍기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/87694",
+      "lastSyncedAt": "2026-08-12T04:46:26.363Z",
+      "firstAcceptedDate": "2026-08-12",
+      "lastAcceptedDate": "2026-08-12",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/87694_아이템_줍기.py",
+          "lastAcceptedSourceId": "programmers:87694:python3:1vo7hwu",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-12T04:46:26.363Z",
+          "firstAcceptedDate": "2026-08-12",
+          "lastAcceptedDate": "2026-08-12"
+        }
+      }
+    },
+    {
       "problemId": "120807",
       "frontendId": "120807",
       "title": "숫자 비교하기",
@@ -330,8 +351,8 @@
         "newProblemCount": 1
       },
       "2026-08-12": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
+        "acceptedCount": 3,
+        "newProblemCount": 2
       }
     }
   }
