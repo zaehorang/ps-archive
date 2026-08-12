@@ -176,15 +176,15 @@
       "titleSlug": "87694_아이템_줍기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/87694",
-      "lastSyncedAt": "2026-08-12T04:46:26.363Z",
+      "lastSyncedAt": "2026-08-12T04:53:34.493Z",
       "firstAcceptedDate": "2026-08-12",
       "lastAcceptedDate": "2026-08-12",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/87694_아이템_줍기.py",
-          "lastAcceptedSourceId": "programmers:87694:python3:1vo7hwu",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-12T04:46:26.363Z",
+          "lastAcceptedSourceId": "programmers:87694:python3:0hf7jte",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-12T04:53:34.493Z",
           "firstAcceptedDate": "2026-08-12",
           "lastAcceptedDate": "2026-08-12"
         }
@@ -351,7 +351,7 @@
         "newProblemCount": 1
       },
       "2026-08-12": {
-        "acceptedCount": 3,
+        "acceptedCount": 4,
         "newProblemCount": 2
       }
     }
