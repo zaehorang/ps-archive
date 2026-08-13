@@ -23,6 +23,27 @@
       }
     },
     {
+      "problemId": "12927",
+      "frontendId": "12927",
+      "title": "야근 지수",
+      "titleSlug": "12927_야근_지수",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12927",
+      "lastSyncedAt": "2026-08-13T00:48:11.596Z",
+      "firstAcceptedDate": "2026-08-13",
+      "lastAcceptedDate": "2026-08-13",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12927_야근_지수.py",
+          "lastAcceptedSourceId": "programmers:12927:python3:14nlzh8",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-13T00:48:11.596Z",
+          "firstAcceptedDate": "2026-08-13",
+          "lastAcceptedDate": "2026-08-13"
+        }
+      }
+    },
+    {
       "problemId": "12978",
       "frontendId": "12978",
       "title": "배달",
@@ -353,6 +374,10 @@
       "2026-08-12": {
         "acceptedCount": 4,
         "newProblemCount": 2
+      },
+      "2026-08-13": {
+        "acceptedCount": 1,
+        "newProblemCount": 1
       }
     }
   }
