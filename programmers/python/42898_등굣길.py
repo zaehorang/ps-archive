@@ -1,42 +1,34 @@
 def solution(m, n, puddles):
-    '''
-    오른쪽, 아래으로만 움직여서 학교가기
-    최단 경로 개수 나누기
-    
-    1 <= m,n <= 100
-    
-    물에 잠긴 지역 0~10개
-    
-    근데 오른쪽, 왼쪽으로 갈 수만 있으면 무조건 최소 아닌가..? 모든 경우의 수..?
-    
-    반대로 무조건 물에 잠긴 경우를 제외..?
-    
-    
-    dp...
-    dp[x, y] = dp[x-1, y] + dp[x, y-1]
-    
-    '''
-    
-    dp = [[1] * m for _ in range(n)]
-    
-    # 웅덩이
-    for x, y in puddles:
-        dp[y-1][x-1] = 0
-    
+    MOD = 1_000_000_007
+
+    # dp[y][x] = (x, y) 위치까지 오는 경로의 수
+    dp = [[0] * m for _ in range(n)]
+
+    # 웅덩이 좌표를 빠르게 확인하기 위해 set으로 변환
+    puddles = {(x - 1, y - 1) for x, y in puddles}
+
+    # 시작점
+    dp[0][0] = 1
+
     for y in range(n):
         for x in range(m):
-            if y == 0 and x == 0: continue
-            if dp[y][x] == 0: continue
-            
-            if y == 0:
-                dp[y][x] = dp[y][x-1]
+            # 웅덩이는 갈 수 없음
+            if (x, y) in puddles:
+                dp[y][x] = 0
                 continue
-            
-            if x == 0:
-                dp[y][x] = dp[y-1][x]
+
+            # 시작점은 이미 1로 설정
+            if x == 0 and y == 0:
                 continue
-            
-            dp[y][x] = dp[y-1][x] + dp[y][x-1]
-            
-    # print(dp)
-    return dp[n-1][m-1] % 1000000007
+
+            # 위에서 오는 경우
+            if y > 0:
+                dp[y][x] += dp[y - 1][x]
+
+            # 왼쪽에서 오는 경우
+            if x > 0:
+                dp[y][x] += dp[y][x - 1]
+
+            dp[y][x] %= MOD
+
+    return dp[n - 1][m - 1]
