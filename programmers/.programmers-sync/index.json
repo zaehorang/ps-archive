@@ -113,15 +113,15 @@
       "titleSlug": "42898_등굣길",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42898",
-      "lastSyncedAt": "2026-08-15T05:26:25.405Z",
+      "lastSyncedAt": "2026-08-15T05:28:53.772Z",
       "firstAcceptedDate": "2026-08-15",
       "lastAcceptedDate": "2026-08-15",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/42898_등굣길.py",
-          "lastAcceptedSourceId": "programmers:42898:python3:1pse7ns",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-08-15T05:26:25.405Z",
+          "lastAcceptedSourceId": "programmers:42898:python3:0kad2m9",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-08-15T05:28:53.772Z",
           "firstAcceptedDate": "2026-08-15",
           "lastAcceptedDate": "2026-08-15"
         }
@@ -401,7 +401,7 @@
         "newProblemCount": 1
       },
       "2026-08-15": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 1
       }
     }
