@@ -107,6 +107,27 @@
       }
     },
     {
+      "problemId": "42898",
+      "frontendId": "42898",
+      "title": "등굣길",
+      "titleSlug": "42898_등굣길",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42898",
+      "lastSyncedAt": "2026-08-15T05:22:55.869Z",
+      "firstAcceptedDate": "2026-08-15",
+      "lastAcceptedDate": "2026-08-15",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/42898_등굣길.py",
+          "lastAcceptedSourceId": "programmers:42898:python3:1qxi3fe",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-15T05:22:55.869Z",
+          "firstAcceptedDate": "2026-08-15",
+          "lastAcceptedDate": "2026-08-15"
+        }
+      }
+    },
+    {
       "problemId": "43105",
       "frontendId": "43105",
       "title": "정수 삼각형",
@@ -377,6 +398,10 @@
       },
       "2026-08-13": {
         "acceptedCount": 2,
+        "newProblemCount": 1
+      },
+      "2026-08-15": {
+        "acceptedCount": 1,
         "newProblemCount": 1
       }
     }
