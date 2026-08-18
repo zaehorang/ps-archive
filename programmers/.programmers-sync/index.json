@@ -65,6 +65,27 @@
       }
     },
     {
+      "problemId": "12979",
+      "frontendId": "12979",
+      "title": "기지국 설치",
+      "titleSlug": "12979_기지국_설치",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12979#",
+      "lastSyncedAt": "2026-08-18T00:53:31.069Z",
+      "firstAcceptedDate": "2026-08-18",
+      "lastAcceptedDate": "2026-08-18",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12979_기지국_설치.py",
+          "lastAcceptedSourceId": "programmers:12979:python3:1fp2a8z",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-18T00:53:31.069Z",
+          "firstAcceptedDate": "2026-08-18",
+          "lastAcceptedDate": "2026-08-18"
+        }
+      }
+    },
+    {
       "problemId": "12987",
       "frontendId": "12987",
       "title": "숫자 게임",
@@ -402,6 +423,10 @@
       },
       "2026-08-15": {
         "acceptedCount": 3,
+        "newProblemCount": 1
+      },
+      "2026-08-18": {
+        "acceptedCount": 1,
         "newProblemCount": 1
       }
     }
