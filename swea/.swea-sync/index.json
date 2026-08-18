@@ -21,13 +21,34 @@
           "lastAcceptedDate": "2026-08-18"
         }
       }
+    },
+    {
+      "problemId": "AV5LrsUaDxcDFAXc",
+      "frontendId": "1859",
+      "title": "백만 장자 프로젝트",
+      "titleSlug": "1859_백만_장자_프로젝트",
+      "difficulty": "-",
+      "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
+      "lastSyncedAt": "2026-08-18T04:59:34.876Z",
+      "firstAcceptedDate": "2026-08-18",
+      "lastAcceptedDate": "2026-08-18",
+      "languages": {
+        "python3": {
+          "solutionPath": "swea/python/1859_백만_장자_프로젝트.py",
+          "lastAcceptedSourceId": "swea:AV5LrsUaDxcDFAXc:python3:0tcemq2",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-18T04:59:34.876Z",
+          "firstAcceptedDate": "2026-08-18",
+          "lastAcceptedDate": "2026-08-18"
+        }
+      }
     }
   ],
   "activity": {
     "days": {
       "2026-08-18": {
-        "acceptedCount": 1,
-        "newProblemCount": 1
+        "acceptedCount": 2,
+        "newProblemCount": 2
       }
     }
   }
