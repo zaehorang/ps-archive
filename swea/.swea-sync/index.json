@@ -44,6 +44,27 @@
       }
     },
     {
+      "problemId": "AV5PoOKKAPIDFAUq",
+      "frontendId": "1949",
+      "title": "[모의 SW 역량테스트] 등산로 조성",
+      "titleSlug": "1949_모의_SW_역량테스트_등산로_조성",
+      "difficulty": "-",
+      "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
+      "lastSyncedAt": "2026-08-18T05:47:42.281Z",
+      "firstAcceptedDate": "2026-08-18",
+      "lastAcceptedDate": "2026-08-18",
+      "languages": {
+        "python3": {
+          "solutionPath": "swea/python/1949_모의_SW_역량테스트_등산로_조성.py",
+          "lastAcceptedSourceId": "swea:AV5PoOKKAPIDFAUq:python3:0x34xc5",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-18T05:47:42.281Z",
+          "firstAcceptedDate": "2026-08-18",
+          "lastAcceptedDate": "2026-08-18"
+        }
+      }
+    },
+    {
       "problemId": "AWQmA4uK8ygDFAXj",
       "frontendId": "4615",
       "title": "재미있는 오셀로 게임",
@@ -68,8 +89,8 @@
   "activity": {
     "days": {
       "2026-08-18": {
-        "acceptedCount": 4,
-        "newProblemCount": 3
+        "acceptedCount": 5,
+        "newProblemCount": 4
       }
     }
   }
