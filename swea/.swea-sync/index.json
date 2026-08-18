@@ -8,15 +8,15 @@
       "titleSlug": "1206_S_W_문제해결_기본_1일차_View",
       "difficulty": "-",
       "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
-      "lastSyncedAt": "2026-08-18T02:08:16.036Z",
+      "lastSyncedAt": "2026-08-18T05:45:15.765Z",
       "firstAcceptedDate": "2026-08-18",
       "lastAcceptedDate": "2026-08-18",
       "languages": {
         "python3": {
           "solutionPath": "swea/python/1206_S_W_문제해결_기본_1일차_View.py",
-          "lastAcceptedSourceId": "swea:AV134DPqAA8CFAYh:python3:0koyfwu",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-18T02:08:16.036Z",
+          "lastAcceptedSourceId": "swea:AV134DPqAA8CFAYh:python3:1m45ptm",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-18T05:45:15.765Z",
           "firstAcceptedDate": "2026-08-18",
           "lastAcceptedDate": "2026-08-18"
         }
@@ -47,7 +47,7 @@
   "activity": {
     "days": {
       "2026-08-18": {
-        "acceptedCount": 2,
+        "acceptedCount": 3,
         "newProblemCount": 2
       }
     }
