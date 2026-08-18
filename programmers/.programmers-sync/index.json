@@ -71,15 +71,15 @@
       "titleSlug": "12979_기지국_설치",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12979#",
-      "lastSyncedAt": "2026-08-18T00:53:31.069Z",
+      "lastSyncedAt": "2026-08-18T01:09:35.526Z",
       "firstAcceptedDate": "2026-08-18",
       "lastAcceptedDate": "2026-08-18",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12979_기지국_설치.py",
-          "lastAcceptedSourceId": "programmers:12979:python3:1fp2a8z",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-18T00:53:31.069Z",
+          "lastAcceptedSourceId": "programmers:12979:python3:0l7azrb",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-18T01:09:35.526Z",
           "firstAcceptedDate": "2026-08-18",
           "lastAcceptedDate": "2026-08-18"
         }
@@ -426,7 +426,7 @@
         "newProblemCount": 1
       },
       "2026-08-18": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
