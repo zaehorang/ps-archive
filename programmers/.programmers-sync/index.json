@@ -92,15 +92,15 @@
       "titleSlug": "12981_영어_끝말잇기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12981",
-      "lastSyncedAt": "2026-08-19T00:04:27.762Z",
+      "lastSyncedAt": "2026-08-19T00:13:05.400Z",
       "firstAcceptedDate": "2026-08-19",
       "lastAcceptedDate": "2026-08-19",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12981_영어_끝말잇기.py",
-          "lastAcceptedSourceId": "programmers:12981:python3:11qth2m",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-19T00:04:27.762Z",
+          "lastAcceptedSourceId": "programmers:12981:python3:0jg7ail",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-19T00:13:05.400Z",
           "firstAcceptedDate": "2026-08-19",
           "lastAcceptedDate": "2026-08-19"
         }
@@ -451,7 +451,7 @@
         "newProblemCount": 1
       },
       "2026-08-19": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
