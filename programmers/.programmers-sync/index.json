@@ -86,6 +86,27 @@
       }
     },
     {
+      "problemId": "12981",
+      "frontendId": "12981",
+      "title": "영어 끝말잇기",
+      "titleSlug": "12981_영어_끝말잇기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12981",
+      "lastSyncedAt": "2026-08-19T00:04:27.762Z",
+      "firstAcceptedDate": "2026-08-19",
+      "lastAcceptedDate": "2026-08-19",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12981_영어_끝말잇기.py",
+          "lastAcceptedSourceId": "programmers:12981:python3:11qth2m",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-19T00:04:27.762Z",
+          "firstAcceptedDate": "2026-08-19",
+          "lastAcceptedDate": "2026-08-19"
+        }
+      }
+    },
+    {
       "problemId": "12987",
       "frontendId": "12987",
       "title": "숫자 게임",
@@ -427,6 +448,10 @@
       },
       "2026-08-18": {
         "acceptedCount": 2,
+        "newProblemCount": 1
+      },
+      "2026-08-19": {
+        "acceptedCount": 1,
         "newProblemCount": 1
       }
     }
