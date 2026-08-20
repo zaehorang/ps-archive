@@ -134,15 +134,15 @@
       "titleSlug": "42583_다리를_지나는_트럭",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=python3",
-      "lastSyncedAt": "2026-08-20T00:25:33.546Z",
+      "lastSyncedAt": "2026-08-20T00:30:50.111Z",
       "firstAcceptedDate": "2026-08-20",
       "lastAcceptedDate": "2026-08-20",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/42583_다리를_지나는_트럭.py",
-          "lastAcceptedSourceId": "programmers:42583:python3:1r4npat",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-20T00:25:33.546Z",
+          "lastAcceptedSourceId": "programmers:42583:python3:1ts4mze",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-20T00:30:50.111Z",
           "firstAcceptedDate": "2026-08-20",
           "lastAcceptedDate": "2026-08-20"
         }
@@ -476,7 +476,7 @@
         "newProblemCount": 1
       },
       "2026-08-20": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
