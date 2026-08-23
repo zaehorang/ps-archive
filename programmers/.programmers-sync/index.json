@@ -113,15 +113,15 @@
       "titleSlug": "12985_예상_대진표",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=python3",
-      "lastSyncedAt": "2026-08-23T02:46:46.964Z",
+      "lastSyncedAt": "2026-08-23T02:49:43.517Z",
       "firstAcceptedDate": "2026-08-23",
       "lastAcceptedDate": "2026-08-23",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12985_예상_대진표.py",
-          "lastAcceptedSourceId": "programmers:12985:python3:0bl4qnd",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-23T02:46:46.964Z",
+          "lastAcceptedSourceId": "programmers:12985:python3:09sm6me",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-23T02:49:43.517Z",
           "firstAcceptedDate": "2026-08-23",
           "lastAcceptedDate": "2026-08-23"
         }
@@ -501,7 +501,7 @@
         "newProblemCount": 1
       },
       "2026-08-23": {
-        "acceptedCount": 1,
+        "acceptedCount": 2,
         "newProblemCount": 1
       }
     }
