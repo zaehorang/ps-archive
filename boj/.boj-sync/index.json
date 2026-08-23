@@ -1,0 +1,4384 @@
+{
+  "version": 4,
+  "problems": [
+    {
+      "problemId": "1002",
+      "frontendId": "1002",
+      "title": "터렛",
+      "titleSlug": "1002_터렛",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1002",
+      "firstAcceptedDate": "2026-02-11",
+      "lastAcceptedDate": "2026-02-11",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1002_터렛.swift",
+          "firstAcceptedDate": "2026-02-11",
+          "lastAcceptedDate": "2026-02-11"
+        }
+      }
+    },
+    {
+      "problemId": "1003",
+      "frontendId": "1003",
+      "title": "피보나치 함수",
+      "titleSlug": "1003_피보나치_함수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1003",
+      "firstAcceptedDate": "2026-02-12",
+      "lastAcceptedDate": "2026-02-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1003_피보나치_함수.swift",
+          "firstAcceptedDate": "2026-02-12",
+          "lastAcceptedDate": "2026-02-12"
+        }
+      }
+    },
+    {
+      "problemId": "1004",
+      "frontendId": "1004",
+      "title": "어린 왕자",
+      "titleSlug": "1004_어린_왕자",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1004",
+      "firstAcceptedDate": "2026-02-13",
+      "lastAcceptedDate": "2026-02-13",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1004_어린_왕자.swift",
+          "firstAcceptedDate": "2026-02-13",
+          "lastAcceptedDate": "2026-02-13"
+        }
+      }
+    },
+    {
+      "problemId": "1009",
+      "frontendId": "1009",
+      "title": "분산처리",
+      "titleSlug": "1009_분산처리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1009",
+      "firstAcceptedDate": "2025-12-12",
+      "lastAcceptedDate": "2025-12-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1009_분산처리.swift",
+          "firstAcceptedDate": "2025-12-12",
+          "lastAcceptedDate": "2025-12-12"
+        }
+      }
+    },
+    {
+      "problemId": "1012",
+      "frontendId": "1012",
+      "title": "유기농 배추",
+      "titleSlug": "1012_유기농_배추",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1012",
+      "firstAcceptedDate": "2024-05-02",
+      "lastAcceptedDate": "2024-05-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1012_유기농_배추.swift",
+          "firstAcceptedDate": "2024-05-02",
+          "lastAcceptedDate": "2024-05-02"
+        }
+      }
+    },
+    {
+      "problemId": "1018",
+      "frontendId": "1018",
+      "title": "체스판 다시 칠하기",
+      "titleSlug": "1018_체스판_다시_칠하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1018",
+      "firstAcceptedDate": "2026-02-24",
+      "lastAcceptedDate": "2026-02-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1018_체스판_다시_칠하기.swift",
+          "firstAcceptedDate": "2026-02-24",
+          "lastAcceptedDate": "2026-02-24"
+        }
+      }
+    },
+    {
+      "problemId": "1021",
+      "frontendId": "1021",
+      "title": "회전하는 큐",
+      "titleSlug": "1021_회전하는_큐",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1021",
+      "firstAcceptedDate": "2024-04-12",
+      "lastAcceptedDate": "2024-04-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1021_회전하는_큐.swift",
+          "firstAcceptedDate": "2024-04-12",
+          "lastAcceptedDate": "2024-04-12"
+        }
+      }
+    },
+    {
+      "problemId": "1025",
+      "frontendId": "1025",
+      "title": "제곱수 찾기",
+      "titleSlug": "1025_제곱수_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1025",
+      "firstAcceptedDate": "2026-03-09",
+      "lastAcceptedDate": "2026-03-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1025_제곱수_찾기.swift",
+          "firstAcceptedDate": "2026-03-09",
+          "lastAcceptedDate": "2026-03-09"
+        }
+      }
+    },
+    {
+      "problemId": "1026",
+      "frontendId": "1026",
+      "title": "보물",
+      "titleSlug": "1026_보물",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1026",
+      "firstAcceptedDate": "2025-03-31",
+      "lastAcceptedDate": "2025-03-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1026_보물.swift",
+          "firstAcceptedDate": "2025-03-31",
+          "lastAcceptedDate": "2025-03-31"
+        }
+      }
+    },
+    {
+      "problemId": "1032",
+      "frontendId": "1032",
+      "title": "명령 프롬프트",
+      "titleSlug": "1032_명령_프롬프트",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1032",
+      "firstAcceptedDate": "2025-12-14",
+      "lastAcceptedDate": "2025-12-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1032_명령_프롬프트.swift",
+          "firstAcceptedDate": "2025-12-14",
+          "lastAcceptedDate": "2025-12-14"
+        }
+      }
+    },
+    {
+      "problemId": "1037",
+      "frontendId": "1037",
+      "title": "약수",
+      "titleSlug": "1037_약수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1037",
+      "firstAcceptedDate": "2025-12-14",
+      "lastAcceptedDate": "2025-12-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1037_약수.swift",
+          "firstAcceptedDate": "2025-12-14",
+          "lastAcceptedDate": "2025-12-14"
+        }
+      }
+    },
+    {
+      "problemId": "1041",
+      "frontendId": "1041",
+      "title": "주사위",
+      "titleSlug": "1041_주사위",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1041",
+      "firstAcceptedDate": "2026-02-21",
+      "lastAcceptedDate": "2026-02-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1041_주사위.swift",
+          "firstAcceptedDate": "2026-02-21",
+          "lastAcceptedDate": "2026-02-21"
+        }
+      }
+    },
+    {
+      "problemId": "1065",
+      "frontendId": "1065",
+      "title": "한수",
+      "titleSlug": "1065_한수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1065",
+      "firstAcceptedDate": "2026-03-20",
+      "lastAcceptedDate": "2026-03-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1065_한수.swift",
+          "firstAcceptedDate": "2026-03-20",
+          "lastAcceptedDate": "2026-03-20"
+        }
+      }
+    },
+    {
+      "problemId": "1074",
+      "frontendId": "1074",
+      "title": "Z",
+      "titleSlug": "1074_Z",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1074",
+      "firstAcceptedDate": "2024-06-04",
+      "lastAcceptedDate": "2024-06-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1074_Z.swift",
+          "firstAcceptedDate": "2024-06-04",
+          "lastAcceptedDate": "2024-06-04"
+        }
+      }
+    },
+    {
+      "problemId": "1075",
+      "frontendId": "1075",
+      "title": "나누기",
+      "titleSlug": "1075_나누기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1075",
+      "firstAcceptedDate": "2025-12-16",
+      "lastAcceptedDate": "2025-12-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1075_나누기.swift",
+          "firstAcceptedDate": "2025-12-16",
+          "lastAcceptedDate": "2025-12-16"
+        }
+      }
+    },
+    {
+      "problemId": "1076",
+      "frontendId": "1076",
+      "title": "저항",
+      "titleSlug": "1076_저항",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1076",
+      "firstAcceptedDate": "2025-12-16",
+      "lastAcceptedDate": "2025-12-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1076_저항.swift",
+          "firstAcceptedDate": "2025-12-16",
+          "lastAcceptedDate": "2025-12-16"
+        }
+      }
+    },
+    {
+      "problemId": "1083",
+      "frontendId": "1083",
+      "title": "소트",
+      "titleSlug": "1083_소트",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1083",
+      "firstAcceptedDate": "2026-03-13",
+      "lastAcceptedDate": "2026-03-13",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1083_소트.swift",
+          "firstAcceptedDate": "2026-03-13",
+          "lastAcceptedDate": "2026-03-13"
+        }
+      }
+    },
+    {
+      "problemId": "1085",
+      "frontendId": "1085",
+      "title": "직사각형에서 탈출",
+      "titleSlug": "1085_직사각형에서_탈출",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1085",
+      "firstAcceptedDate": "2025-12-19",
+      "lastAcceptedDate": "2025-12-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1085_직사각형에서_탈출.swift",
+          "firstAcceptedDate": "2025-12-19",
+          "lastAcceptedDate": "2025-12-19"
+        }
+      }
+    },
+    {
+      "problemId": "1086",
+      "frontendId": "1086",
+      "title": "박성원",
+      "titleSlug": "1086_박성원",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1086",
+      "firstAcceptedDate": "2026-03-25",
+      "lastAcceptedDate": "2026-03-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1086_박성원.swift",
+          "firstAcceptedDate": "2026-03-25",
+          "lastAcceptedDate": "2026-03-25"
+        }
+      }
+    },
+    {
+      "problemId": "1100",
+      "frontendId": "1100",
+      "title": "하얀 칸",
+      "titleSlug": "1100_하얀_칸",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1100",
+      "firstAcceptedDate": "2025-12-20",
+      "lastAcceptedDate": "2025-12-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1100_하얀_칸.swift",
+          "firstAcceptedDate": "2025-12-20",
+          "lastAcceptedDate": "2025-12-20"
+        }
+      }
+    },
+    {
+      "problemId": "1110",
+      "frontendId": "1110",
+      "title": "더하기 사이클",
+      "titleSlug": "1110_더하기_사이클",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1110",
+      "firstAcceptedDate": "2026-03-15",
+      "lastAcceptedDate": "2026-03-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1110_더하기_사이클.swift",
+          "firstAcceptedDate": "2026-03-15",
+          "lastAcceptedDate": "2026-03-15"
+        }
+      }
+    },
+    {
+      "problemId": "1149",
+      "frontendId": "1149",
+      "title": "RGB거리",
+      "titleSlug": "1149_RGB거리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1149",
+      "firstAcceptedDate": "2025-03-20",
+      "lastAcceptedDate": "2025-03-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1149_RGB거리.swift",
+          "firstAcceptedDate": "2025-03-20",
+          "lastAcceptedDate": "2025-03-20"
+        }
+      }
+    },
+    {
+      "problemId": "1152",
+      "frontendId": "1152",
+      "title": "단어의 개수",
+      "titleSlug": "1152_단어의_개수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1152",
+      "firstAcceptedDate": "2025-12-21",
+      "lastAcceptedDate": "2025-12-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1152_단어의_개수.swift",
+          "firstAcceptedDate": "2025-12-21",
+          "lastAcceptedDate": "2025-12-21"
+        }
+      }
+    },
+    {
+      "problemId": "1153",
+      "frontendId": "1153",
+      "title": "네 개의 소수",
+      "titleSlug": "1153_네_개의_소수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1153",
+      "firstAcceptedDate": "2026-02-14",
+      "lastAcceptedDate": "2026-02-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1153_네_개의_소수.swift",
+          "firstAcceptedDate": "2026-02-14",
+          "lastAcceptedDate": "2026-02-14"
+        }
+      }
+    },
+    {
+      "problemId": "1157",
+      "frontendId": "1157",
+      "title": "단어 공부",
+      "titleSlug": "1157_단어_공부",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1157",
+      "firstAcceptedDate": "2026-01-06",
+      "lastAcceptedDate": "2026-01-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1157_단어_공부.swift",
+          "firstAcceptedDate": "2026-01-06",
+          "lastAcceptedDate": "2026-01-06"
+        }
+      }
+    },
+    {
+      "problemId": "1158",
+      "frontendId": "1158",
+      "title": "요세푸스 문제",
+      "titleSlug": "1158_요세푸스_문제",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1158",
+      "firstAcceptedDate": "2024-04-06",
+      "lastAcceptedDate": "2024-04-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1158_요세푸스_문제.swift",
+          "firstAcceptedDate": "2024-04-06",
+          "lastAcceptedDate": "2024-04-06"
+        }
+      }
+    },
+    {
+      "problemId": "1159",
+      "frontendId": "1159",
+      "title": "농구 경기",
+      "titleSlug": "1159_농구_경기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1159",
+      "firstAcceptedDate": "2026-03-27",
+      "lastAcceptedDate": "2026-03-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1159_농구_경기.swift",
+          "firstAcceptedDate": "2026-03-27",
+          "lastAcceptedDate": "2026-03-27"
+        }
+      }
+    },
+    {
+      "problemId": "1181",
+      "frontendId": "1181",
+      "title": "단어 정렬",
+      "titleSlug": "1181_단어_정렬",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1181",
+      "firstAcceptedDate": "2025-12-27",
+      "lastAcceptedDate": "2025-12-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1181_단어_정렬.swift",
+          "firstAcceptedDate": "2025-12-27",
+          "lastAcceptedDate": "2025-12-27"
+        }
+      }
+    },
+    {
+      "problemId": "1182",
+      "frontendId": "1182",
+      "title": "부분수열의 합",
+      "titleSlug": "1182_부분수열의_합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1182",
+      "firstAcceptedDate": "2024-07-02",
+      "lastAcceptedDate": "2024-07-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1182_부분수열의_합.swift",
+          "firstAcceptedDate": "2024-07-02",
+          "lastAcceptedDate": "2024-07-02"
+        }
+      }
+    },
+    {
+      "problemId": "1197",
+      "frontendId": "1197",
+      "title": "최소 스패닝 트리",
+      "titleSlug": "1197_최소_스패닝_트리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1197",
+      "firstAcceptedDate": "2025-12-29",
+      "lastAcceptedDate": "2025-12-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1197_최소_스패닝_트리.swift",
+          "firstAcceptedDate": "2025-12-29",
+          "lastAcceptedDate": "2025-12-29"
+        }
+      }
+    },
+    {
+      "problemId": "1237",
+      "frontendId": "1237",
+      "title": "정ㅋ벅ㅋ",
+      "titleSlug": "1237_정ㅋ벅ㅋ",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1237",
+      "firstAcceptedDate": "2026-02-22",
+      "lastAcceptedDate": "2026-02-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1237_정ㅋ벅ㅋ.swift",
+          "firstAcceptedDate": "2026-02-22",
+          "lastAcceptedDate": "2026-02-22"
+        }
+      }
+    },
+    {
+      "problemId": "1238",
+      "frontendId": "1238",
+      "title": "파티",
+      "titleSlug": "1238_파티",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1238",
+      "firstAcceptedDate": "2026-01-15",
+      "lastAcceptedDate": "2026-01-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1238_파티.swift",
+          "firstAcceptedDate": "2026-01-15",
+          "lastAcceptedDate": "2026-01-15"
+        }
+      }
+    },
+    {
+      "problemId": "1240",
+      "frontendId": "1240",
+      "title": "노드사이의 거리",
+      "titleSlug": "1240_노드사이의_거리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1240",
+      "firstAcceptedDate": "2025-11-04",
+      "lastAcceptedDate": "2025-11-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1240_노드사이의_거리.swift",
+          "firstAcceptedDate": "2025-11-04",
+          "lastAcceptedDate": "2025-11-04"
+        }
+      }
+    },
+    {
+      "problemId": "1259",
+      "frontendId": "1259",
+      "title": "팰린드롬수",
+      "titleSlug": "1259_팰린드롬수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1259",
+      "firstAcceptedDate": "2025-12-27",
+      "lastAcceptedDate": "2025-12-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1259_팰린드롬수.swift",
+          "firstAcceptedDate": "2025-12-27",
+          "lastAcceptedDate": "2025-12-27"
+        }
+      }
+    },
+    {
+      "problemId": "1260",
+      "frontendId": "1260",
+      "title": "DFS와 BFS",
+      "titleSlug": "1260_DFS와_BFS",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1260",
+      "firstAcceptedDate": "2025-10-25",
+      "lastAcceptedDate": "2025-10-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1260_DFS와_BFS.swift",
+          "firstAcceptedDate": "2025-10-25",
+          "lastAcceptedDate": "2025-10-25"
+        }
+      }
+    },
+    {
+      "problemId": "1261",
+      "frontendId": "1261",
+      "title": "알고스팟",
+      "titleSlug": "1261_알고스팟",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1261",
+      "firstAcceptedDate": "2026-01-17",
+      "lastAcceptedDate": "2026-01-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1261_알고스팟.swift",
+          "firstAcceptedDate": "2026-01-17",
+          "lastAcceptedDate": "2026-01-17"
+        }
+      }
+    },
+    {
+      "problemId": "1305",
+      "frontendId": "1305",
+      "title": "광고",
+      "titleSlug": "1305_광고",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1305",
+      "firstAcceptedDate": "2026-01-26",
+      "lastAcceptedDate": "2026-01-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1305_광고.swift",
+          "firstAcceptedDate": "2026-01-26",
+          "lastAcceptedDate": "2026-01-26"
+        }
+      }
+    },
+    {
+      "problemId": "1330",
+      "frontendId": "1330",
+      "title": "두 수 비교하기",
+      "titleSlug": "1330_두_수_비교하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1330",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1330_두_수_비교하기.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "1351",
+      "frontendId": "1351",
+      "title": "무한 수열",
+      "titleSlug": "1351_무한_수열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1351",
+      "firstAcceptedDate": "2026-02-12",
+      "lastAcceptedDate": "2026-02-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1351_무한_수열.swift",
+          "firstAcceptedDate": "2026-02-12",
+          "lastAcceptedDate": "2026-02-12"
+        }
+      }
+    },
+    {
+      "problemId": "1368",
+      "frontendId": "1368",
+      "title": "물대기",
+      "titleSlug": "1368_물대기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1368",
+      "firstAcceptedDate": "2025-12-31",
+      "lastAcceptedDate": "2025-12-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1368_물대기.swift",
+          "firstAcceptedDate": "2025-12-31",
+          "lastAcceptedDate": "2025-12-31"
+        }
+      }
+    },
+    {
+      "problemId": "1406",
+      "frontendId": "1406",
+      "title": "에디터",
+      "titleSlug": "1406_에디터",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1406",
+      "firstAcceptedDate": "2024-04-04",
+      "lastAcceptedDate": "2024-04-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1406_에디터.swift",
+          "firstAcceptedDate": "2024-04-04",
+          "lastAcceptedDate": "2024-04-04"
+        }
+      }
+    },
+    {
+      "problemId": "1463",
+      "frontendId": "1463",
+      "title": "1로 만들기",
+      "titleSlug": "1463_1로_만들기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1463",
+      "firstAcceptedDate": "2025-03-17",
+      "lastAcceptedDate": "2025-03-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1463_1로_만들기.swift",
+          "firstAcceptedDate": "2025-03-17",
+          "lastAcceptedDate": "2025-03-17"
+        }
+      }
+    },
+    {
+      "problemId": "1475",
+      "frontendId": "1475",
+      "title": "방 번호",
+      "titleSlug": "1475_방_번호",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1475",
+      "firstAcceptedDate": "2024-04-02",
+      "lastAcceptedDate": "2024-04-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1475_방_번호.swift",
+          "firstAcceptedDate": "2024-04-02",
+          "lastAcceptedDate": "2024-04-02"
+        }
+      }
+    },
+    {
+      "problemId": "1477",
+      "frontendId": "1477",
+      "title": "휴게소 세우기",
+      "titleSlug": "1477_휴게소_세우기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1477",
+      "firstAcceptedDate": "2025-04-04",
+      "lastAcceptedDate": "2025-04-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1477_휴게소_세우기.swift",
+          "firstAcceptedDate": "2025-04-04",
+          "lastAcceptedDate": "2025-04-04"
+        }
+      }
+    },
+    {
+      "problemId": "1497",
+      "frontendId": "1497",
+      "title": "기타콘서트",
+      "titleSlug": "1497_기타콘서트",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1497",
+      "firstAcceptedDate": "2025-12-22",
+      "lastAcceptedDate": "2025-12-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1497_기타콘서트.swift",
+          "firstAcceptedDate": "2025-12-22",
+          "lastAcceptedDate": "2025-12-22"
+        }
+      }
+    },
+    {
+      "problemId": "1504",
+      "frontendId": "1504",
+      "title": "특정한 최단 경로",
+      "titleSlug": "1504_특정한_최단_경로",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1504",
+      "firstAcceptedDate": "2026-01-16",
+      "lastAcceptedDate": "2026-01-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1504_특정한_최단_경로.swift",
+          "firstAcceptedDate": "2026-01-16",
+          "lastAcceptedDate": "2026-01-16"
+        }
+      }
+    },
+    {
+      "problemId": "1507",
+      "frontendId": "1507",
+      "title": "궁금한 민호",
+      "titleSlug": "1507_궁금한_민호",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1507",
+      "firstAcceptedDate": "2026-01-12",
+      "lastAcceptedDate": "2026-01-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1507_궁금한_민호.swift",
+          "firstAcceptedDate": "2026-01-12",
+          "lastAcceptedDate": "2026-01-12"
+        }
+      }
+    },
+    {
+      "problemId": "1526",
+      "frontendId": "1526",
+      "title": "가장 큰 금민수",
+      "titleSlug": "1526_가장_큰_금민수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1526",
+      "firstAcceptedDate": "2026-03-17",
+      "lastAcceptedDate": "2026-03-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1526_가장_큰_금민수.swift",
+          "firstAcceptedDate": "2026-03-17",
+          "lastAcceptedDate": "2026-03-17"
+        }
+      }
+    },
+    {
+      "problemId": "1541",
+      "frontendId": "1541",
+      "title": "잃어버린 괄호",
+      "titleSlug": "1541_잃어버린_괄호",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1541",
+      "firstAcceptedDate": "2026-02-25",
+      "lastAcceptedDate": "2026-02-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1541_잃어버린_괄호.swift",
+          "firstAcceptedDate": "2026-02-25",
+          "lastAcceptedDate": "2026-02-25"
+        }
+      }
+    },
+    {
+      "problemId": "1543",
+      "frontendId": "1543",
+      "title": "문서 검색",
+      "titleSlug": "1543_문서_검색",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1543",
+      "firstAcceptedDate": "2026-02-02",
+      "lastAcceptedDate": "2026-02-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1543_문서_검색.swift",
+          "firstAcceptedDate": "2026-02-02",
+          "lastAcceptedDate": "2026-02-02"
+        }
+      }
+    },
+    {
+      "problemId": "1546",
+      "frontendId": "1546",
+      "title": "평균",
+      "titleSlug": "1546_평균",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1546",
+      "firstAcceptedDate": "2025-12-22",
+      "lastAcceptedDate": "2025-12-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1546_평균.swift",
+          "firstAcceptedDate": "2025-12-22",
+          "lastAcceptedDate": "2025-12-22"
+        }
+      }
+    },
+    {
+      "problemId": "1629",
+      "frontendId": "1629",
+      "title": "곱셈",
+      "titleSlug": "1629_곱셈",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1629",
+      "firstAcceptedDate": "2024-05-29",
+      "lastAcceptedDate": "2024-05-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1629_곱셈.swift",
+          "firstAcceptedDate": "2024-05-29",
+          "lastAcceptedDate": "2024-05-29"
+        }
+      }
+    },
+    {
+      "problemId": "1644",
+      "frontendId": "1644",
+      "title": "소수의 연속합",
+      "titleSlug": "1644_소수의_연속합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1644",
+      "firstAcceptedDate": "2025-07-10",
+      "lastAcceptedDate": "2025-07-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1644_소수의_연속합.swift",
+          "firstAcceptedDate": "2025-07-10",
+          "lastAcceptedDate": "2025-07-10"
+        }
+      }
+    },
+    {
+      "problemId": "1647",
+      "frontendId": "1647",
+      "title": "도시 분할 계획",
+      "titleSlug": "1647_도시_분할_계획",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1647",
+      "firstAcceptedDate": "2026-01-03",
+      "lastAcceptedDate": "2026-01-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1647_도시_분할_계획.swift",
+          "firstAcceptedDate": "2026-01-03",
+          "lastAcceptedDate": "2026-01-03"
+        }
+      }
+    },
+    {
+      "problemId": "1654",
+      "frontendId": "1654",
+      "title": "랜선 자르기",
+      "titleSlug": "1654_랜선_자르기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1654",
+      "firstAcceptedDate": "2026-04-08",
+      "lastAcceptedDate": "2026-04-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1654_랜선_자르기.swift",
+          "firstAcceptedDate": "2026-04-08",
+          "lastAcceptedDate": "2026-04-08"
+        }
+      }
+    },
+    {
+      "problemId": "1655",
+      "frontendId": "1655",
+      "title": "가운데를 말해요",
+      "titleSlug": "1655_가운데를_말해요",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1655",
+      "firstAcceptedDate": "2025-10-22",
+      "lastAcceptedDate": "2025-10-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1655_가운데를_말해요.swift",
+          "firstAcceptedDate": "2025-10-22",
+          "lastAcceptedDate": "2025-10-22"
+        }
+      }
+    },
+    {
+      "problemId": "1697",
+      "frontendId": "1697",
+      "title": "숨바꼭질",
+      "titleSlug": "1697_숨바꼭질",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1697",
+      "firstAcceptedDate": "2024-04-29",
+      "lastAcceptedDate": "2024-04-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1697_숨바꼭질.swift",
+          "firstAcceptedDate": "2024-04-29",
+          "lastAcceptedDate": "2024-04-29"
+        }
+      }
+    },
+    {
+      "problemId": "1699",
+      "frontendId": "1699",
+      "title": "제곱수의 합",
+      "titleSlug": "1699_제곱수의_합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1699",
+      "firstAcceptedDate": "2026-03-16",
+      "lastAcceptedDate": "2026-03-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1699_제곱수의_합.swift",
+          "firstAcceptedDate": "2026-03-16",
+          "lastAcceptedDate": "2026-03-16"
+        }
+      }
+    },
+    {
+      "problemId": "1715",
+      "frontendId": "1715",
+      "title": "카드 정렬하기",
+      "titleSlug": "1715_카드_정렬하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1715",
+      "firstAcceptedDate": "2025-10-20",
+      "lastAcceptedDate": "2025-10-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1715_카드_정렬하기.swift",
+          "firstAcceptedDate": "2025-10-20",
+          "lastAcceptedDate": "2025-10-20"
+        }
+      }
+    },
+    {
+      "problemId": "1717",
+      "frontendId": "1717",
+      "title": "집합의 표현",
+      "titleSlug": "1717_집합의_표현",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1717",
+      "firstAcceptedDate": "2025-12-15",
+      "lastAcceptedDate": "2025-12-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1717_집합의_표현.swift",
+          "firstAcceptedDate": "2025-12-15",
+          "lastAcceptedDate": "2025-12-15"
+        }
+      }
+    },
+    {
+      "problemId": "1719",
+      "frontendId": "1719",
+      "title": "택배",
+      "titleSlug": "1719_택배",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1719",
+      "firstAcceptedDate": "2026-01-13",
+      "lastAcceptedDate": "2026-01-13",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1719_택배.swift",
+          "firstAcceptedDate": "2026-01-13",
+          "lastAcceptedDate": "2026-01-13"
+        }
+      }
+    },
+    {
+      "problemId": "1753",
+      "frontendId": "1753",
+      "title": "최단경로",
+      "titleSlug": "1753_최단경로",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1753",
+      "firstAcceptedDate": "2026-01-14",
+      "lastAcceptedDate": "2026-01-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1753_최단경로.swift",
+          "firstAcceptedDate": "2026-01-14",
+          "lastAcceptedDate": "2026-01-14"
+        }
+      }
+    },
+    {
+      "problemId": "1766",
+      "frontendId": "1766",
+      "title": "문제집",
+      "titleSlug": "1766_문제집",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1766",
+      "firstAcceptedDate": "2025-12-13",
+      "lastAcceptedDate": "2025-12-13",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1766_문제집.swift",
+          "firstAcceptedDate": "2025-12-13",
+          "lastAcceptedDate": "2025-12-13"
+        }
+      }
+    },
+    {
+      "problemId": "1780",
+      "frontendId": "1780",
+      "title": "종이의 개수",
+      "titleSlug": "1780_종이의_개수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1780",
+      "firstAcceptedDate": "2024-06-04",
+      "lastAcceptedDate": "2024-06-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1780_종이의_개수.swift",
+          "firstAcceptedDate": "2024-06-04",
+          "lastAcceptedDate": "2024-06-04"
+        }
+      }
+    },
+    {
+      "problemId": "1781",
+      "frontendId": "1781",
+      "title": "컵라면",
+      "titleSlug": "1781_컵라면",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1781",
+      "firstAcceptedDate": "2025-11-10",
+      "lastAcceptedDate": "2025-11-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1781_컵라면.swift",
+          "firstAcceptedDate": "2025-11-10",
+          "lastAcceptedDate": "2025-11-10"
+        }
+      }
+    },
+    {
+      "problemId": "1786",
+      "frontendId": "1786",
+      "title": "찾기",
+      "titleSlug": "1786_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1786",
+      "firstAcceptedDate": "2026-01-22",
+      "lastAcceptedDate": "2026-01-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1786_찾기.swift",
+          "firstAcceptedDate": "2026-01-22",
+          "lastAcceptedDate": "2026-01-22"
+        }
+      }
+    },
+    {
+      "problemId": "1806",
+      "frontendId": "1806",
+      "title": "부분합",
+      "titleSlug": "1806_부분합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1806",
+      "firstAcceptedDate": "2025-07-08",
+      "lastAcceptedDate": "2025-07-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1806_부분합.swift",
+          "firstAcceptedDate": "2025-07-08",
+          "lastAcceptedDate": "2025-07-08"
+        }
+      }
+    },
+    {
+      "problemId": "1874",
+      "frontendId": "1874",
+      "title": "스택 수열",
+      "titleSlug": "1874_스택_수열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1874",
+      "firstAcceptedDate": "2024-04-07",
+      "lastAcceptedDate": "2024-04-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1874_스택_수열.swift",
+          "firstAcceptedDate": "2024-04-07",
+          "lastAcceptedDate": "2024-04-07"
+        }
+      }
+    },
+    {
+      "problemId": "1890",
+      "frontendId": "1890",
+      "title": "점프",
+      "titleSlug": "1890_점프",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1890",
+      "firstAcceptedDate": "2026-02-19",
+      "lastAcceptedDate": "2026-02-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1890_점프.swift",
+          "firstAcceptedDate": "2026-02-19",
+          "lastAcceptedDate": "2026-02-19"
+        }
+      }
+    },
+    {
+      "problemId": "1893",
+      "frontendId": "1893",
+      "title": "시저 암호",
+      "titleSlug": "1893_시저_암호",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1893",
+      "firstAcceptedDate": "2026-01-23",
+      "lastAcceptedDate": "2026-01-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1893_시저_암호.swift",
+          "firstAcceptedDate": "2026-01-23",
+          "lastAcceptedDate": "2026-01-23"
+        }
+      }
+    },
+    {
+      "problemId": "1904",
+      "frontendId": "1904",
+      "title": "01타일",
+      "titleSlug": "1904_01타일",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1904",
+      "firstAcceptedDate": "2026-03-02",
+      "lastAcceptedDate": "2026-03-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1904_01타일.swift",
+          "firstAcceptedDate": "2026-03-02",
+          "lastAcceptedDate": "2026-03-02"
+        }
+      }
+    },
+    {
+      "problemId": "1912",
+      "frontendId": "1912",
+      "title": "연속합",
+      "titleSlug": "1912_연속합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1912",
+      "firstAcceptedDate": "2026-03-19",
+      "lastAcceptedDate": "2026-03-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1912_연속합.swift",
+          "firstAcceptedDate": "2026-03-19",
+          "lastAcceptedDate": "2026-03-19"
+        }
+      }
+    },
+    {
+      "problemId": "1915",
+      "frontendId": "1915",
+      "title": "가장 큰 정사각형",
+      "titleSlug": "1915_가장_큰_정사각형",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1915",
+      "firstAcceptedDate": "2026-02-10",
+      "lastAcceptedDate": "2026-02-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1915_가장_큰_정사각형.swift",
+          "firstAcceptedDate": "2026-02-10",
+          "lastAcceptedDate": "2026-02-10"
+        }
+      }
+    },
+    {
+      "problemId": "1916",
+      "frontendId": "1916",
+      "title": "최소비용 구하기",
+      "titleSlug": "1916_최소비용_구하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1916",
+      "firstAcceptedDate": "2026-01-20",
+      "lastAcceptedDate": "2026-01-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1916_최소비용_구하기.swift",
+          "firstAcceptedDate": "2026-01-20",
+          "lastAcceptedDate": "2026-01-20"
+        }
+      }
+    },
+    {
+      "problemId": "1920",
+      "frontendId": "1920",
+      "title": "수 찾기",
+      "titleSlug": "1920_수_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1920",
+      "firstAcceptedDate": "2025-04-06",
+      "lastAcceptedDate": "2025-04-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1920_수_찾기.swift",
+          "firstAcceptedDate": "2025-04-06",
+          "lastAcceptedDate": "2025-04-06"
+        }
+      }
+    },
+    {
+      "problemId": "1926",
+      "frontendId": "1926",
+      "title": "그림",
+      "titleSlug": "1926_그림",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1926",
+      "firstAcceptedDate": "2024-04-22",
+      "lastAcceptedDate": "2024-04-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1926_그림.swift",
+          "firstAcceptedDate": "2024-04-22",
+          "lastAcceptedDate": "2024-04-22"
+        }
+      }
+    },
+    {
+      "problemId": "1927",
+      "frontendId": "1927",
+      "title": "최소 힙",
+      "titleSlug": "1927_최소_힙",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1927",
+      "firstAcceptedDate": "2025-10-21",
+      "lastAcceptedDate": "2025-10-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1927_최소_힙.swift",
+          "firstAcceptedDate": "2025-10-21",
+          "lastAcceptedDate": "2025-10-21"
+        }
+      }
+    },
+    {
+      "problemId": "1929",
+      "frontendId": "1929",
+      "title": "소수 구하기",
+      "titleSlug": "1929_소수_구하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1929",
+      "firstAcceptedDate": "2025-07-10",
+      "lastAcceptedDate": "2025-07-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1929_소수_구하기.swift",
+          "firstAcceptedDate": "2025-07-10",
+          "lastAcceptedDate": "2025-07-10"
+        }
+      }
+    },
+    {
+      "problemId": "1931",
+      "frontendId": "1931",
+      "title": "회의실 배정",
+      "titleSlug": "1931_회의실_배정",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1931",
+      "firstAcceptedDate": "2024-05-04",
+      "lastAcceptedDate": "2024-05-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1931_회의실_배정.swift",
+          "firstAcceptedDate": "2024-05-04",
+          "lastAcceptedDate": "2024-05-04"
+        }
+      }
+    },
+    {
+      "problemId": "1932",
+      "frontendId": "1932",
+      "title": "정수 삼각형",
+      "titleSlug": "1932_정수_삼각형",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1932",
+      "firstAcceptedDate": "2026-03-18",
+      "lastAcceptedDate": "2026-03-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1932_정수_삼각형.swift",
+          "firstAcceptedDate": "2026-03-18",
+          "lastAcceptedDate": "2026-03-18"
+        }
+      }
+    },
+    {
+      "problemId": "1956",
+      "frontendId": "1956",
+      "title": "운동",
+      "titleSlug": "1956_운동",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1956",
+      "firstAcceptedDate": "2026-01-10",
+      "lastAcceptedDate": "2026-01-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1956_운동.swift",
+          "firstAcceptedDate": "2026-01-10",
+          "lastAcceptedDate": "2026-01-10"
+        }
+      }
+    },
+    {
+      "problemId": "1966",
+      "frontendId": "1966",
+      "title": "프린터 큐",
+      "titleSlug": "1966_프린터_큐",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1966",
+      "firstAcceptedDate": "2026-03-31",
+      "lastAcceptedDate": "2026-03-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1966_프린터_큐.swift",
+          "firstAcceptedDate": "2026-03-31",
+          "lastAcceptedDate": "2026-03-31"
+        }
+      }
+    },
+    {
+      "problemId": "1969",
+      "frontendId": "1969",
+      "title": "DNA",
+      "titleSlug": "1969_DNA",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1969",
+      "firstAcceptedDate": "2026-02-05",
+      "lastAcceptedDate": "2026-02-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1969_DNA.swift",
+          "firstAcceptedDate": "2026-02-05",
+          "lastAcceptedDate": "2026-02-05"
+        }
+      }
+    },
+    {
+      "problemId": "1976",
+      "frontendId": "1976",
+      "title": "여행 가자",
+      "titleSlug": "1976_여행_가자",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1976",
+      "firstAcceptedDate": "2025-12-18",
+      "lastAcceptedDate": "2025-12-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1976_여행_가자.swift",
+          "firstAcceptedDate": "2025-12-18",
+          "lastAcceptedDate": "2025-12-18"
+        }
+      }
+    },
+    {
+      "problemId": "1978",
+      "frontendId": "1978",
+      "title": "소수 찾기",
+      "titleSlug": "1978_소수_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1978",
+      "firstAcceptedDate": "2025-07-10",
+      "lastAcceptedDate": "2025-07-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1978_소수_찾기.swift",
+          "firstAcceptedDate": "2025-07-10",
+          "lastAcceptedDate": "2025-07-10"
+        }
+      }
+    },
+    {
+      "problemId": "1991",
+      "frontendId": "1991",
+      "title": "트리 순회",
+      "titleSlug": "1991_트리_순회",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1991",
+      "firstAcceptedDate": "2025-10-29",
+      "lastAcceptedDate": "2025-10-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1991_트리_순회.swift",
+          "firstAcceptedDate": "2025-10-29",
+          "lastAcceptedDate": "2025-10-29"
+        }
+      }
+    },
+    {
+      "problemId": "1992",
+      "frontendId": "1992",
+      "title": "쿼드트리",
+      "titleSlug": "1992_쿼드트리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/1992",
+      "firstAcceptedDate": "2024-06-09",
+      "lastAcceptedDate": "2024-06-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/1992_쿼드트리.swift",
+          "firstAcceptedDate": "2024-06-09",
+          "lastAcceptedDate": "2024-06-09"
+        }
+      }
+    },
+    {
+      "problemId": "2002",
+      "frontendId": "2002",
+      "title": "추월",
+      "titleSlug": "2002_추월",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2002",
+      "firstAcceptedDate": "2026-02-16",
+      "lastAcceptedDate": "2026-02-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2002_추월.swift",
+          "firstAcceptedDate": "2026-02-16",
+          "lastAcceptedDate": "2026-02-16"
+        }
+      }
+    },
+    {
+      "problemId": "2003",
+      "frontendId": "2003",
+      "title": "수들의 합 2",
+      "titleSlug": "2003_수들의_합_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2003",
+      "firstAcceptedDate": "2026-03-24",
+      "lastAcceptedDate": "2026-03-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2003_수들의_합_2.swift",
+          "firstAcceptedDate": "2026-03-24",
+          "lastAcceptedDate": "2026-03-24"
+        }
+      }
+    },
+    {
+      "problemId": "2075",
+      "frontendId": "2075",
+      "title": "N번째 큰 수",
+      "titleSlug": "2075_N번째_큰_수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2075",
+      "firstAcceptedDate": "2025-10-21",
+      "lastAcceptedDate": "2025-10-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2075_N번째_큰_수.swift",
+          "firstAcceptedDate": "2025-10-21",
+          "lastAcceptedDate": "2025-10-21"
+        }
+      }
+    },
+    {
+      "problemId": "2164",
+      "frontendId": "2164",
+      "title": "카드2",
+      "titleSlug": "2164_카드2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2164",
+      "firstAcceptedDate": "2024-04-09",
+      "lastAcceptedDate": "2024-04-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2164_카드2.swift",
+          "firstAcceptedDate": "2024-04-09",
+          "lastAcceptedDate": "2024-04-09"
+        }
+      }
+    },
+    {
+      "problemId": "2168",
+      "frontendId": "2168",
+      "title": "타일 위의 대각선",
+      "titleSlug": "2168_타일_위의_대각선",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2168",
+      "firstAcceptedDate": "2026-02-23",
+      "lastAcceptedDate": "2026-02-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2168_타일_위의_대각선.swift",
+          "firstAcceptedDate": "2026-02-23",
+          "lastAcceptedDate": "2026-02-23"
+        }
+      }
+    },
+    {
+      "problemId": "2178",
+      "frontendId": "2178",
+      "title": "미로 탐색",
+      "titleSlug": "2178_미로_탐색",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2178",
+      "firstAcceptedDate": "2024-04-22",
+      "lastAcceptedDate": "2024-04-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2178_미로_탐색.swift",
+          "firstAcceptedDate": "2024-04-22",
+          "lastAcceptedDate": "2024-04-22"
+        }
+      }
+    },
+    {
+      "problemId": "2206",
+      "frontendId": "2206",
+      "title": "벽 부수고 이동하기",
+      "titleSlug": "2206_벽_부수고_이동하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2206",
+      "firstAcceptedDate": "2026-04-09",
+      "lastAcceptedDate": "2026-04-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2206_벽_부수고_이동하기.swift",
+          "firstAcceptedDate": "2026-04-09",
+          "lastAcceptedDate": "2026-04-09"
+        }
+      }
+    },
+    {
+      "problemId": "2210",
+      "frontendId": "2210",
+      "title": "숫자판 점프",
+      "titleSlug": "2210_숫자판_점프",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2210",
+      "firstAcceptedDate": "2026-03-06",
+      "lastAcceptedDate": "2026-03-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2210_숫자판_점프.swift",
+          "firstAcceptedDate": "2026-03-06",
+          "lastAcceptedDate": "2026-03-06"
+        }
+      }
+    },
+    {
+      "problemId": "2217",
+      "frontendId": "2217",
+      "title": "로프",
+      "titleSlug": "2217_로프",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2217",
+      "firstAcceptedDate": "2025-03-30",
+      "lastAcceptedDate": "2025-03-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2217_로프.swift",
+          "firstAcceptedDate": "2025-03-30",
+          "lastAcceptedDate": "2025-03-30"
+        }
+      }
+    },
+    {
+      "problemId": "2230",
+      "frontendId": "2230",
+      "title": "수 고르기",
+      "titleSlug": "2230_수_고르기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2230",
+      "firstAcceptedDate": "2025-07-03",
+      "lastAcceptedDate": "2025-07-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2230_수_고르기.swift",
+          "firstAcceptedDate": "2025-07-03",
+          "lastAcceptedDate": "2025-07-03"
+        }
+      }
+    },
+    {
+      "problemId": "2252",
+      "frontendId": "2252",
+      "title": "줄 세우기",
+      "titleSlug": "2252_줄_세우기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2252",
+      "firstAcceptedDate": "2025-11-17",
+      "lastAcceptedDate": "2025-11-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2252_줄_세우기.swift",
+          "firstAcceptedDate": "2025-11-17",
+          "lastAcceptedDate": "2025-11-17"
+        }
+      }
+    },
+    {
+      "problemId": "2438",
+      "frontendId": "2438",
+      "title": "별 찍기 - 1",
+      "titleSlug": "2438_별_찍기_-_1",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2438",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2438_별_찍기_-_1.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "2439",
+      "frontendId": "2439",
+      "title": "별 찍기 - 2",
+      "titleSlug": "2439_별_찍기_-_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2439",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2439_별_찍기_-_2.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "2444",
+      "frontendId": "2444",
+      "title": "별 찍기 - 7",
+      "titleSlug": "2444_별_찍기_-_7",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2444",
+      "firstAcceptedDate": "2026-03-19",
+      "lastAcceptedDate": "2026-03-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2444_별_찍기_-_7.swift",
+          "firstAcceptedDate": "2026-03-19",
+          "lastAcceptedDate": "2026-03-19"
+        }
+      }
+    },
+    {
+      "problemId": "2447",
+      "frontendId": "2447",
+      "title": "별 찍기 - 10",
+      "titleSlug": "2447_별_찍기_-_10",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2447",
+      "firstAcceptedDate": "2024-06-11",
+      "lastAcceptedDate": "2024-06-11",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2447_별_찍기_-_10.swift",
+          "firstAcceptedDate": "2024-06-11",
+          "lastAcceptedDate": "2024-06-11"
+        }
+      }
+    },
+    {
+      "problemId": "2448",
+      "frontendId": "2448",
+      "title": "별 찍기 - 11",
+      "titleSlug": "2448_별_찍기_-_11",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2448",
+      "firstAcceptedDate": "2024-06-12",
+      "lastAcceptedDate": "2024-06-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2448_별_찍기_-_11.swift",
+          "firstAcceptedDate": "2024-06-12",
+          "lastAcceptedDate": "2024-06-12"
+        }
+      }
+    },
+    {
+      "problemId": "2475",
+      "frontendId": "2475",
+      "title": "검증수",
+      "titleSlug": "2475_검증수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2475",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2475_검증수.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "2493",
+      "frontendId": "2493",
+      "title": "탑",
+      "titleSlug": "2493_탑",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2493",
+      "firstAcceptedDate": "2024-04-08",
+      "lastAcceptedDate": "2024-04-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2493_탑.swift",
+          "firstAcceptedDate": "2024-04-08",
+          "lastAcceptedDate": "2024-04-08"
+        }
+      }
+    },
+    {
+      "problemId": "2504",
+      "frontendId": "2504",
+      "title": "괄호의 값",
+      "titleSlug": "2504_괄호의_값",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2504",
+      "firstAcceptedDate": "2024-04-18",
+      "lastAcceptedDate": "2024-04-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2504_괄호의_값.swift",
+          "firstAcceptedDate": "2024-04-18",
+          "lastAcceptedDate": "2024-04-18"
+        }
+      }
+    },
+    {
+      "problemId": "2525",
+      "frontendId": "2525",
+      "title": "오븐 시계",
+      "titleSlug": "2525_오븐_시계",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2525",
+      "firstAcceptedDate": "2026-03-18",
+      "lastAcceptedDate": "2026-03-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2525_오븐_시계.swift",
+          "firstAcceptedDate": "2026-03-18",
+          "lastAcceptedDate": "2026-03-18"
+        }
+      }
+    },
+    {
+      "problemId": "2558",
+      "frontendId": "2558",
+      "title": "A+B - 2",
+      "titleSlug": "2558_A+B_-_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2558",
+      "firstAcceptedDate": "2025-12-30",
+      "lastAcceptedDate": "2025-12-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2558_A+B_-_2.swift",
+          "firstAcceptedDate": "2025-12-30",
+          "lastAcceptedDate": "2025-12-30"
+        }
+      }
+    },
+    {
+      "problemId": "2562",
+      "frontendId": "2562",
+      "title": "최댓값",
+      "titleSlug": "2562_최댓값",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2562",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2562_최댓값.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "2577",
+      "frontendId": "2577",
+      "title": "숫자의 개수",
+      "titleSlug": "2577_숫자의_개수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2577",
+      "firstAcceptedDate": "2024-04-02",
+      "lastAcceptedDate": "2024-04-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2577_숫자의_개수.swift",
+          "firstAcceptedDate": "2024-04-02",
+          "lastAcceptedDate": "2024-04-02"
+        }
+      }
+    },
+    {
+      "problemId": "2579",
+      "frontendId": "2579",
+      "title": "계단 오르기",
+      "titleSlug": "2579_계단_오르기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2579",
+      "firstAcceptedDate": "2025-03-20",
+      "lastAcceptedDate": "2025-03-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2579_계단_오르기.swift",
+          "firstAcceptedDate": "2025-03-20",
+          "lastAcceptedDate": "2025-03-20"
+        }
+      }
+    },
+    {
+      "problemId": "2606",
+      "frontendId": "2606",
+      "title": "바이러스",
+      "titleSlug": "2606_바이러스",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2606",
+      "firstAcceptedDate": "2025-10-27",
+      "lastAcceptedDate": "2025-10-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2606_바이러스.swift",
+          "firstAcceptedDate": "2025-10-27",
+          "lastAcceptedDate": "2025-10-27"
+        }
+      }
+    },
+    {
+      "problemId": "2623",
+      "frontendId": "2623",
+      "title": "음악프로그램",
+      "titleSlug": "2623_음악프로그램",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2623",
+      "firstAcceptedDate": "2025-11-18",
+      "lastAcceptedDate": "2025-11-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2623_음악프로그램.swift",
+          "firstAcceptedDate": "2025-11-18",
+          "lastAcceptedDate": "2025-11-18"
+        }
+      }
+    },
+    {
+      "problemId": "2630",
+      "frontendId": "2630",
+      "title": "색종이 만들기",
+      "titleSlug": "2630_색종이_만들기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2630",
+      "firstAcceptedDate": "2024-06-07",
+      "lastAcceptedDate": "2024-06-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2630_색종이_만들기.swift",
+          "firstAcceptedDate": "2024-06-07",
+          "lastAcceptedDate": "2024-06-07"
+        }
+      }
+    },
+    {
+      "problemId": "2667",
+      "frontendId": "2667",
+      "title": "단지번호붙이기",
+      "titleSlug": "2667_단지번호붙이기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2667",
+      "firstAcceptedDate": "2026-02-15",
+      "lastAcceptedDate": "2026-02-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2667_단지번호붙이기.swift",
+          "firstAcceptedDate": "2026-02-15",
+          "lastAcceptedDate": "2026-02-15"
+        }
+      }
+    },
+    {
+      "problemId": "2675",
+      "frontendId": "2675",
+      "title": "문자열 반복",
+      "titleSlug": "2675_문자열_반복",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2675",
+      "firstAcceptedDate": "2025-12-24",
+      "lastAcceptedDate": "2025-12-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2675_문자열_반복.swift",
+          "firstAcceptedDate": "2025-12-24",
+          "lastAcceptedDate": "2025-12-24"
+        }
+      }
+    },
+    {
+      "problemId": "2739",
+      "frontendId": "2739",
+      "title": "구구단",
+      "titleSlug": "2739_구구단",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2739",
+      "firstAcceptedDate": "2025-12-24",
+      "lastAcceptedDate": "2025-12-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2739_구구단.swift",
+          "firstAcceptedDate": "2025-12-24",
+          "lastAcceptedDate": "2025-12-24"
+        }
+      }
+    },
+    {
+      "problemId": "2741",
+      "frontendId": "2741",
+      "title": "N 찍기",
+      "titleSlug": "2741_N_찍기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2741",
+      "firstAcceptedDate": "2025-12-24",
+      "lastAcceptedDate": "2025-12-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2741_N_찍기.swift",
+          "firstAcceptedDate": "2025-12-24",
+          "lastAcceptedDate": "2025-12-24"
+        }
+      }
+    },
+    {
+      "problemId": "2750",
+      "frontendId": "2750",
+      "title": "수 정렬하기",
+      "titleSlug": "2750_수_정렬하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2750",
+      "firstAcceptedDate": "2024-07-19",
+      "lastAcceptedDate": "2024-07-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2750_수_정렬하기.swift",
+          "firstAcceptedDate": "2024-07-19",
+          "lastAcceptedDate": "2024-07-19"
+        }
+      }
+    },
+    {
+      "problemId": "2751",
+      "frontendId": "2751",
+      "title": "수 정렬하기 2",
+      "titleSlug": "2751_수_정렬하기_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2751",
+      "firstAcceptedDate": "2024-07-22",
+      "lastAcceptedDate": "2024-07-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2751_수_정렬하기_2.swift",
+          "firstAcceptedDate": "2024-07-22",
+          "lastAcceptedDate": "2024-07-22"
+        }
+      }
+    },
+    {
+      "problemId": "2753",
+      "frontendId": "2753",
+      "title": "윤년",
+      "titleSlug": "2753_윤년",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2753",
+      "firstAcceptedDate": "2025-12-25",
+      "lastAcceptedDate": "2025-12-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2753_윤년.swift",
+          "firstAcceptedDate": "2025-12-25",
+          "lastAcceptedDate": "2025-12-25"
+        }
+      }
+    },
+    {
+      "problemId": "2805",
+      "frontendId": "2805",
+      "title": "나무 자르기",
+      "titleSlug": "2805_나무_자르기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2805",
+      "firstAcceptedDate": "2026-03-30",
+      "lastAcceptedDate": "2026-03-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2805_나무_자르기.swift",
+          "firstAcceptedDate": "2026-03-30",
+          "lastAcceptedDate": "2026-03-30"
+        }
+      }
+    },
+    {
+      "problemId": "2839",
+      "frontendId": "2839",
+      "title": "설탕 배달",
+      "titleSlug": "2839_설탕_배달",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2839",
+      "firstAcceptedDate": "2026-03-18",
+      "lastAcceptedDate": "2026-03-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2839_설탕_배달.swift",
+          "firstAcceptedDate": "2026-03-18",
+          "lastAcceptedDate": "2026-03-18"
+        }
+      }
+    },
+    {
+      "problemId": "2870",
+      "frontendId": "2870",
+      "title": "수학숙제",
+      "titleSlug": "2870_수학숙제",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2870",
+      "firstAcceptedDate": "2026-02-04",
+      "lastAcceptedDate": "2026-02-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2870_수학숙제.swift",
+          "firstAcceptedDate": "2026-02-04",
+          "lastAcceptedDate": "2026-02-04"
+        }
+      }
+    },
+    {
+      "problemId": "2884",
+      "frontendId": "2884",
+      "title": "알람 시계",
+      "titleSlug": "2884_알람_시계",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2884",
+      "firstAcceptedDate": "2026-01-01",
+      "lastAcceptedDate": "2026-01-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2884_알람_시계.swift",
+          "firstAcceptedDate": "2026-01-01",
+          "lastAcceptedDate": "2026-01-01"
+        }
+      }
+    },
+    {
+      "problemId": "2908",
+      "frontendId": "2908",
+      "title": "상수",
+      "titleSlug": "2908_상수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2908",
+      "firstAcceptedDate": "2026-04-14",
+      "lastAcceptedDate": "2026-04-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2908_상수.swift",
+          "firstAcceptedDate": "2026-04-14",
+          "lastAcceptedDate": "2026-04-14"
+        }
+      }
+    },
+    {
+      "problemId": "2920",
+      "frontendId": "2920",
+      "title": "음계",
+      "titleSlug": "2920_음계",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2920",
+      "firstAcceptedDate": "2026-01-02",
+      "lastAcceptedDate": "2026-01-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2920_음계.swift",
+          "firstAcceptedDate": "2026-01-02",
+          "lastAcceptedDate": "2026-01-02"
+        }
+      }
+    },
+    {
+      "problemId": "2941",
+      "frontendId": "2941",
+      "title": "크로아티아 알파벳",
+      "titleSlug": "2941_크로아티아_알파벳",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2941",
+      "firstAcceptedDate": "2026-02-02",
+      "lastAcceptedDate": "2026-02-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2941_크로아티아_알파벳.swift",
+          "firstAcceptedDate": "2026-02-02",
+          "lastAcceptedDate": "2026-02-02"
+        }
+      }
+    },
+    {
+      "problemId": "2960",
+      "frontendId": "2960",
+      "title": "에라토스테네스의 체",
+      "titleSlug": "2960_에라토스테네스의_체",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2960",
+      "firstAcceptedDate": "2025-07-28",
+      "lastAcceptedDate": "2025-07-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2960_에라토스테네스의_체.swift",
+          "firstAcceptedDate": "2025-07-28",
+          "lastAcceptedDate": "2025-07-28"
+        }
+      }
+    },
+    {
+      "problemId": "2961",
+      "frontendId": "2961",
+      "title": "도영이가 만든 맛있는 음식",
+      "titleSlug": "2961_도영이가_만든_맛있는_음식",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2961",
+      "firstAcceptedDate": "2025-12-23",
+      "lastAcceptedDate": "2025-12-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2961_도영이가_만든_맛있는_음식.swift",
+          "firstAcceptedDate": "2025-12-23",
+          "lastAcceptedDate": "2025-12-23"
+        }
+      }
+    },
+    {
+      "problemId": "2999",
+      "frontendId": "2999",
+      "title": "비밀 이메일",
+      "titleSlug": "2999_비밀_이메일",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/2999",
+      "firstAcceptedDate": "2026-02-06",
+      "lastAcceptedDate": "2026-02-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/2999_비밀_이메일.swift",
+          "firstAcceptedDate": "2026-02-06",
+          "lastAcceptedDate": "2026-02-06"
+        }
+      }
+    },
+    {
+      "problemId": "3052",
+      "frontendId": "3052",
+      "title": "나머지",
+      "titleSlug": "3052_나머지",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/3052",
+      "firstAcceptedDate": "2026-01-19",
+      "lastAcceptedDate": "2026-01-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/3052_나머지.swift",
+          "firstAcceptedDate": "2026-01-19",
+          "lastAcceptedDate": "2026-01-19"
+        }
+      }
+    },
+    {
+      "problemId": "3273",
+      "frontendId": "3273",
+      "title": "두 수의 합",
+      "titleSlug": "3273_두_수의_합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/3273",
+      "firstAcceptedDate": "2024-04-02",
+      "lastAcceptedDate": "2024-04-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/3273_두_수의_합.swift",
+          "firstAcceptedDate": "2024-04-02",
+          "lastAcceptedDate": "2024-04-02"
+        }
+      }
+    },
+    {
+      "problemId": "3613",
+      "frontendId": "3613",
+      "title": "Java vs C++",
+      "titleSlug": "3613_Java_vs_C++",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/3613",
+      "firstAcceptedDate": "2026-02-03",
+      "lastAcceptedDate": "2026-02-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/3613_Java_vs_C++.swift",
+          "firstAcceptedDate": "2026-02-03",
+          "lastAcceptedDate": "2026-02-03"
+        }
+      }
+    },
+    {
+      "problemId": "3986",
+      "frontendId": "3986",
+      "title": "좋은 단어",
+      "titleSlug": "3986_좋은_단어",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/3986",
+      "firstAcceptedDate": "2024-04-20",
+      "lastAcceptedDate": "2024-04-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/3986_좋은_단어.swift",
+          "firstAcceptedDate": "2024-04-20",
+          "lastAcceptedDate": "2024-04-20"
+        }
+      }
+    },
+    {
+      "problemId": "4153",
+      "frontendId": "4153",
+      "title": "직각삼각형",
+      "titleSlug": "4153_직각삼각형",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/4153",
+      "firstAcceptedDate": "2025-12-27",
+      "lastAcceptedDate": "2025-12-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/4153_직각삼각형.swift",
+          "firstAcceptedDate": "2025-12-27",
+          "lastAcceptedDate": "2025-12-27"
+        }
+      }
+    },
+    {
+      "problemId": "4179",
+      "frontendId": "4179",
+      "title": "불!",
+      "titleSlug": "4179_불!",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/4179",
+      "firstAcceptedDate": "2024-04-25",
+      "lastAcceptedDate": "2024-04-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/4179_불!.swift",
+          "firstAcceptedDate": "2024-04-25",
+          "lastAcceptedDate": "2024-04-25"
+        }
+      }
+    },
+    {
+      "problemId": "4803",
+      "frontendId": "4803",
+      "title": "트리",
+      "titleSlug": "4803_트리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/4803",
+      "firstAcceptedDate": "2025-10-31",
+      "lastAcceptedDate": "2025-10-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/4803_트리.swift",
+          "firstAcceptedDate": "2025-10-31",
+          "lastAcceptedDate": "2025-10-31"
+        }
+      }
+    },
+    {
+      "problemId": "4963",
+      "frontendId": "4963",
+      "title": "섬의 개수",
+      "titleSlug": "4963_섬의_개수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/4963",
+      "firstAcceptedDate": "2026-03-05",
+      "lastAcceptedDate": "2026-03-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/4963_섬의_개수.swift",
+          "firstAcceptedDate": "2026-03-05",
+          "lastAcceptedDate": "2026-03-05"
+        }
+      }
+    },
+    {
+      "problemId": "5052",
+      "frontendId": "5052",
+      "title": "전화번호 목록",
+      "titleSlug": "5052_전화번호_목록",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5052",
+      "firstAcceptedDate": "2026-01-29",
+      "lastAcceptedDate": "2026-01-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5052_전화번호_목록.swift",
+          "firstAcceptedDate": "2026-01-29",
+          "lastAcceptedDate": "2026-01-29"
+        }
+      }
+    },
+    {
+      "problemId": "5397",
+      "frontendId": "5397",
+      "title": "키로거",
+      "titleSlug": "5397_키로거",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5397",
+      "firstAcceptedDate": "2024-04-05",
+      "lastAcceptedDate": "2024-04-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5397_키로거.swift",
+          "firstAcceptedDate": "2024-04-05",
+          "lastAcceptedDate": "2024-04-05"
+        }
+      }
+    },
+    {
+      "problemId": "5427",
+      "frontendId": "5427",
+      "title": "불",
+      "titleSlug": "5427_불",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5427",
+      "firstAcceptedDate": "2024-05-06",
+      "lastAcceptedDate": "2024-05-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5427_불.swift",
+          "firstAcceptedDate": "2024-05-06",
+          "lastAcceptedDate": "2024-05-06"
+        }
+      }
+    },
+    {
+      "problemId": "5430",
+      "frontendId": "5430",
+      "title": "AC",
+      "titleSlug": "5430_AC",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5430",
+      "firstAcceptedDate": "2024-04-15",
+      "lastAcceptedDate": "2024-04-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5430_AC.swift",
+          "firstAcceptedDate": "2024-04-15",
+          "lastAcceptedDate": "2024-04-15"
+        }
+      }
+    },
+    {
+      "problemId": "5567",
+      "frontendId": "5567",
+      "title": "결혼식",
+      "titleSlug": "5567_결혼식",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5567",
+      "firstAcceptedDate": "2025-10-27",
+      "lastAcceptedDate": "2025-10-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5567_결혼식.swift",
+          "firstAcceptedDate": "2025-10-27",
+          "lastAcceptedDate": "2025-10-27"
+        }
+      }
+    },
+    {
+      "problemId": "5597",
+      "frontendId": "5597",
+      "title": "과제 안 내신 분..?",
+      "titleSlug": "5597_과제_안_내신_분..",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5597",
+      "firstAcceptedDate": "2026-03-23",
+      "lastAcceptedDate": "2026-05-26",
+      "languages": {
+        "python3": {
+          "solutionPath": "boj/python/5597_과제_안_내신_분...py",
+          "firstAcceptedDate": "2026-05-26",
+          "lastAcceptedDate": "2026-05-26"
+        },
+        "swift": {
+          "solutionPath": "boj/swift/5597_과제_안_내신_분...swift",
+          "firstAcceptedDate": "2026-03-23",
+          "lastAcceptedDate": "2026-03-23"
+        }
+      }
+    },
+    {
+      "problemId": "5622",
+      "frontendId": "5622",
+      "title": "다이얼",
+      "titleSlug": "5622_다이얼",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5622",
+      "firstAcceptedDate": "2026-03-22",
+      "lastAcceptedDate": "2026-03-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5622_다이얼.swift",
+          "firstAcceptedDate": "2026-03-22",
+          "lastAcceptedDate": "2026-03-22"
+        }
+      }
+    },
+    {
+      "problemId": "5639",
+      "frontendId": "5639",
+      "title": "이진 검색 트리",
+      "titleSlug": "5639_이진_검색_트리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5639",
+      "firstAcceptedDate": "2026-03-11",
+      "lastAcceptedDate": "2026-03-11",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5639_이진_검색_트리.swift",
+          "firstAcceptedDate": "2026-03-11",
+          "lastAcceptedDate": "2026-03-11"
+        }
+      }
+    },
+    {
+      "problemId": "5904",
+      "frontendId": "5904",
+      "title": "Moo 게임",
+      "titleSlug": "5904_Moo_게임",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/5904",
+      "firstAcceptedDate": "2026-02-18",
+      "lastAcceptedDate": "2026-02-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/5904_Moo_게임.swift",
+          "firstAcceptedDate": "2026-02-18",
+          "lastAcceptedDate": "2026-02-18"
+        }
+      }
+    },
+    {
+      "problemId": "6603",
+      "frontendId": "6603",
+      "title": "로또",
+      "titleSlug": "6603_로또",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/6603",
+      "firstAcceptedDate": "2025-11-06",
+      "lastAcceptedDate": "2025-11-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/6603_로또.swift",
+          "firstAcceptedDate": "2025-11-06",
+          "lastAcceptedDate": "2025-11-06"
+        }
+      }
+    },
+    {
+      "problemId": "7511",
+      "frontendId": "7511",
+      "title": "소셜 네트워킹 어플리케이션",
+      "titleSlug": "7511_소셜_네트워킹_어플리케이션",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/7511",
+      "firstAcceptedDate": "2025-12-17",
+      "lastAcceptedDate": "2025-12-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/7511_소셜_네트워킹_어플리케이션.swift",
+          "firstAcceptedDate": "2025-12-17",
+          "lastAcceptedDate": "2025-12-17"
+        }
+      }
+    },
+    {
+      "problemId": "7562",
+      "frontendId": "7562",
+      "title": "나이트의 이동",
+      "titleSlug": "7562_나이트의_이동",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/7562",
+      "firstAcceptedDate": "2024-05-05",
+      "lastAcceptedDate": "2024-05-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/7562_나이트의_이동.swift",
+          "firstAcceptedDate": "2024-05-05",
+          "lastAcceptedDate": "2024-05-05"
+        }
+      }
+    },
+    {
+      "problemId": "7569",
+      "frontendId": "7569",
+      "title": "토마토",
+      "titleSlug": "7569_토마토",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/7569",
+      "firstAcceptedDate": "2024-05-05",
+      "lastAcceptedDate": "2024-05-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/7569_토마토.swift",
+          "firstAcceptedDate": "2024-05-05",
+          "lastAcceptedDate": "2024-05-05"
+        }
+      }
+    },
+    {
+      "problemId": "7576",
+      "frontendId": "7576",
+      "title": "토마토",
+      "titleSlug": "7576_토마토",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/7576",
+      "firstAcceptedDate": "2024-04-22",
+      "lastAcceptedDate": "2024-04-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/7576_토마토.swift",
+          "firstAcceptedDate": "2024-04-22",
+          "lastAcceptedDate": "2024-04-22"
+        }
+      }
+    },
+    {
+      "problemId": "7579",
+      "frontendId": "7579",
+      "title": "앱",
+      "titleSlug": "7579_앱",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/7579",
+      "firstAcceptedDate": "2026-03-24",
+      "lastAcceptedDate": "2026-05-26",
+      "languages": {
+        "python3": {
+          "solutionPath": "boj/python/7579_앱.py",
+          "firstAcceptedDate": "2026-05-26",
+          "lastAcceptedDate": "2026-05-26"
+        },
+        "swift": {
+          "solutionPath": "boj/swift/7579_앱.swift",
+          "firstAcceptedDate": "2026-03-24",
+          "lastAcceptedDate": "2026-03-24"
+        }
+      }
+    },
+    {
+      "problemId": "8393",
+      "frontendId": "8393",
+      "title": "합",
+      "titleSlug": "8393_합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/8393",
+      "firstAcceptedDate": "2026-03-28",
+      "lastAcceptedDate": "2026-03-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/8393_합.swift",
+          "firstAcceptedDate": "2026-03-28",
+          "lastAcceptedDate": "2026-03-28"
+        }
+      }
+    },
+    {
+      "problemId": "8958",
+      "frontendId": "8958",
+      "title": "OX퀴즈",
+      "titleSlug": "8958_OX퀴즈",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/8958",
+      "firstAcceptedDate": "2025-12-25",
+      "lastAcceptedDate": "2025-12-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/8958_OX퀴즈.swift",
+          "firstAcceptedDate": "2025-12-25",
+          "lastAcceptedDate": "2025-12-25"
+        }
+      }
+    },
+    {
+      "problemId": "9012",
+      "frontendId": "9012",
+      "title": "괄호",
+      "titleSlug": "9012_괄호",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9012",
+      "firstAcceptedDate": "2026-03-17",
+      "lastAcceptedDate": "2026-03-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9012_괄호.swift",
+          "firstAcceptedDate": "2026-03-17",
+          "lastAcceptedDate": "2026-03-17"
+        }
+      }
+    },
+    {
+      "problemId": "9084",
+      "frontendId": "9084",
+      "title": "동전",
+      "titleSlug": "9084_동전",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9084",
+      "firstAcceptedDate": "2026-02-09",
+      "lastAcceptedDate": "2026-02-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9084_동전.swift",
+          "firstAcceptedDate": "2026-02-09",
+          "lastAcceptedDate": "2026-02-09"
+        }
+      }
+    },
+    {
+      "problemId": "9095",
+      "frontendId": "9095",
+      "title": "1, 2, 3 더하기",
+      "titleSlug": "9095_1,_2,_3_더하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9095",
+      "firstAcceptedDate": "2025-03-17",
+      "lastAcceptedDate": "2025-03-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9095_1,_2,_3_더하기.swift",
+          "firstAcceptedDate": "2025-03-17",
+          "lastAcceptedDate": "2025-03-17"
+        }
+      }
+    },
+    {
+      "problemId": "9202",
+      "frontendId": "9202",
+      "title": "Boggle",
+      "titleSlug": "9202_Boggle",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9202",
+      "firstAcceptedDate": "2026-01-31",
+      "lastAcceptedDate": "2026-01-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9202_Boggle.swift",
+          "firstAcceptedDate": "2026-01-31",
+          "lastAcceptedDate": "2026-01-31"
+        }
+      }
+    },
+    {
+      "problemId": "9251",
+      "frontendId": "9251",
+      "title": "LCS",
+      "titleSlug": "9251_LCS",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9251",
+      "firstAcceptedDate": "2026-02-08",
+      "lastAcceptedDate": "2026-02-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9251_LCS.swift",
+          "firstAcceptedDate": "2026-02-08",
+          "lastAcceptedDate": "2026-02-08"
+        }
+      }
+    },
+    {
+      "problemId": "9372",
+      "frontendId": "9372",
+      "title": "상근이의 여행",
+      "titleSlug": "9372_상근이의_여행",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9372",
+      "firstAcceptedDate": "2026-01-02",
+      "lastAcceptedDate": "2026-01-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9372_상근이의_여행.swift",
+          "firstAcceptedDate": "2026-01-02",
+          "lastAcceptedDate": "2026-01-02"
+        }
+      }
+    },
+    {
+      "problemId": "9461",
+      "frontendId": "9461",
+      "title": "파도반 수열",
+      "titleSlug": "9461_파도반_수열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9461",
+      "firstAcceptedDate": "2026-04-07",
+      "lastAcceptedDate": "2026-04-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9461_파도반_수열.swift",
+          "firstAcceptedDate": "2026-04-07",
+          "lastAcceptedDate": "2026-04-07"
+        }
+      }
+    },
+    {
+      "problemId": "9466",
+      "frontendId": "9466",
+      "title": "텀 프로젝트",
+      "titleSlug": "9466_텀_프로젝트",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9466",
+      "firstAcceptedDate": "2024-05-08",
+      "lastAcceptedDate": "2024-05-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9466_텀_프로젝트.swift",
+          "firstAcceptedDate": "2024-05-08",
+          "lastAcceptedDate": "2024-05-08"
+        }
+      }
+    },
+    {
+      "problemId": "9498",
+      "frontendId": "9498",
+      "title": "시험 성적",
+      "titleSlug": "9498_시험_성적",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9498",
+      "firstAcceptedDate": "2026-01-22",
+      "lastAcceptedDate": "2026-01-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9498_시험_성적.swift",
+          "firstAcceptedDate": "2026-01-22",
+          "lastAcceptedDate": "2026-01-22"
+        }
+      }
+    },
+    {
+      "problemId": "9536",
+      "frontendId": "9536",
+      "title": "여우는 어떻게 울지?",
+      "titleSlug": "9536_여우는_어떻게_울지",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9536",
+      "firstAcceptedDate": "2026-02-06",
+      "lastAcceptedDate": "2026-02-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9536_여우는_어떻게_울지.swift",
+          "firstAcceptedDate": "2026-02-06",
+          "lastAcceptedDate": "2026-02-06"
+        }
+      }
+    },
+    {
+      "problemId": "9663",
+      "frontendId": "9663",
+      "title": "N-Queen",
+      "titleSlug": "9663_N-Queen",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9663",
+      "firstAcceptedDate": "2024-07-02",
+      "lastAcceptedDate": "2024-07-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9663_N-Queen.swift",
+          "firstAcceptedDate": "2024-07-02",
+          "lastAcceptedDate": "2024-07-02"
+        }
+      }
+    },
+    {
+      "problemId": "9996",
+      "frontendId": "9996",
+      "title": "한국이 그리울 땐 서버에 접속하지",
+      "titleSlug": "9996_한국이_그리울_땐_서버에_접속하지",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/9996",
+      "firstAcceptedDate": "2026-02-03",
+      "lastAcceptedDate": "2026-02-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/9996_한국이_그리울_땐_서버에_접속하지.swift",
+          "firstAcceptedDate": "2026-02-03",
+          "lastAcceptedDate": "2026-02-03"
+        }
+      }
+    },
+    {
+      "problemId": "10026",
+      "frontendId": "10026",
+      "title": "적록색약",
+      "titleSlug": "10026_적록색약",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10026",
+      "firstAcceptedDate": "2024-05-02",
+      "lastAcceptedDate": "2024-05-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10026_적록색약.swift",
+          "firstAcceptedDate": "2024-05-02",
+          "lastAcceptedDate": "2024-05-02"
+        }
+      }
+    },
+    {
+      "problemId": "10171",
+      "frontendId": "10171",
+      "title": "고양이",
+      "titleSlug": "10171_고양이",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10171",
+      "firstAcceptedDate": "2026-01-25",
+      "lastAcceptedDate": "2026-01-25",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10171_고양이.swift",
+          "firstAcceptedDate": "2026-01-25",
+          "lastAcceptedDate": "2026-01-25"
+        }
+      }
+    },
+    {
+      "problemId": "10430",
+      "frontendId": "10430",
+      "title": "나머지",
+      "titleSlug": "10430_나머지",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10430",
+      "firstAcceptedDate": "2026-03-07",
+      "lastAcceptedDate": "2026-03-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10430_나머지.swift",
+          "firstAcceptedDate": "2026-03-07",
+          "lastAcceptedDate": "2026-03-07"
+        }
+      }
+    },
+    {
+      "problemId": "10718",
+      "frontendId": "10718",
+      "title": "We love kriii",
+      "titleSlug": "10718_We_love_kriii",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10718",
+      "firstAcceptedDate": "2026-04-02",
+      "lastAcceptedDate": "2026-04-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10718_We_love_kriii.swift",
+          "firstAcceptedDate": "2026-04-02",
+          "lastAcceptedDate": "2026-04-02"
+        }
+      }
+    },
+    {
+      "problemId": "10773",
+      "frontendId": "10773",
+      "title": "제로",
+      "titleSlug": "10773_제로",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10773",
+      "firstAcceptedDate": "2024-04-07",
+      "lastAcceptedDate": "2024-04-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10773_제로.swift",
+          "firstAcceptedDate": "2024-04-07",
+          "lastAcceptedDate": "2024-04-07"
+        }
+      }
+    },
+    {
+      "problemId": "10799",
+      "frontendId": "10799",
+      "title": "쇠막대기",
+      "titleSlug": "10799_쇠막대기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10799",
+      "firstAcceptedDate": "2024-04-16",
+      "lastAcceptedDate": "2024-04-16",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10799_쇠막대기.swift",
+          "firstAcceptedDate": "2024-04-16",
+          "lastAcceptedDate": "2024-04-16"
+        }
+      }
+    },
+    {
+      "problemId": "10807",
+      "frontendId": "10807",
+      "title": "개수 세기",
+      "titleSlug": "10807_개수_세기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10807",
+      "firstAcceptedDate": "2025-05-05",
+      "lastAcceptedDate": "2025-05-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10807_개수_세기.swift",
+          "firstAcceptedDate": "2025-05-05",
+          "lastAcceptedDate": "2025-05-05"
+        }
+      }
+    },
+    {
+      "problemId": "10809",
+      "frontendId": "10809",
+      "title": "알파벳 찾기",
+      "titleSlug": "10809_알파벳_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10809",
+      "firstAcceptedDate": "2026-01-15",
+      "lastAcceptedDate": "2026-01-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10809_알파벳_찾기.swift",
+          "firstAcceptedDate": "2026-01-15",
+          "lastAcceptedDate": "2026-01-15"
+        }
+      }
+    },
+    {
+      "problemId": "10810",
+      "frontendId": "10810",
+      "title": "공 넣기",
+      "titleSlug": "10810_공_넣기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10810",
+      "firstAcceptedDate": "2026-03-19",
+      "lastAcceptedDate": "2026-03-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10810_공_넣기.swift",
+          "firstAcceptedDate": "2026-03-19",
+          "lastAcceptedDate": "2026-03-19"
+        }
+      }
+    },
+    {
+      "problemId": "10815",
+      "frontendId": "10815",
+      "title": "숫자 카드",
+      "titleSlug": "10815_숫자_카드",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10815",
+      "firstAcceptedDate": "2026-03-14",
+      "lastAcceptedDate": "2026-03-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10815_숫자_카드.swift",
+          "firstAcceptedDate": "2026-03-14",
+          "lastAcceptedDate": "2026-03-14"
+        }
+      }
+    },
+    {
+      "problemId": "10816",
+      "frontendId": "10816",
+      "title": "숫자 카드 2",
+      "titleSlug": "10816_숫자_카드_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10816",
+      "firstAcceptedDate": "2025-04-07",
+      "lastAcceptedDate": "2025-04-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10816_숫자_카드_2.swift",
+          "firstAcceptedDate": "2025-04-07",
+          "lastAcceptedDate": "2025-04-07"
+        }
+      }
+    },
+    {
+      "problemId": "10818",
+      "frontendId": "10818",
+      "title": "최소, 최대",
+      "titleSlug": "10818_최소,_최대",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10818",
+      "firstAcceptedDate": "2025-12-26",
+      "lastAcceptedDate": "2025-12-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10818_최소,_최대.swift",
+          "firstAcceptedDate": "2025-12-26",
+          "lastAcceptedDate": "2025-12-26"
+        }
+      }
+    },
+    {
+      "problemId": "10869",
+      "frontendId": "10869",
+      "title": "사칙연산",
+      "titleSlug": "10869_사칙연산",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10869",
+      "firstAcceptedDate": "2025-12-26",
+      "lastAcceptedDate": "2025-12-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10869_사칙연산.swift",
+          "firstAcceptedDate": "2025-12-26",
+          "lastAcceptedDate": "2025-12-26"
+        }
+      }
+    },
+    {
+      "problemId": "10871",
+      "frontendId": "10871",
+      "title": "X보다 작은 수",
+      "titleSlug": "10871_X보다_작은_수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10871",
+      "firstAcceptedDate": "2026-01-18",
+      "lastAcceptedDate": "2026-01-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10871_X보다_작은_수.swift",
+          "firstAcceptedDate": "2026-01-18",
+          "lastAcceptedDate": "2026-01-18"
+        }
+      }
+    },
+    {
+      "problemId": "10950",
+      "frontendId": "10950",
+      "title": "A+B - 3",
+      "titleSlug": "10950_A+B_-_3",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10950",
+      "firstAcceptedDate": "2025-12-30",
+      "lastAcceptedDate": "2025-12-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10950_A+B_-_3.swift",
+          "firstAcceptedDate": "2025-12-30",
+          "lastAcceptedDate": "2025-12-30"
+        }
+      }
+    },
+    {
+      "problemId": "10951",
+      "frontendId": "10951",
+      "title": "A+B - 4",
+      "titleSlug": "10951_A+B_-_4",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10951",
+      "firstAcceptedDate": "2025-12-28",
+      "lastAcceptedDate": "2025-12-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10951_A+B_-_4.swift",
+          "firstAcceptedDate": "2025-12-28",
+          "lastAcceptedDate": "2025-12-28"
+        }
+      }
+    },
+    {
+      "problemId": "10952",
+      "frontendId": "10952",
+      "title": "A+B - 5",
+      "titleSlug": "10952_A+B_-_5",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10952",
+      "firstAcceptedDate": "2025-12-30",
+      "lastAcceptedDate": "2025-12-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10952_A+B_-_5.swift",
+          "firstAcceptedDate": "2025-12-30",
+          "lastAcceptedDate": "2025-12-30"
+        }
+      }
+    },
+    {
+      "problemId": "10989",
+      "frontendId": "10989",
+      "title": "수 정렬하기 3",
+      "titleSlug": "10989_수_정렬하기_3",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10989",
+      "firstAcceptedDate": "2025-12-26",
+      "lastAcceptedDate": "2025-12-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10989_수_정렬하기_3.swift",
+          "firstAcceptedDate": "2025-12-26",
+          "lastAcceptedDate": "2025-12-26"
+        }
+      }
+    },
+    {
+      "problemId": "10998",
+      "frontendId": "10998",
+      "title": "A×B",
+      "titleSlug": "10998_A×B",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/10998",
+      "firstAcceptedDate": "2025-12-30",
+      "lastAcceptedDate": "2025-12-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/10998_A×B.swift",
+          "firstAcceptedDate": "2025-12-30",
+          "lastAcceptedDate": "2025-12-30"
+        }
+      }
+    },
+    {
+      "problemId": "11021",
+      "frontendId": "11021",
+      "title": "A+B - 7",
+      "titleSlug": "11021_A+B_-_7",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11021",
+      "firstAcceptedDate": "2026-03-29",
+      "lastAcceptedDate": "2026-03-29",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11021_A+B_-_7.swift",
+          "firstAcceptedDate": "2026-03-29",
+          "lastAcceptedDate": "2026-03-29"
+        }
+      }
+    },
+    {
+      "problemId": "11022",
+      "frontendId": "11022",
+      "title": "A+B - 8",
+      "titleSlug": "11022_A+B_-_8",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11022",
+      "firstAcceptedDate": "2026-04-06",
+      "lastAcceptedDate": "2026-04-06",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11022_A+B_-_8.swift",
+          "firstAcceptedDate": "2026-04-06",
+          "lastAcceptedDate": "2026-04-06"
+        }
+      }
+    },
+    {
+      "problemId": "11047",
+      "frontendId": "11047",
+      "title": "동전 0",
+      "titleSlug": "11047_동전_0",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11047",
+      "firstAcceptedDate": "2025-03-24",
+      "lastAcceptedDate": "2025-03-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11047_동전_0.swift",
+          "firstAcceptedDate": "2025-03-24",
+          "lastAcceptedDate": "2025-03-24"
+        }
+      }
+    },
+    {
+      "problemId": "11053",
+      "frontendId": "11053",
+      "title": "가장 긴 증가하는 부분 수열",
+      "titleSlug": "11053_가장_긴_증가하는_부분_수열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11053",
+      "firstAcceptedDate": "2026-02-26",
+      "lastAcceptedDate": "2026-02-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11053_가장_긴_증가하는_부분_수열.swift",
+          "firstAcceptedDate": "2026-02-26",
+          "lastAcceptedDate": "2026-02-26"
+        }
+      }
+    },
+    {
+      "problemId": "11055",
+      "frontendId": "11055",
+      "title": "가장 큰 증가하는 부분 수열",
+      "titleSlug": "11055_가장_큰_증가하는_부분_수열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11055",
+      "firstAcceptedDate": "2026-02-26",
+      "lastAcceptedDate": "2026-02-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11055_가장_큰_증가하는_부분_수열.swift",
+          "firstAcceptedDate": "2026-02-26",
+          "lastAcceptedDate": "2026-02-26"
+        }
+      }
+    },
+    {
+      "problemId": "11279",
+      "frontendId": "11279",
+      "title": "최대 힙",
+      "titleSlug": "11279_최대_힙",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11279",
+      "firstAcceptedDate": "2026-03-04",
+      "lastAcceptedDate": "2026-03-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11279_최대_힙.swift",
+          "firstAcceptedDate": "2026-03-04",
+          "lastAcceptedDate": "2026-03-04"
+        }
+      }
+    },
+    {
+      "problemId": "11286",
+      "frontendId": "11286",
+      "title": "절댓값 힙",
+      "titleSlug": "11286_절댓값_힙",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11286",
+      "firstAcceptedDate": "2025-10-17",
+      "lastAcceptedDate": "2025-10-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11286_절댓값_힙.swift",
+          "firstAcceptedDate": "2025-10-17",
+          "lastAcceptedDate": "2025-10-17"
+        }
+      }
+    },
+    {
+      "problemId": "11403",
+      "frontendId": "11403",
+      "title": "경로 찾기",
+      "titleSlug": "11403_경로_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11403",
+      "firstAcceptedDate": "2025-11-05",
+      "lastAcceptedDate": "2025-11-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11403_경로_찾기.swift",
+          "firstAcceptedDate": "2025-11-05",
+          "lastAcceptedDate": "2025-11-05"
+        }
+      }
+    },
+    {
+      "problemId": "11404",
+      "frontendId": "11404",
+      "title": "플로이드",
+      "titleSlug": "11404_플로이드",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11404",
+      "firstAcceptedDate": "2026-01-05",
+      "lastAcceptedDate": "2026-01-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11404_플로이드.swift",
+          "firstAcceptedDate": "2026-01-05",
+          "lastAcceptedDate": "2026-01-05"
+        }
+      }
+    },
+    {
+      "problemId": "11559",
+      "frontendId": "11559",
+      "title": "Puyo Puyo",
+      "titleSlug": "11559_Puyo_Puyo",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11559",
+      "firstAcceptedDate": "2026-03-12",
+      "lastAcceptedDate": "2026-03-12",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11559_Puyo_Puyo.swift",
+          "firstAcceptedDate": "2026-03-12",
+          "lastAcceptedDate": "2026-03-12"
+        }
+      }
+    },
+    {
+      "problemId": "11562",
+      "frontendId": "11562",
+      "title": "백양로 브레이크",
+      "titleSlug": "11562_백양로_브레이크",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11562",
+      "firstAcceptedDate": "2026-01-11",
+      "lastAcceptedDate": "2026-01-11",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11562_백양로_브레이크.swift",
+          "firstAcceptedDate": "2026-01-11",
+          "lastAcceptedDate": "2026-01-11"
+        }
+      }
+    },
+    {
+      "problemId": "11651",
+      "frontendId": "11651",
+      "title": "좌표 정렬하기 2",
+      "titleSlug": "11651_좌표_정렬하기_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11651",
+      "firstAcceptedDate": "2025-12-27",
+      "lastAcceptedDate": "2025-12-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11651_좌표_정렬하기_2.swift",
+          "firstAcceptedDate": "2025-12-27",
+          "lastAcceptedDate": "2025-12-27"
+        }
+      }
+    },
+    {
+      "problemId": "11653",
+      "frontendId": "11653",
+      "title": "소인수분해",
+      "titleSlug": "11653_소인수분해",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11653",
+      "firstAcceptedDate": "2025-07-28",
+      "lastAcceptedDate": "2025-07-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11653_소인수분해.swift",
+          "firstAcceptedDate": "2025-07-28",
+          "lastAcceptedDate": "2025-07-28"
+        }
+      }
+    },
+    {
+      "problemId": "11654",
+      "frontendId": "11654",
+      "title": "아스키 코드",
+      "titleSlug": "11654_아스키_코드",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11654",
+      "firstAcceptedDate": "2025-12-31",
+      "lastAcceptedDate": "2025-12-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11654_아스키_코드.swift",
+          "firstAcceptedDate": "2025-12-31",
+          "lastAcceptedDate": "2025-12-31"
+        }
+      }
+    },
+    {
+      "problemId": "11659",
+      "frontendId": "11659",
+      "title": "구간 합 구하기 4",
+      "titleSlug": "11659_구간_합_구하기_4",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11659",
+      "firstAcceptedDate": "2025-03-21",
+      "lastAcceptedDate": "2025-03-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11659_구간_합_구하기_4.swift",
+          "firstAcceptedDate": "2025-03-21",
+          "lastAcceptedDate": "2025-03-21"
+        }
+      }
+    },
+    {
+      "problemId": "11720",
+      "frontendId": "11720",
+      "title": "숫자의 합",
+      "titleSlug": "11720_숫자의_합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11720",
+      "firstAcceptedDate": "2025-12-28",
+      "lastAcceptedDate": "2025-12-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11720_숫자의_합.swift",
+          "firstAcceptedDate": "2025-12-28",
+          "lastAcceptedDate": "2025-12-28"
+        }
+      }
+    },
+    {
+      "problemId": "11723",
+      "frontendId": "11723",
+      "title": "집합",
+      "titleSlug": "11723_집합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11723",
+      "firstAcceptedDate": "2025-12-19",
+      "lastAcceptedDate": "2025-12-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11723_집합.swift",
+          "firstAcceptedDate": "2025-12-19",
+          "lastAcceptedDate": "2025-12-19"
+        }
+      }
+    },
+    {
+      "problemId": "11724",
+      "frontendId": "11724",
+      "title": "연결 요소의 개수",
+      "titleSlug": "11724_연결_요소의_개수",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11724",
+      "firstAcceptedDate": "2025-10-24",
+      "lastAcceptedDate": "2025-10-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11724_연결_요소의_개수.swift",
+          "firstAcceptedDate": "2025-10-24",
+          "lastAcceptedDate": "2025-10-24"
+        }
+      }
+    },
+    {
+      "problemId": "11725",
+      "frontendId": "11725",
+      "title": "트리의 부모 찾기",
+      "titleSlug": "11725_트리의_부모_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11725",
+      "firstAcceptedDate": "2025-10-28",
+      "lastAcceptedDate": "2025-10-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11725_트리의_부모_찾기.swift",
+          "firstAcceptedDate": "2025-10-28",
+          "lastAcceptedDate": "2025-10-28"
+        }
+      }
+    },
+    {
+      "problemId": "11726",
+      "frontendId": "11726",
+      "title": "2×n 타일링",
+      "titleSlug": "11726_2×n_타일링",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11726",
+      "firstAcceptedDate": "2025-03-21",
+      "lastAcceptedDate": "2025-03-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11726_2×n_타일링.swift",
+          "firstAcceptedDate": "2025-03-21",
+          "lastAcceptedDate": "2025-03-21"
+        }
+      }
+    },
+    {
+      "problemId": "11728",
+      "frontendId": "11728",
+      "title": "배열 합치기",
+      "titleSlug": "11728_배열_합치기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11728",
+      "firstAcceptedDate": "2024-07-19",
+      "lastAcceptedDate": "2024-07-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11728_배열_합치기.swift",
+          "firstAcceptedDate": "2024-07-19",
+          "lastAcceptedDate": "2024-07-19"
+        }
+      }
+    },
+    {
+      "problemId": "11729",
+      "frontendId": "11729",
+      "title": "하노이 탑 이동 순서",
+      "titleSlug": "11729_하노이_탑_이동_순서",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11729",
+      "firstAcceptedDate": "2024-06-04",
+      "lastAcceptedDate": "2024-06-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11729_하노이_탑_이동_순서.swift",
+          "firstAcceptedDate": "2024-06-04",
+          "lastAcceptedDate": "2024-06-04"
+        }
+      }
+    },
+    {
+      "problemId": "11779",
+      "frontendId": "11779",
+      "title": "최소비용 구하기 2",
+      "titleSlug": "11779_최소비용_구하기_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11779",
+      "firstAcceptedDate": "2026-01-14",
+      "lastAcceptedDate": "2026-01-14",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11779_최소비용_구하기_2.swift",
+          "firstAcceptedDate": "2026-01-14",
+          "lastAcceptedDate": "2026-01-14"
+        }
+      }
+    },
+    {
+      "problemId": "11780",
+      "frontendId": "11780",
+      "title": "플로이드 2",
+      "titleSlug": "11780_플로이드_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11780",
+      "firstAcceptedDate": "2026-01-05",
+      "lastAcceptedDate": "2026-01-05",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11780_플로이드_2.swift",
+          "firstAcceptedDate": "2026-01-05",
+          "lastAcceptedDate": "2026-01-05"
+        }
+      }
+    },
+    {
+      "problemId": "11931",
+      "frontendId": "11931",
+      "title": "수 정렬하기 4",
+      "titleSlug": "11931_수_정렬하기_4",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/11931",
+      "firstAcceptedDate": "2024-07-24",
+      "lastAcceptedDate": "2024-07-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/11931_수_정렬하기_4.swift",
+          "firstAcceptedDate": "2024-07-24",
+          "lastAcceptedDate": "2024-07-24"
+        }
+      }
+    },
+    {
+      "problemId": "12851",
+      "frontendId": "12851",
+      "title": "숨바꼭질 2",
+      "titleSlug": "12851_숨바꼭질_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/12851",
+      "firstAcceptedDate": "2026-02-28",
+      "lastAcceptedDate": "2026-02-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/12851_숨바꼭질_2.swift",
+          "firstAcceptedDate": "2026-02-28",
+          "lastAcceptedDate": "2026-02-28"
+        }
+      }
+    },
+    {
+      "problemId": "12852",
+      "frontendId": "12852",
+      "title": "1로 만들기 2",
+      "titleSlug": "12852_1로_만들기_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/12852",
+      "firstAcceptedDate": "2025-03-24",
+      "lastAcceptedDate": "2025-03-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/12852_1로_만들기_2.swift",
+          "firstAcceptedDate": "2025-03-24",
+          "lastAcceptedDate": "2025-03-24"
+        }
+      }
+    },
+    {
+      "problemId": "12865",
+      "frontendId": "12865",
+      "title": "평범한 배낭",
+      "titleSlug": "12865_평범한_배낭",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/12865",
+      "firstAcceptedDate": "2025-03-31",
+      "lastAcceptedDate": "2025-03-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/12865_평범한_배낭.swift",
+          "firstAcceptedDate": "2025-03-31",
+          "lastAcceptedDate": "2025-03-31"
+        }
+      }
+    },
+    {
+      "problemId": "13335",
+      "frontendId": "13335",
+      "title": "트럭",
+      "titleSlug": "13335_트럭",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/13335",
+      "firstAcceptedDate": "2025-11-07",
+      "lastAcceptedDate": "2025-11-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/13335_트럭.swift",
+          "firstAcceptedDate": "2025-11-07",
+          "lastAcceptedDate": "2025-11-07"
+        }
+      }
+    },
+    {
+      "problemId": "13418",
+      "frontendId": "13418",
+      "title": "학교 탐방하기",
+      "titleSlug": "13418_학교_탐방하기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/13418",
+      "firstAcceptedDate": "2026-01-04",
+      "lastAcceptedDate": "2026-01-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/13418_학교_탐방하기.swift",
+          "firstAcceptedDate": "2026-01-04",
+          "lastAcceptedDate": "2026-01-04"
+        }
+      }
+    },
+    {
+      "problemId": "13549",
+      "frontendId": "13549",
+      "title": "숨바꼭질 3",
+      "titleSlug": "13549_숨바꼭질_3",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/13549",
+      "firstAcceptedDate": "2026-02-27",
+      "lastAcceptedDate": "2026-02-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/13549_숨바꼭질_3.swift",
+          "firstAcceptedDate": "2026-02-27",
+          "lastAcceptedDate": "2026-02-27"
+        }
+      }
+    },
+    {
+      "problemId": "13913",
+      "frontendId": "13913",
+      "title": "숨바꼭질 4",
+      "titleSlug": "13913_숨바꼭질_4",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/13913",
+      "firstAcceptedDate": "2026-03-01",
+      "lastAcceptedDate": "2026-03-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/13913_숨바꼭질_4.swift",
+          "firstAcceptedDate": "2026-03-01",
+          "lastAcceptedDate": "2026-03-01"
+        }
+      }
+    },
+    {
+      "problemId": "14425",
+      "frontendId": "14425",
+      "title": "문자열 집합",
+      "titleSlug": "14425_문자열_집합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/14425",
+      "firstAcceptedDate": "2026-01-27",
+      "lastAcceptedDate": "2026-01-27",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/14425_문자열_집합.swift",
+          "firstAcceptedDate": "2026-01-27",
+          "lastAcceptedDate": "2026-01-27"
+        }
+      }
+    },
+    {
+      "problemId": "14426",
+      "frontendId": "14426",
+      "title": "접두사 찾기",
+      "titleSlug": "14426_접두사_찾기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/14426",
+      "firstAcceptedDate": "2026-01-28",
+      "lastAcceptedDate": "2026-01-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/14426_접두사_찾기.swift",
+          "firstAcceptedDate": "2026-01-28",
+          "lastAcceptedDate": "2026-01-28"
+        }
+      }
+    },
+    {
+      "problemId": "14499",
+      "frontendId": "14499",
+      "title": "주사위 굴리기",
+      "titleSlug": "14499_주사위_굴리기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/14499",
+      "firstAcceptedDate": "2025-10-23",
+      "lastAcceptedDate": "2025-10-23",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/14499_주사위_굴리기.swift",
+          "firstAcceptedDate": "2025-10-23",
+          "lastAcceptedDate": "2025-10-23"
+        }
+      }
+    },
+    {
+      "problemId": "14501",
+      "frontendId": "14501",
+      "title": "퇴사",
+      "titleSlug": "14501_퇴사",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/14501",
+      "firstAcceptedDate": "2026-03-03",
+      "lastAcceptedDate": "2026-03-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/14501_퇴사.swift",
+          "firstAcceptedDate": "2026-03-03",
+          "lastAcceptedDate": "2026-03-03"
+        }
+      }
+    },
+    {
+      "problemId": "14938",
+      "frontendId": "14938",
+      "title": "서강그라운드",
+      "titleSlug": "14938_서강그라운드",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/14938",
+      "firstAcceptedDate": "2026-01-07",
+      "lastAcceptedDate": "2026-01-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/14938_서강그라운드.swift",
+          "firstAcceptedDate": "2026-01-07",
+          "lastAcceptedDate": "2026-01-07"
+        }
+      }
+    },
+    {
+      "problemId": "15312",
+      "frontendId": "15312",
+      "title": "이름 궁합",
+      "titleSlug": "15312_이름_궁합",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15312",
+      "firstAcceptedDate": "2026-02-07",
+      "lastAcceptedDate": "2026-02-07",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15312_이름_궁합.swift",
+          "firstAcceptedDate": "2026-02-07",
+          "lastAcceptedDate": "2026-02-07"
+        }
+      }
+    },
+    {
+      "problemId": "15649",
+      "frontendId": "15649",
+      "title": "N과 M (1)",
+      "titleSlug": "15649_N과_M_(1)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15649",
+      "firstAcceptedDate": "2024-06-24",
+      "lastAcceptedDate": "2024-06-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15649_N과_M_(1).swift",
+          "firstAcceptedDate": "2024-06-24",
+          "lastAcceptedDate": "2024-06-24"
+        }
+      }
+    },
+    {
+      "problemId": "15650",
+      "frontendId": "15650",
+      "title": "N과 M (2)",
+      "titleSlug": "15650_N과_M_(2)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15650",
+      "firstAcceptedDate": "2024-07-01",
+      "lastAcceptedDate": "2024-07-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15650_N과_M_(2).swift",
+          "firstAcceptedDate": "2024-07-01",
+          "lastAcceptedDate": "2024-07-01"
+        }
+      }
+    },
+    {
+      "problemId": "15651",
+      "frontendId": "15651",
+      "title": "N과 M (3)",
+      "titleSlug": "15651_N과_M_(3)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15651",
+      "firstAcceptedDate": "2024-07-01",
+      "lastAcceptedDate": "2024-07-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15651_N과_M_(3).swift",
+          "firstAcceptedDate": "2024-07-01",
+          "lastAcceptedDate": "2024-07-01"
+        }
+      }
+    },
+    {
+      "problemId": "15652",
+      "frontendId": "15652",
+      "title": "N과 M (4)",
+      "titleSlug": "15652_N과_M_(4)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15652",
+      "firstAcceptedDate": "2026-04-15",
+      "lastAcceptedDate": "2026-04-15",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15652_N과_M_(4).swift",
+          "firstAcceptedDate": "2026-04-15",
+          "lastAcceptedDate": "2026-04-15"
+        }
+      }
+    },
+    {
+      "problemId": "15654",
+      "frontendId": "15654",
+      "title": "N과 M (5)",
+      "titleSlug": "15654_N과_M_(5)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15654",
+      "firstAcceptedDate": "2026-03-08",
+      "lastAcceptedDate": "2026-03-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15654_N과_M_(5).swift",
+          "firstAcceptedDate": "2026-03-08",
+          "lastAcceptedDate": "2026-03-08"
+        }
+      }
+    },
+    {
+      "problemId": "15681",
+      "frontendId": "15681",
+      "title": "트리와 쿼리",
+      "titleSlug": "15681_트리와_쿼리",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15681",
+      "firstAcceptedDate": "2025-11-02",
+      "lastAcceptedDate": "2025-11-02",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15681_트리와_쿼리.swift",
+          "firstAcceptedDate": "2025-11-02",
+          "lastAcceptedDate": "2025-11-02"
+        }
+      }
+    },
+    {
+      "problemId": "15683",
+      "frontendId": "15683",
+      "title": "감시",
+      "titleSlug": "15683_감시",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15683",
+      "firstAcceptedDate": "2024-07-08",
+      "lastAcceptedDate": "2024-07-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15683_감시.swift",
+          "firstAcceptedDate": "2024-07-08",
+          "lastAcceptedDate": "2024-07-08"
+        }
+      }
+    },
+    {
+      "problemId": "15686",
+      "frontendId": "15686",
+      "title": "치킨 배달",
+      "titleSlug": "15686_치킨_배달",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15686",
+      "firstAcceptedDate": "2026-04-13",
+      "lastAcceptedDate": "2026-04-13",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15686_치킨_배달.swift",
+          "firstAcceptedDate": "2026-04-13",
+          "lastAcceptedDate": "2026-04-13"
+        }
+      }
+    },
+    {
+      "problemId": "15688",
+      "frontendId": "15688",
+      "title": "수 정렬하기 5",
+      "titleSlug": "15688_수_정렬하기_5",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/15688",
+      "firstAcceptedDate": "2026-01-24",
+      "lastAcceptedDate": "2026-01-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/15688_수_정렬하기_5.swift",
+          "firstAcceptedDate": "2026-01-24",
+          "lastAcceptedDate": "2026-01-24"
+        }
+      }
+    },
+    {
+      "problemId": "16172",
+      "frontendId": "16172",
+      "title": "나는 친구가 적다 (Large)",
+      "titleSlug": "16172_나는_친구가_적다_(Large)",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16172",
+      "firstAcceptedDate": "2026-01-21",
+      "lastAcceptedDate": "2026-01-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16172_나는_친구가_적다_(Large).swift",
+          "firstAcceptedDate": "2026-01-21",
+          "lastAcceptedDate": "2026-01-21"
+        }
+      }
+    },
+    {
+      "problemId": "16398",
+      "frontendId": "16398",
+      "title": "행성 연결",
+      "titleSlug": "16398_행성_연결",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16398",
+      "firstAcceptedDate": "2026-01-03",
+      "lastAcceptedDate": "2026-01-03",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16398_행성_연결.swift",
+          "firstAcceptedDate": "2026-01-03",
+          "lastAcceptedDate": "2026-01-03"
+        }
+      }
+    },
+    {
+      "problemId": "16906",
+      "frontendId": "16906",
+      "title": "욱제어",
+      "titleSlug": "16906_욱제어",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16906",
+      "firstAcceptedDate": "2026-02-01",
+      "lastAcceptedDate": "2026-02-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16906_욱제어.swift",
+          "firstAcceptedDate": "2026-02-01",
+          "lastAcceptedDate": "2026-02-01"
+        }
+      }
+    },
+    {
+      "problemId": "16916",
+      "frontendId": "16916",
+      "title": "부분 문자열",
+      "titleSlug": "16916_부분_문자열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16916",
+      "firstAcceptedDate": "2026-01-21",
+      "lastAcceptedDate": "2026-01-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16916_부분_문자열.swift",
+          "firstAcceptedDate": "2026-01-21",
+          "lastAcceptedDate": "2026-01-21"
+        }
+      }
+    },
+    {
+      "problemId": "16918",
+      "frontendId": "16918",
+      "title": "봄버맨",
+      "titleSlug": "16918_봄버맨",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16918",
+      "firstAcceptedDate": "2026-02-20",
+      "lastAcceptedDate": "2026-02-20",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16918_봄버맨.swift",
+          "firstAcceptedDate": "2026-02-20",
+          "lastAcceptedDate": "2026-02-20"
+        }
+      }
+    },
+    {
+      "problemId": "16934",
+      "frontendId": "16934",
+      "title": "게임 닉네임",
+      "titleSlug": "16934_게임_닉네임",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16934",
+      "firstAcceptedDate": "2026-01-30",
+      "lastAcceptedDate": "2026-01-30",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16934_게임_닉네임.swift",
+          "firstAcceptedDate": "2026-01-30",
+          "lastAcceptedDate": "2026-01-30"
+        }
+      }
+    },
+    {
+      "problemId": "16943",
+      "frontendId": "16943",
+      "title": "숫자 재배치",
+      "titleSlug": "16943_숫자_재배치",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16943",
+      "firstAcceptedDate": "2026-03-26",
+      "lastAcceptedDate": "2026-03-26",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16943_숫자_재배치.swift",
+          "firstAcceptedDate": "2026-03-26",
+          "lastAcceptedDate": "2026-03-26"
+        }
+      }
+    },
+    {
+      "problemId": "16953",
+      "frontendId": "16953",
+      "title": "A → B",
+      "titleSlug": "16953_A_→_B",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/16953",
+      "firstAcceptedDate": "2025-12-28",
+      "lastAcceptedDate": "2025-12-28",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/16953_A_→_B.swift",
+          "firstAcceptedDate": "2025-12-28",
+          "lastAcceptedDate": "2025-12-28"
+        }
+      }
+    },
+    {
+      "problemId": "17182",
+      "frontendId": "17182",
+      "title": "우주 탐사선",
+      "titleSlug": "17182_우주_탐사선",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/17182",
+      "firstAcceptedDate": "2026-01-09",
+      "lastAcceptedDate": "2026-01-09",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/17182_우주_탐사선.swift",
+          "firstAcceptedDate": "2026-01-09",
+          "lastAcceptedDate": "2026-01-09"
+        }
+      }
+    },
+    {
+      "problemId": "17478",
+      "frontendId": "17478",
+      "title": "재귀함수가 뭔가요?",
+      "titleSlug": "17478_재귀함수가_뭔가요",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/17478",
+      "firstAcceptedDate": "2024-06-04",
+      "lastAcceptedDate": "2024-06-04",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/17478_재귀함수가_뭔가요.swift",
+          "firstAcceptedDate": "2024-06-04",
+          "lastAcceptedDate": "2024-06-04"
+        }
+      }
+    },
+    {
+      "problemId": "17835",
+      "frontendId": "17835",
+      "title": "면접보는 승범이네",
+      "titleSlug": "17835_면접보는_승범이네",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/17835",
+      "firstAcceptedDate": "2026-01-18",
+      "lastAcceptedDate": "2026-01-18",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/17835_면접보는_승범이네.swift",
+          "firstAcceptedDate": "2026-01-18",
+          "lastAcceptedDate": "2026-01-18"
+        }
+      }
+    },
+    {
+      "problemId": "17952",
+      "frontendId": "17952",
+      "title": "과제는 끝나지 않아!",
+      "titleSlug": "17952_과제는_끝나지_않아!",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/17952",
+      "firstAcceptedDate": "2026-03-10",
+      "lastAcceptedDate": "2026-03-10",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/17952_과제는_끝나지_않아!.swift",
+          "firstAcceptedDate": "2026-03-10",
+          "lastAcceptedDate": "2026-03-10"
+        }
+      }
+    },
+    {
+      "problemId": "18258",
+      "frontendId": "18258",
+      "title": "큐 2",
+      "titleSlug": "18258_큐_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/18258",
+      "firstAcceptedDate": "2026-01-01",
+      "lastAcceptedDate": "2026-01-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/18258_큐_2.swift",
+          "firstAcceptedDate": "2026-01-01",
+          "lastAcceptedDate": "2026-01-01"
+        }
+      }
+    },
+    {
+      "problemId": "18809",
+      "frontendId": "18809",
+      "title": "Gaaaaaaaaaarden",
+      "titleSlug": "18809_Gaaaaaaaaaarden",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/18809",
+      "firstAcceptedDate": "2026-03-21",
+      "lastAcceptedDate": "2026-03-21",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/18809_Gaaaaaaaaaarden.swift",
+          "firstAcceptedDate": "2026-03-21",
+          "lastAcceptedDate": "2026-03-21"
+        }
+      }
+    },
+    {
+      "problemId": "18870",
+      "frontendId": "18870",
+      "title": "좌표 압축",
+      "titleSlug": "18870_좌표_압축",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/18870",
+      "firstAcceptedDate": "2025-05-11",
+      "lastAcceptedDate": "2025-05-11",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/18870_좌표_압축.swift",
+          "firstAcceptedDate": "2025-05-11",
+          "lastAcceptedDate": "2025-05-11"
+        }
+      }
+    },
+    {
+      "problemId": "20183",
+      "frontendId": "20183",
+      "title": "골목 대장 호석 - 효율성 2",
+      "titleSlug": "20183_골목_대장_호석_-_효율성_2",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/20183",
+      "firstAcceptedDate": "2026-01-19",
+      "lastAcceptedDate": "2026-01-19",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/20183_골목_대장_호석_-_효율성_2.swift",
+          "firstAcceptedDate": "2026-01-19",
+          "lastAcceptedDate": "2026-01-19"
+        }
+      }
+    },
+    {
+      "problemId": "21276",
+      "frontendId": "21276",
+      "title": "계보 복원가 호석",
+      "titleSlug": "21276_계보_복원가_호석",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/21276",
+      "firstAcceptedDate": "2025-11-24",
+      "lastAcceptedDate": "2025-11-24",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/21276_계보_복원가_호석.swift",
+          "firstAcceptedDate": "2025-11-24",
+          "lastAcceptedDate": "2025-11-24"
+        }
+      }
+    },
+    {
+      "problemId": "21940",
+      "frontendId": "21940",
+      "title": "가운데에서 만나기",
+      "titleSlug": "21940_가운데에서_만나기",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/21940",
+      "firstAcceptedDate": "2026-01-08",
+      "lastAcceptedDate": "2026-01-08",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/21940_가운데에서_만나기.swift",
+          "firstAcceptedDate": "2026-01-08",
+          "lastAcceptedDate": "2026-01-08"
+        }
+      }
+    },
+    {
+      "problemId": "25083",
+      "frontendId": "25083",
+      "title": "새싹",
+      "titleSlug": "25083_새싹",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/25083",
+      "firstAcceptedDate": "2025-12-31",
+      "lastAcceptedDate": "2025-12-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/25083_새싹.swift",
+          "firstAcceptedDate": "2025-12-31",
+          "lastAcceptedDate": "2025-12-31"
+        }
+      }
+    },
+    {
+      "problemId": "25304",
+      "frontendId": "25304",
+      "title": "영수증",
+      "titleSlug": "25304_영수증",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/25304",
+      "firstAcceptedDate": "2026-04-01",
+      "lastAcceptedDate": "2026-04-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/25304_영수증.swift",
+          "firstAcceptedDate": "2026-04-01",
+          "lastAcceptedDate": "2026-04-01"
+        }
+      }
+    },
+    {
+      "problemId": "27866",
+      "frontendId": "27866",
+      "title": "문자와 문자열",
+      "titleSlug": "27866_문자와_문자열",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/27866",
+      "firstAcceptedDate": "2025-12-31",
+      "lastAcceptedDate": "2025-12-31",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/27866_문자와_문자열.swift",
+          "firstAcceptedDate": "2025-12-31",
+          "lastAcceptedDate": "2025-12-31"
+        }
+      }
+    },
+    {
+      "problemId": "31403",
+      "frontendId": "31403",
+      "title": "$A + B - C$",
+      "titleSlug": "31403_$A_+_B_-_C$",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/31403",
+      "firstAcceptedDate": "2026-01-01",
+      "lastAcceptedDate": "2026-01-01",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/31403_$A_+_B_-_C$.swift",
+          "firstAcceptedDate": "2026-01-01",
+          "lastAcceptedDate": "2026-01-01"
+        }
+      }
+    },
+    {
+      "problemId": "34671",
+      "frontendId": "34671",
+      "title": "무토의 일본 여행",
+      "titleSlug": "34671_무토의_일본_여행",
+      "difficulty": "-",
+      "url": "https://www.acmicpc.net/problem/34671",
+      "firstAcceptedDate": "2026-02-17",
+      "lastAcceptedDate": "2026-02-17",
+      "languages": {
+        "swift": {
+          "solutionPath": "boj/swift/34671_무토의_일본_여행.swift",
+          "firstAcceptedDate": "2026-02-17",
+          "lastAcceptedDate": "2026-02-17"
+        }
+      }
+    }
+  ]
+}

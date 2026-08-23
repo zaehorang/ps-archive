@@ -8,9 +8,7 @@ Python solutions included where useful.
 
 ## Structure
 
-- `archive/`: older BOJ solutions and algorithm practice notes
+- `boj/`: BOJ solutions and generated problem index
 - `programmers/`: Programmers solutions and generated problem index
 - `leetcode/`: LeetCode solutions and generated problem index
 - `swea/`: SW Expert Academy solutions and generated problem index
-- `swift/`: Swift playground app and shared data structure implementations
-
