@@ -107,6 +107,27 @@
       }
     },
     {
+      "problemId": "12985",
+      "frontendId": "12985",
+      "title": "예상 대진표",
+      "titleSlug": "12985_예상_대진표",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=python3",
+      "lastSyncedAt": "2026-08-23T02:46:46.964Z",
+      "firstAcceptedDate": "2026-08-23",
+      "lastAcceptedDate": "2026-08-23",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12985_예상_대진표.py",
+          "lastAcceptedSourceId": "programmers:12985:python3:0bl4qnd",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-23T02:46:46.964Z",
+          "firstAcceptedDate": "2026-08-23",
+          "lastAcceptedDate": "2026-08-23"
+        }
+      }
+    },
+    {
       "problemId": "12987",
       "frontendId": "12987",
       "title": "숫자 게임",
@@ -477,6 +498,10 @@
       },
       "2026-08-20": {
         "acceptedCount": 3,
+        "newProblemCount": 1
+      },
+      "2026-08-23": {
+        "acceptedCount": 1,
         "newProblemCount": 1
       }
     }
