@@ -163,15 +163,15 @@
       "titleSlug": "17677_1차_뉴스_클러스터링",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/17677",
-      "lastSyncedAt": "2026-08-24T01:08:26.169Z",
+      "lastSyncedAt": "2026-08-24T01:26:38.971Z",
       "firstAcceptedDate": "2026-08-24",
       "lastAcceptedDate": "2026-08-24",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/17677_1차_뉴스_클러스터링.py",
-          "lastAcceptedSourceId": "programmers:17677:python3:1wpn9v4",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-08-24T01:08:26.169Z",
+          "lastAcceptedSourceId": "programmers:17677:python3:1ugf2lk",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-08-24T01:26:38.971Z",
           "firstAcceptedDate": "2026-08-24",
           "lastAcceptedDate": "2026-08-24"
         }
