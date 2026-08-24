@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 17677 | [\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 2026-08-24 | [Python3](python/17677_1차_뉴스_클러스터링.py) |
 | 12985 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | 2026-08-23 | [Python3](python/12985_예상_대진표.py) · [C++](cpp/12985_예상_대진표.cpp) |
 | 42583 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 2026-08-20 | [Python3](python/42583_다리를_지나는_트럭.py) |
 | 12981 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 2026-08-19 | [Python3](python/12981_영어_끝말잇기.py) |
