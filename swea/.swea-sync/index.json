@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "problems": [
     {
       "problemId": "AV134DPqAA8CFAYh",
@@ -65,6 +65,27 @@
       }
     },
     {
+      "problemId": "AV7I5fgqEogDFAXB",
+      "frontendId": "2819",
+      "title": "격자판의 숫자 이어 붙이기",
+      "titleSlug": "2819_격자판의_숫자_이어_붙이기",
+      "difficulty": "-",
+      "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
+      "lastSyncedAt": "2026-08-25T00:37:53.638Z",
+      "firstAcceptedDate": "2026-08-25",
+      "lastAcceptedDate": "2026-08-25",
+      "languages": {
+        "python3": {
+          "solutionPath": "swea/python/2819_격자판의_숫자_이어_붙이기.py",
+          "lastAcceptedSourceId": "swea:AV7I5fgqEogDFAXB:python3:1j2l4rm",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-25T00:37:53.638Z",
+          "firstAcceptedDate": "2026-08-25",
+          "lastAcceptedDate": "2026-08-25"
+        }
+      }
+    },
+    {
       "problemId": "AWQmA4uK8ygDFAXj",
       "frontendId": "4615",
       "title": "재미있는 오셀로 게임",
@@ -85,13 +106,5 @@
         }
       }
     }
-  ],
-  "activity": {
-    "days": {
-      "2026-08-18": {
-        "acceptedCount": 5,
-        "newProblemCount": 4
-      }
-    }
-  }
+  ]
 }
