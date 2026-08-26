@@ -304,6 +304,27 @@
       }
     },
     {
+      "problemId": "49994",
+      "frontendId": "49994",
+      "title": "방문 길이",
+      "titleSlug": "49994_방문_길이",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/49994",
+      "lastSyncedAt": "2026-08-26T02:44:12.847Z",
+      "firstAcceptedDate": "2026-08-26",
+      "lastAcceptedDate": "2026-08-26",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/49994_방문_길이.py",
+          "lastAcceptedSourceId": "programmers:49994:python3:178apxl",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-26T02:44:12.847Z",
+          "firstAcceptedDate": "2026-08-26",
+          "lastAcceptedDate": "2026-08-26"
+        }
+      }
+    },
+    {
       "problemId": "70129",
       "frontendId": "70129",
       "title": "이진 변환 반복하기",
