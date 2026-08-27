@@ -92,15 +92,15 @@
       "titleSlug": "4013_모의_SW_역량테스트_특이한_자석",
       "difficulty": "-",
       "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
-      "lastSyncedAt": "2026-08-27T05:50:56.538Z",
+      "lastSyncedAt": "2026-08-27T06:14:25.923Z",
       "firstAcceptedDate": "2026-08-27",
       "lastAcceptedDate": "2026-08-27",
       "languages": {
         "python3": {
           "solutionPath": "swea/python/4013_모의_SW_역량테스트_특이한_자석.py",
-          "lastAcceptedSourceId": "swea:AWIeV9sKkcoDFAVH:python3:162pd4w",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-27T05:50:56.538Z",
+          "lastAcceptedSourceId": "swea:AWIeV9sKkcoDFAVH:python3:0zt2g9f",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-27T06:14:25.923Z",
           "firstAcceptedDate": "2026-08-27",
           "lastAcceptedDate": "2026-08-27"
         }
