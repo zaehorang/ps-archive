@@ -86,6 +86,27 @@
       }
     },
     {
+      "problemId": "AWIeV9sKkcoDFAVH",
+      "frontendId": "4013",
+      "title": "[모의 SW 역량테스트] 특이한 자석",
+      "titleSlug": "4013_모의_SW_역량테스트_특이한_자석",
+      "difficulty": "-",
+      "url": "https://swexpertacademy.com/main/solvingProblem/solvingProblem.do",
+      "lastSyncedAt": "2026-08-27T05:50:56.538Z",
+      "firstAcceptedDate": "2026-08-27",
+      "lastAcceptedDate": "2026-08-27",
+      "languages": {
+        "python3": {
+          "solutionPath": "swea/python/4013_모의_SW_역량테스트_특이한_자석.py",
+          "lastAcceptedSourceId": "swea:AWIeV9sKkcoDFAVH:python3:162pd4w",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-27T05:50:56.538Z",
+          "firstAcceptedDate": "2026-08-27",
+          "lastAcceptedDate": "2026-08-27"
+        }
+      }
+    },
+    {
       "problemId": "AWQmA4uK8ygDFAXj",
       "frontendId": "4615",
       "title": "재미있는 오셀로 게임",
