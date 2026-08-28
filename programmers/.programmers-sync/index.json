@@ -494,15 +494,15 @@
       "titleSlug": "138476_귤_고르기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/138476",
-      "lastSyncedAt": "2026-08-27T23:57:42.900Z",
+      "lastSyncedAt": "2026-08-28T00:10:04.220Z",
       "firstAcceptedDate": "2026-08-28",
       "lastAcceptedDate": "2026-08-28",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/138476_귤_고르기.py",
-          "lastAcceptedSourceId": "programmers:138476:python3:0ysjkt4",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-08-27T23:57:42.900Z",
+          "lastAcceptedSourceId": "programmers:138476:python3:0g3ac3b",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-08-28T00:10:04.220Z",
           "firstAcceptedDate": "2026-08-28",
           "lastAcceptedDate": "2026-08-28"
         }
