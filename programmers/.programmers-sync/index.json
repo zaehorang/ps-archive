@@ -44,6 +44,27 @@
       }
     },
     {
+      "problemId": "12941",
+      "frontendId": "12941",
+      "title": "최솟값 만들기",
+      "titleSlug": "12941_최솟값_만들기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=python3",
+      "lastSyncedAt": "2026-08-29T12:08:59.175Z",
+      "firstAcceptedDate": "2026-08-29",
+      "lastAcceptedDate": "2026-08-29",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12941_최솟값_만들기.py",
+          "lastAcceptedSourceId": "programmers:12941:python3:1npl80i",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-29T12:08:59.175Z",
+          "firstAcceptedDate": "2026-08-29",
+          "lastAcceptedDate": "2026-08-29"
+        }
+      }
+    },
+    {
       "problemId": "12978",
       "frontendId": "12978",
       "title": "배달",

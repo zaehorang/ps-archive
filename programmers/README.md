@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 12941 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 2026-08-29 | [Python3](python/12941_최솟값_만들기.py) |
 | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 2026-08-28 | [Python3](python/138476_귤_고르기.py) |
 | 49994 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | 2026-08-26 | [Python3](python/49994_방문_길이.py) |
 | 17677 | [\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 2026-08-24 | [Python3](python/17677_1차_뉴스_클러스터링.py) |
