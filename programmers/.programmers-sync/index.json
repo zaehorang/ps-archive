@@ -283,6 +283,27 @@
       }
     },
     {
+      "problemId": "43164",
+      "frontendId": "43164",
+      "title": "여행경로",
+      "titleSlug": "43164_여행경로",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=python3",
+      "lastSyncedAt": "2026-08-31T08:48:55.383Z",
+      "firstAcceptedDate": "2026-08-31",
+      "lastAcceptedDate": "2026-08-31",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/43164_여행경로.py",
+          "lastAcceptedSourceId": "programmers:43164:python3:1oi378p",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-08-31T08:48:55.383Z",
+          "firstAcceptedDate": "2026-08-31",
+          "lastAcceptedDate": "2026-08-31"
+        }
+      }
+    },
+    {
       "problemId": "43165",
       "frontendId": "43165",
       "title": "타겟 넘버",
