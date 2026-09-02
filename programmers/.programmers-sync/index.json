@@ -226,15 +226,15 @@
       "titleSlug": "42586_기능개발",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=python3",
-      "lastSyncedAt": "2026-09-02T00:55:17.078Z",
+      "lastSyncedAt": "2026-09-02T00:56:14.178Z",
       "firstAcceptedDate": "2026-09-02",
       "lastAcceptedDate": "2026-09-02",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/42586_기능개발.py",
-          "lastAcceptedSourceId": "programmers:42586:python3:1p4uf9w",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-02T00:55:17.078Z",
+          "lastAcceptedSourceId": "programmers:42586:python3:06yqj9q",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-02T00:56:14.178Z",
           "firstAcceptedDate": "2026-09-02",
           "lastAcceptedDate": "2026-09-02"
         }
