@@ -430,6 +430,27 @@
       }
     },
     {
+      "problemId": "92341",
+      "frontendId": "92341",
+      "title": "주차 요금 계산",
+      "titleSlug": "92341_주차_요금_계산",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/92341",
+      "lastSyncedAt": "2026-09-03T12:00:42.981Z",
+      "firstAcceptedDate": "2026-09-03",
+      "lastAcceptedDate": "2026-09-03",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/92341_주차_요금_계산.py",
+          "lastAcceptedSourceId": "programmers:92341:python3:16q9l5r",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-03T12:00:42.981Z",
+          "firstAcceptedDate": "2026-09-03",
+          "lastAcceptedDate": "2026-09-03"
+        }
+      }
+    },
+    {
       "problemId": "120807",
       "frontendId": "120807",
       "title": "숫자 비교하기",
