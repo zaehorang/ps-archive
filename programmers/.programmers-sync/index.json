@@ -436,15 +436,15 @@
       "titleSlug": "92341_주차_요금_계산",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/92341",
-      "lastSyncedAt": "2026-09-03T12:00:42.981Z",
+      "lastSyncedAt": "2026-09-03T12:07:49.210Z",
       "firstAcceptedDate": "2026-09-03",
       "lastAcceptedDate": "2026-09-03",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/92341_주차_요금_계산.py",
-          "lastAcceptedSourceId": "programmers:92341:python3:16q9l5r",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-03T12:00:42.981Z",
+          "lastAcceptedSourceId": "programmers:92341:python3:1audbvd",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-03T12:07:49.210Z",
           "firstAcceptedDate": "2026-09-03",
           "lastAcceptedDate": "2026-09-03"
         }
