@@ -388,6 +388,27 @@
       }
     },
     {
+      "problemId": "60061",
+      "frontendId": "60061",
+      "title": "기둥과 보 설치",
+      "titleSlug": "60061_기둥과_보_설치",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/60061",
+      "lastSyncedAt": "2026-09-04T05:14:18.069Z",
+      "firstAcceptedDate": "2026-09-04",
+      "lastAcceptedDate": "2026-09-04",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/60061_기둥과_보_설치.py",
+          "lastAcceptedSourceId": "programmers:60061:python3:008blrb",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-04T05:14:18.069Z",
+          "firstAcceptedDate": "2026-09-04",
+          "lastAcceptedDate": "2026-09-04"
+        }
+      }
+    },
+    {
       "problemId": "70129",
       "frontendId": "70129",
       "title": "이진 변환 반복하기",

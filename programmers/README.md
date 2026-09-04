@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 60061 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | 2026-09-04 | [Python3](python/60061_기둥과_보_설치.py) |
 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2026-09-03 | [Python3](python/92341_주차_요금_계산.py) |
 | 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 2026-09-02 | [Python3](python/42586_기능개발.py) |
 | 43164 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 2026-08-31 | [Python3](python/43164_여행경로.py) |
