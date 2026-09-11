@@ -29,15 +29,15 @@
       "titleSlug": "12912_두_정수_사이의_합",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12912",
-      "lastSyncedAt": "2026-09-11T04:38:24.760Z",
+      "lastSyncedAt": "2026-09-11T04:47:18.532Z",
       "firstAcceptedDate": "2026-09-11",
       "lastAcceptedDate": "2026-09-11",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12912_두_정수_사이의_합.py",
-          "lastAcceptedSourceId": "programmers:12912:python3:16gqr7v",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-09-11T04:38:24.760Z",
+          "lastAcceptedSourceId": "programmers:12912:python3:096xhug",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-09-11T04:47:18.532Z",
           "firstAcceptedDate": "2026-09-11",
           "lastAcceptedDate": "2026-09-11"
         }
