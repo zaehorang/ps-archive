@@ -23,6 +23,27 @@
       }
     },
     {
+      "problemId": "12912",
+      "frontendId": "12912",
+      "title": "두 정수 사이의 합",
+      "titleSlug": "12912_두_정수_사이의_합",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12912",
+      "lastSyncedAt": "2026-09-11T04:34:49.454Z",
+      "firstAcceptedDate": "2026-09-11",
+      "lastAcceptedDate": "2026-09-11",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12912_두_정수_사이의_합.py",
+          "lastAcceptedSourceId": "programmers:12912:python3:15qt5h9",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-11T04:34:49.454Z",
+          "firstAcceptedDate": "2026-09-11",
+          "lastAcceptedDate": "2026-09-11"
+        }
+      }
+    },
+    {
       "problemId": "12927",
       "frontendId": "12927",
       "title": "야근 지수",
