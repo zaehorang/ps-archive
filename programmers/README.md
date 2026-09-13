@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 12925 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | 2026-09-14 | [Python3](python/12925_문자열을_정수로_바꾸기.py) |
 | 12912 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | 2026-09-11 | [Python3](python/12912_두_정수_사이의_합.py) |
 | 60061 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | 2026-09-04 | [Python3](python/60061_기둥과_보_설치.py) |
 | 92341 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 2026-09-03 | [Python3](python/92341_주차_요금_계산.py) |

@@ -44,6 +44,27 @@
       }
     },
     {
+      "problemId": "12925",
+      "frontendId": "12925",
+      "title": "문자열을 정수로 바꾸기",
+      "titleSlug": "12925_문자열을_정수로_바꾸기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12925",
+      "lastSyncedAt": "2026-09-13T23:46:26.954Z",
+      "firstAcceptedDate": "2026-09-14",
+      "lastAcceptedDate": "2026-09-14",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12925_문자열을_정수로_바꾸기.py",
+          "lastAcceptedSourceId": "programmers:12925:python3:0zzd2eg",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-13T23:46:26.954Z",
+          "firstAcceptedDate": "2026-09-14",
+          "lastAcceptedDate": "2026-09-14"
+        }
+      }
+    },
+    {
       "problemId": "12927",
       "frontendId": "12927",
       "title": "야근 지수",
