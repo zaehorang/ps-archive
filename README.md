@@ -1,25 +1,13 @@
-# PS Archive · 알고리즘 풀이 기록
+# 알고리즘 풀이 기록
 
-코딩 테스트를 준비하며 푼 알고리즘 문제를 꾸준히 기록합니다.
-Swift와 Python으로 풀이를 쌓아왔고, 최근에는 Python을 중심으로 연습하고 있습니다. 일부 문제에는 다른 언어의 풀이도 함께 남아 있습니다.
+머리를 깨우고, 문제를 읽어 요구사항을 정리하는 연습을 합니다.
+조건에 맞는 자료구조와 알고리즘을 선택해 풀이로 옮기는 과정을 꾸준히 반복합니다.
 
-## 풀이 찾아보기
+## 풀이 목록
 
-플랫폼별 목록에서 문제 원문과 풀이 코드로 이동할 수 있습니다.
+Swift와 Python으로 풀이를 쌓아왔고, 최근에는 Python을 중심으로 연습하고 있습니다.
 
-| 플랫폼 | 풀이 목록 | 코드 |
-|---|---|---|
-| 백준 (BOJ) | [문제 목록](./boj/README.md) | [boj/](./boj/) |
-| Programmers | [문제 목록](./programmers/README.md) | [programmers/](./programmers/) |
-| LeetCode | [문제 목록](./leetcode/README.md) | [leetcode/](./leetcode/) |
-| SW Expert Academy | [문제 목록](./swea/README.md) | [swea/](./swea/) |
-
-각 플랫폼 아래에 언어별로 코드를 보관합니다. 같은 문제를 여러 언어로 푼 경우 목록에서 각 풀이를 확인할 수 있습니다.
-
-## 기록 방식
-
-문제를 풀며 작성한 코드를 보관하고, 필요한 경우 조건과 구현 의도를 주석으로 남깁니다.
-풀이마다 설명의 깊이는 다르며, 당시의 접근을 남긴 개인 학습 기록입니다.
-
-각 코드는 해당 플랫폼의 실행 환경과 입력·출력 형식에 맞춰 작성되어 있습니다.
-코드를 살펴볼 때는 문제 원문의 조건을 함께 확인해주세요.
+- [백준](./boj/README.md)
+- [Programmers](./programmers/README.md)
+- [LeetCode](./leetcode/README.md)
+- [SW Expert Academy](./swea/README.md)
