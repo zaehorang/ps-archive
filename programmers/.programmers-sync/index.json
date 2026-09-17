@@ -86,6 +86,27 @@
       }
     },
     {
+      "problemId": "12928",
+      "frontendId": "12928",
+      "title": "약수의 합",
+      "titleSlug": "12928_약수의_합",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12928",
+      "lastSyncedAt": "2026-09-17T08:39:54.005Z",
+      "firstAcceptedDate": "2026-09-17",
+      "lastAcceptedDate": "2026-09-17",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12928_약수의_합.py",
+          "lastAcceptedSourceId": "programmers:12928:python3:0mcyvs9",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-17T08:39:54.005Z",
+          "firstAcceptedDate": "2026-09-17",
+          "lastAcceptedDate": "2026-09-17"
+        }
+      }
+    },
+    {
       "problemId": "12931",
       "frontendId": "12931",
       "title": "자릿수 더하기",
