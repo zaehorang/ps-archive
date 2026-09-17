@@ -86,6 +86,27 @@
       }
     },
     {
+      "problemId": "12931",
+      "frontendId": "12931",
+      "title": "자릿수 더하기",
+      "titleSlug": "12931_자릿수_더하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12931",
+      "lastSyncedAt": "2026-09-17T08:33:31.684Z",
+      "firstAcceptedDate": "2026-09-17",
+      "lastAcceptedDate": "2026-09-17",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12931_자릿수_더하기.py",
+          "lastAcceptedSourceId": "programmers:12931:python3:0fhvnss",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-17T08:33:31.684Z",
+          "firstAcceptedDate": "2026-09-17",
+          "lastAcceptedDate": "2026-09-17"
+        }
+      }
+    },
+    {
       "problemId": "12941",
       "frontendId": "12941",
       "title": "최솟값 만들기",
