@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 2026-09-20 | [Python3](python/12924_숫자의_표현.py) |
 | 12928 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | 2026-09-17 | [Python3](python/12928_약수의_합.py) |
 | 12931 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | 2026-09-17 | [Python3](python/12931_자릿수_더하기.py) |
 | 12925 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | 2026-09-14 | [Python3](python/12925_문자열을_정수로_바꾸기.py) |
