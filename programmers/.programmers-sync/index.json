@@ -50,15 +50,15 @@
       "titleSlug": "12924_숫자의_표현",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=python3",
-      "lastSyncedAt": "2026-09-20T07:25:36.305Z",
+      "lastSyncedAt": "2026-09-20T07:28:13.786Z",
       "firstAcceptedDate": "2026-09-20",
       "lastAcceptedDate": "2026-09-20",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/12924_숫자의_표현.py",
-          "lastAcceptedSourceId": "programmers:12924:python3:0m4m9ae",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-20T07:25:36.305Z",
+          "lastAcceptedSourceId": "programmers:12924:python3:09vvfvj",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-20T07:28:13.786Z",
           "firstAcceptedDate": "2026-09-20",
           "lastAcceptedDate": "2026-09-20"
         }
