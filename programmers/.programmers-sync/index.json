@@ -170,6 +170,27 @@
       }
     },
     {
+      "problemId": "12973",
+      "frontendId": "12973",
+      "title": "짝지어 제거하기",
+      "titleSlug": "12973_짝지어_제거하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12973#",
+      "lastSyncedAt": "2026-09-21T07:06:22.355Z",
+      "firstAcceptedDate": "2026-09-21",
+      "lastAcceptedDate": "2026-09-21",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/12973_짝지어_제거하기.py",
+          "lastAcceptedSourceId": "programmers:12973:python3:0de5ni5",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-21T07:06:22.355Z",
+          "firstAcceptedDate": "2026-09-21",
+          "lastAcceptedDate": "2026-09-21"
+        }
+      }
+    },
+    {
       "problemId": "12978",
       "frontendId": "12978",
       "title": "배달",
