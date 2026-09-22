@@ -430,6 +430,27 @@
       }
     },
     {
+      "problemId": "43163",
+      "frontendId": "43163",
+      "title": "단어 변환",
+      "titleSlug": "43163_단어_변환",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43163?gad_source=1&gad_campaignid=22356298761&gbraid=0AAAAAC_c4nA6inWpOpe13RbqO5DOLR3ku&gclid=CjwKCAjwq8PVBhAKEiwA2i3SHf9PhfTEMeiKl_1GzabDvo1sQP1oeiPg-8s0JZiD4lt86ADOhq7j7hoCE1YQAvD_BwE",
+      "lastSyncedAt": "2026-09-22T00:26:26.497Z",
+      "firstAcceptedDate": "2026-09-22",
+      "lastAcceptedDate": "2026-09-22",
+      "languages": {
+        "swift": {
+          "solutionPath": "programmers/swift/43163_단어_변환.swift",
+          "lastAcceptedSourceId": "programmers:43163:swift:1e84vqh",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-22T00:26:26.497Z",
+          "firstAcceptedDate": "2026-09-22",
+          "lastAcceptedDate": "2026-09-22"
+        }
+      }
+    },
+    {
       "problemId": "43164",
       "frontendId": "43164",
       "title": "여행경로",
