@@ -436,7 +436,7 @@
       "titleSlug": "43163_단어_변환",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=python3",
-      "lastSyncedAt": "2026-09-22T02:05:01.236Z",
+      "lastSyncedAt": "2026-09-22T04:44:53.453Z",
       "firstAcceptedDate": "2026-09-22",
       "lastAcceptedDate": "2026-09-22",
       "languages": {
@@ -450,9 +450,9 @@
         },
         "python3": {
           "solutionPath": "programmers/python/43163_단어_변환.py",
-          "lastAcceptedSourceId": "programmers:43163:python3:08e8gar",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-22T02:05:01.236Z",
+          "lastAcceptedSourceId": "programmers:43163:python3:1xf1lhj",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-22T04:44:53.453Z",
           "firstAcceptedDate": "2026-09-22",
           "lastAcceptedDate": "2026-09-22"
         }
