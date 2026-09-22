@@ -435,8 +435,8 @@
       "title": "단어 변환",
       "titleSlug": "43163_단어_변환",
       "difficulty": "-",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=python3",
-      "lastSyncedAt": "2026-09-22T05:02:46.970Z",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43163",
+      "lastSyncedAt": "2026-09-22T07:40:39.400Z",
       "firstAcceptedDate": "2026-09-22",
       "lastAcceptedDate": "2026-09-22",
       "languages": {
@@ -450,9 +450,9 @@
         },
         "python3": {
           "solutionPath": "programmers/python/43163_단어_변환.py",
-          "lastAcceptedSourceId": "programmers:43163:python3:1y0sfik",
-          "solutionRevisionNumber": 3,
-          "lastSyncedAt": "2026-09-22T05:02:46.970Z",
+          "lastAcceptedSourceId": "programmers:43163:python3:0g4zgku",
+          "solutionRevisionNumber": 4,
+          "lastSyncedAt": "2026-09-22T07:40:39.400Z",
           "firstAcceptedDate": "2026-09-22",
           "lastAcceptedDate": "2026-09-22"
         }
