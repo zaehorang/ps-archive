@@ -1,3 +1,5 @@
+from collections import deque
+
 def solution(begin, target, words):
     def can_go(a, b):
         cnt = 0
@@ -8,33 +10,23 @@ def solution(begin, target, words):
 
         return cnt == 1
 
-    def find_idx_candidates(word):
-        idx_arr = []
+    visited = [False] * len(words)
 
-        for idx in range(len(words)):
-            if can_go(word, words[idx]):
-                idx_arr.append(idx)
+    # 현재 단어, 지금까지 변환한 횟수
+    queue = deque([(begin, 0)])
 
-        return idx_arr
-
-    answer = float('inf')
-
-    def dfs(word, visited):
-        nonlocal answer
+    while queue:
+        word, count = queue.popleft()
 
         if word == target:
-            answer = min(answer, len(visited))
-            return
+            return count
 
-        for idx in find_idx_candidates(word):
-            if idx in visited:
+        for idx in range(len(words)):
+            if visited[idx]:
                 continue
 
-            new_visited = visited.copy()
-            new_visited.append(idx)
+            if can_go(word, words[idx]):
+                visited[idx] = True
+                queue.append((words[idx], count + 1))
 
-            dfs(words[idx], new_visited)
-
-    dfs(begin, [])
-
-    return 0 if answer == float('inf') else answer
+    return 0
