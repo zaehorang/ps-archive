@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 2026-09-23 | [Python3](python/12911_다음_큰_숫자.py) |
 | 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 2026-09-22 | [Swift](swift/43163_단어_변환.swift) · [Python3](python/43163_단어_변환.py) |
 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 2026-09-21 | [Python3](python/12973_짝지어_제거하기.py) |
 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 2026-09-20 | [Python3](python/12924_숫자의_표현.py) |
