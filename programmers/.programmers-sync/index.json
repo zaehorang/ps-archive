@@ -830,6 +830,27 @@
           "lastAcceptedDate": "2026-08-28"
         }
       }
+    },
+    {
+      "problemId": "157342",
+      "frontendId": "157342",
+      "title": "자동차 평균 대여 기간 구하기",
+      "titleSlug": "157342_자동차_평균_대여_기간_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/157342",
+      "lastSyncedAt": "2026-09-29T08:23:08.476Z",
+      "firstAcceptedDate": "2026-09-29",
+      "lastAcceptedDate": "2026-09-29",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/157342_자동차_평균_대여_기간_구하기.sql",
+          "lastAcceptedSourceId": "programmers:157342:mysql:1790670188465",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-29T08:23:08.476Z",
+          "firstAcceptedDate": "2026-09-29",
+          "lastAcceptedDate": "2026-09-29"
+        }
+      }
     }
   ]
 }
