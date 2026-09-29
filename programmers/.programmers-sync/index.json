@@ -436,15 +436,15 @@
       "titleSlug": "42888_오픈채팅방",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42888",
-      "lastSyncedAt": "2026-09-29T04:27:38.506Z",
+      "lastSyncedAt": "2026-09-29T04:34:07.785Z",
       "firstAcceptedDate": "2026-09-29",
       "lastAcceptedDate": "2026-09-29",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/42888_오픈채팅방.py",
-          "lastAcceptedSourceId": "programmers:42888:python3:0funt7g",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-29T04:27:38.506Z",
+          "lastAcceptedSourceId": "programmers:42888:python3:04cc8rg",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-29T04:34:07.785Z",
           "firstAcceptedDate": "2026-09-29",
           "lastAcceptedDate": "2026-09-29"
         }
