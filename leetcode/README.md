@@ -3,6 +3,7 @@
 <!-- LEETCODE_TABLE_START -->
 | # | Title | Difficulty | Solved | Languages |
 | ---: | --- | --- | --- | --- |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | 2026-09-29 | [MySQL](mysql/0175_combine_two_tables.sql) |
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | 2026-07-08 | [Python3](python/0743_network_delay_time.py) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 2026-06-09 | [Swift](swift/0700_search_in_a_binary_search_tree.swift) |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 2026-06-09 | [Swift](swift/0701_insert_into_a_binary_search_tree.swift) |

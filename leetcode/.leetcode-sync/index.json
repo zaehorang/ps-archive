@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   "problems": [
     {
       "problemId": "1",
@@ -181,6 +181,27 @@
       }
     },
     {
+      "problemId": "175",
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "titleSlug": "combine-two-tables",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/combine-two-tables/",
+      "lastSyncedAt": "2026-09-29T08:27:56.201Z",
+      "firstAcceptedDate": "2026-09-29",
+      "lastAcceptedDate": "2026-09-29",
+      "languages": {
+        "mysql": {
+          "solutionPath": "leetcode/mysql/0175_combine_two_tables.sql",
+          "lastAcceptedSourceId": "2156862594",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-29T08:27:56.201Z",
+          "firstAcceptedDate": "2026-09-29",
+          "lastAcceptedDate": "2026-09-29"
+        }
+      }
+    },
+    {
       "problemId": "206",
       "frontendId": "206",
       "title": "Reverse Linked List",
@@ -264,49 +285,5 @@
         }
       }
     }
-  ],
-  "activity": {
-    "days": {
-      "2026-05-27": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-05-28": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-05-29": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-06-01": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-06-02": {
-        "acceptedCount": 2,
-        "newProblemCount": 0
-      },
-      "2026-06-05": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      },
-      "2026-06-07": {
-        "acceptedCount": 3,
-        "newProblemCount": 2
-      },
-      "2026-06-08": {
-        "acceptedCount": 3,
-        "newProblemCount": 1
-      },
-      "2026-06-09": {
-        "acceptedCount": 4,
-        "newProblemCount": 2
-      },
-      "2026-07-08": {
-        "acceptedCount": 2,
-        "newProblemCount": 1
-      }
-    }
-  }
+  ]
 }
