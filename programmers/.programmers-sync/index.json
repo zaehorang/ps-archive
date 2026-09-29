@@ -346,6 +346,27 @@
       }
     },
     {
+      "problemId": "42576",
+      "frontendId": "42576",
+      "title": "완주하지 못한 선수",
+      "titleSlug": "42576_완주하지_못한_선수",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42576",
+      "lastSyncedAt": "2026-09-29T02:23:03.625Z",
+      "firstAcceptedDate": "2026-09-29",
+      "lastAcceptedDate": "2026-09-29",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/42576_완주하지_못한_선수.py",
+          "lastAcceptedSourceId": "programmers:42576:python3:1gvkg53",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-29T02:23:03.625Z",
+          "firstAcceptedDate": "2026-09-29",
+          "lastAcceptedDate": "2026-09-29"
+        }
+      }
+    },
+    {
       "problemId": "42583",
       "frontendId": "42583",
       "title": "다리를 지나는 트럭",
