@@ -3,9 +3,9 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
-| 42576 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 2026-09-29 | [Python3](python/42576_완주하지_못한_선수.py) |
-| 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 2026-09-29 | [Python3](python/42888_오픈채팅방.py) |
 | 157342 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | 2026-09-29 | [MySQL](mysql/157342_자동차_평균_대여_기간_구하기.sql) |
+| 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 2026-09-29 | [Python3](python/42888_오픈채팅방.py) |
+| 42576 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 2026-09-29 | [Python3](python/42576_완주하지_못한_선수.py) |
 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 2026-09-23 | [Python3](python/12911_다음_큰_숫자.py) |
 | 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 2026-09-22 | [Swift](swift/43163_단어_변환.swift) · [Python3](python/43163_단어_변환.py) |
 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 2026-09-21 | [Python3](python/12973_짝지어_제거하기.py) |
@@ -28,12 +28,12 @@
 | 12979 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 2026-08-18 | [Python3](python/12979_기지국_설치.py) |
 | 42898 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 2026-08-15 | [Python3](python/42898_등굣길.py) |
 | 12927 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 2026-08-13 | [Python3](python/12927_야근_지수.py) |
-| 12987 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 2026-08-12 | [Python3](python/12987_숫자_게임.py) |
 | 87694 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 2026-08-12 | [Python3](python/87694_아이템_줍기.py) |
+| 12987 | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 2026-08-12 | [Python3](python/12987_숫자_게임.py) |
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 2026-08-10 | [Python3](python/70129_이진_변환_반복하기.py) |
 | 43105 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 2026-08-06 | [Python3](python/43105_정수_삼각형.py) |
-| 120819 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | 2026-08-05 | [Python3](python/120819_아이스_아메리카노.py) |
 | 120821 | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | 2026-08-05 | [Python3](python/120821_배열_뒤집기.py) |
+| 120819 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | 2026-08-05 | [Python3](python/120819_아이스_아메리카노.py) |
 | 42626 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 2026-08-04 | [Python3](python/42626_더_맵게.py) |
 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 2026-07-07 | [Python3](python/49189_가장_먼_노드.py) |
 | 12978 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | 2026-07-06 | [Python3](python/12978_배달.py) |
