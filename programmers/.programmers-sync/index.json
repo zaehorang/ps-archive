@@ -979,6 +979,27 @@
       }
     },
     {
+      "problemId": "164672",
+      "frontendId": "164672",
+      "title": "조건에 부합하는 중고거래 상태 조회하기",
+      "titleSlug": "164672_조건에_부합하는_중고거래_상태_조회하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/164672",
+      "lastSyncedAt": "2026-09-30T08:45:42.586Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/164672_조건에_부합하는_중고거래_상태_조회하기.sql",
+          "lastAcceptedSourceId": "programmers:164672:mysql:1790757942527",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:45:42.586Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "169199",
       "frontendId": "169199",
       "title": "리코쳇 로봇",

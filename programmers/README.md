@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 164672 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | 2026-09-30 | [MySQL](mysql/164672_조건에_부합하는_중고거래_상태_조회하기.sql) |
 | 59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | 2026-09-30 | [MySQL](mysql/59409_중성화_여부_파악하기.sql) |
 | 276013 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | 2026-09-30 | [MySQL](mysql/276013_Python_개발자_찾기.sql) |
 | 131536 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | 2026-09-30 | [MySQL](mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql) |
