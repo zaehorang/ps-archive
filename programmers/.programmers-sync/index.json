@@ -880,15 +880,15 @@
       "titleSlug": "131536_재구매가_일어난_상품과_회원_리스트_구하기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131536",
-      "lastSyncedAt": "2026-09-30T08:31:08.476Z",
+      "lastSyncedAt": "2026-09-30T08:33:03.256Z",
       "firstAcceptedDate": "2026-09-30",
       "lastAcceptedDate": "2026-09-30",
       "languages": {
         "mysql": {
           "solutionPath": "programmers/mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql",
-          "lastAcceptedSourceId": "programmers:131536:mysql:1790757068405",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-09-30T08:31:08.476Z",
+          "lastAcceptedSourceId": "programmers:131536:mysql:1790757094493",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-09-30T08:33:03.256Z",
           "firstAcceptedDate": "2026-09-30",
           "lastAcceptedDate": "2026-09-30"
         }
