@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 276013 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | 2026-09-30 | [MySQL](mysql/276013_Python_개발자_찾기.sql) |
 | 131536 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | 2026-09-30 | [MySQL](mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql) |
 | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | 2026-09-30 | [MySQL](mysql/131533_상품_별_오프라인_매출_구하기.sql) |
 | 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | 2026-09-30 | [MySQL](mysql/144854_조건에_맞는_도서와_저자_리스트_출력하기.sql) |

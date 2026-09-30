@@ -977,6 +977,27 @@
           "lastAcceptedDate": "2026-09-30"
         }
       }
+    },
+    {
+      "problemId": "276013",
+      "frontendId": "276013",
+      "title": "Python 개발자 찾기",
+      "titleSlug": "276013_Python_개발자_찾기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/276013",
+      "lastSyncedAt": "2026-09-30T08:34:53.999Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/276013_Python_개발자_찾기.sql",
+          "lastAcceptedSourceId": "programmers:276013:mysql:1790757293934",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:34:53.999Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
     }
   ]
 }
