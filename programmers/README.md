@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | 2026-09-30 | [MySQL](mysql/144854_조건에_맞는_도서와_저자_리스트_출력하기.sql) |
 | 59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | 2026-09-30 | [MySQL](mysql/59044_오랜_기간_보호한_동물_1.sql) |
 | 59043 | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | 2026-09-30 | [MySQL](mysql/59043_있었는데요_없었습니다.sql) |
 | 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 2026-09-30 | [Python3](python/169199_리코쳇_로봇.py) |

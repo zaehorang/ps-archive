@@ -874,6 +874,27 @@
       }
     },
     {
+      "problemId": "144854",
+      "frontendId": "144854",
+      "title": "조건에 맞는 도서와 저자 리스트 출력하기",
+      "titleSlug": "144854_조건에_맞는_도서와_저자_리스트_출력하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/144854",
+      "lastSyncedAt": "2026-09-30T08:09:35.716Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/144854_조건에_맞는_도서와_저자_리스트_출력하기.sql",
+          "lastAcceptedSourceId": "programmers:144854:mysql:1790755775642",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:09:35.716Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "157342",
       "frontendId": "157342",
       "title": "자동차 평균 대여 기간 구하기",
