@@ -853,6 +853,27 @@
       "lastAcceptedDate": "2026-05-29"
     },
     {
+      "problemId": "131533",
+      "frontendId": "131533",
+      "title": "상품 별 오프라인 매출 구하기",
+      "titleSlug": "131533_상품_별_오프라인_매출_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131533",
+      "lastSyncedAt": "2026-09-30T08:18:49.808Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/131533_상품_별_오프라인_매출_구하기.sql",
+          "lastAcceptedSourceId": "programmers:131533:mysql:1790756329742",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:18:49.808Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "138476",
       "frontendId": "138476",
       "title": "귤 고르기",
