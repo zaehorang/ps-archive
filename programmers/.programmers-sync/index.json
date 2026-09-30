@@ -874,6 +874,27 @@
       }
     },
     {
+      "problemId": "131536",
+      "frontendId": "131536",
+      "title": "재구매가 일어난 상품과 회원 리스트 구하기",
+      "titleSlug": "131536_재구매가_일어난_상품과_회원_리스트_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131536",
+      "lastSyncedAt": "2026-09-30T08:31:08.476Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql",
+          "lastAcceptedSourceId": "programmers:131536:mysql:1790757068405",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:31:08.476Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "138476",
       "frontendId": "138476",
       "title": "귤 고르기",
