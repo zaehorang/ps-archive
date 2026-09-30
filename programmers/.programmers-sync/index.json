@@ -627,6 +627,27 @@
       }
     },
     {
+      "problemId": "59044",
+      "frontendId": "59044",
+      "title": "오랜 기간 보호한 동물(1)",
+      "titleSlug": "59044_오랜_기간_보호한_동물_1",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/59044",
+      "lastSyncedAt": "2026-09-30T08:05:47.634Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/59044_오랜_기간_보호한_동물_1.sql",
+          "lastAcceptedSourceId": "programmers:59044:mysql:1790755547582",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:05:47.634Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "60061",
       "frontendId": "60061",
       "title": "기둥과 보 설치",
