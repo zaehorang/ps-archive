@@ -606,6 +606,27 @@
       }
     },
     {
+      "problemId": "59043",
+      "frontendId": "59043",
+      "title": "있었는데요 없었습니다",
+      "titleSlug": "59043_있었는데요_없었습니다",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/59043",
+      "lastSyncedAt": "2026-09-30T08:00:20.611Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/59043_있었는데요_없었습니다.sql",
+          "lastAcceptedSourceId": "programmers:59043:mysql:1790755220537",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:00:20.611Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "60061",
       "frontendId": "60061",
       "title": "기둥과 보 설치",
