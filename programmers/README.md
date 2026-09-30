@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | 2026-09-30 | [MySQL](mysql/59409_중성화_여부_파악하기.sql) |
 | 276013 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | 2026-09-30 | [MySQL](mysql/276013_Python_개발자_찾기.sql) |
 | 131536 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | 2026-09-30 | [MySQL](mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql) |
 | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | 2026-09-30 | [MySQL](mysql/131533_상품_별_오프라인_매출_구하기.sql) |

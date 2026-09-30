@@ -648,6 +648,27 @@
       }
     },
     {
+      "problemId": "59409",
+      "frontendId": "59409",
+      "title": "중성화 여부 파악하기",
+      "titleSlug": "59409_중성화_여부_파악하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/59409",
+      "lastSyncedAt": "2026-09-30T08:40:20.718Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/59409_중성화_여부_파악하기.sql",
+          "lastAcceptedSourceId": "programmers:59409:mysql:1790757620640",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T08:40:20.718Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
+    },
+    {
       "problemId": "60061",
       "frontendId": "60061",
       "title": "기둥과 보 설치",
