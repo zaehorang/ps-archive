@@ -851,6 +851,27 @@
           "lastAcceptedDate": "2026-09-29"
         }
       }
+    },
+    {
+      "problemId": "169199",
+      "frontendId": "169199",
+      "title": "리코쳇 로봇",
+      "titleSlug": "169199_리코쳇_로봇",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/169199?language=python3",
+      "lastSyncedAt": "2026-09-30T07:17:25.291Z",
+      "firstAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-09-30",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/169199_리코쳇_로봇.py",
+          "lastAcceptedSourceId": "programmers:169199:python3:1790752645232",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-09-30T07:17:25.291Z",
+          "firstAcceptedDate": "2026-09-30",
+          "lastAcceptedDate": "2026-09-30"
+        }
+      }
     }
   ]
 }

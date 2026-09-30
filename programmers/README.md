@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 2026-09-30 | [Python3](python/169199_리코쳇_로봇.py) |
 | 157342 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | 2026-09-29 | [MySQL](mysql/157342_자동차_평균_대여_기간_구하기.sql) |
 | 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 2026-09-29 | [Python3](python/42888_오픈채팅방.py) |
 | 42576 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 2026-09-29 | [Python3](python/42576_완주하지_못한_선수.py) |
