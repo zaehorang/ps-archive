@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 151138 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | 2026-10-01 | [MySQL](mysql/151138_자동차_대여_기록에서_장기_단기_대여_구분하기.sql) |
 | 157343 | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | 2026-10-01 | [MySQL](mysql/157343_특정_옵션이_포함된_자동차_리스트_구하기.sql) |
 | 77487 | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 2026-10-01 | [MySQL](mysql/77487_헤비_유저가_소유한_장소.sql) |
 | 157341 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | 2026-10-01 | [MySQL](mysql/157341_대여_기록이_존재하는_자동차_리스트_구하기.sql) |

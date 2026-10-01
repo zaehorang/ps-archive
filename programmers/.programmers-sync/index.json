@@ -1000,6 +1000,27 @@
       }
     },
     {
+      "problemId": "151138",
+      "frontendId": "151138",
+      "title": "자동차 대여 기록에서 장기/단기 대여 구분하기",
+      "titleSlug": "151138_자동차_대여_기록에서_장기_단기_대여_구분하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/151138",
+      "lastSyncedAt": "2026-10-01T04:29:05.957Z",
+      "firstAcceptedDate": "2026-10-01",
+      "lastAcceptedDate": "2026-10-01",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/151138_자동차_대여_기록에서_장기_단기_대여_구분하기.sql",
+          "lastAcceptedSourceId": "programmers:151138:mysql:1790828945890",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-01T04:29:05.957Z",
+          "firstAcceptedDate": "2026-10-01",
+          "lastAcceptedDate": "2026-10-01"
+        }
+      }
+    },
+    {
       "problemId": "157341",
       "frontendId": "157341",
       "title": "대여 기록이 존재하는 자동차 리스트 구하기",
