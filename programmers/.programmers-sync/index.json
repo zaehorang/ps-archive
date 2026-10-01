@@ -1042,6 +1042,27 @@
       }
     },
     {
+      "problemId": "157343",
+      "frontendId": "157343",
+      "title": "특정 옵션이 포함된 자동차 리스트 구하기",
+      "titleSlug": "157343_특정_옵션이_포함된_자동차_리스트_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/157343",
+      "lastSyncedAt": "2026-10-01T02:55:44.314Z",
+      "firstAcceptedDate": "2026-10-01",
+      "lastAcceptedDate": "2026-10-01",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/157343_특정_옵션이_포함된_자동차_리스트_구하기.sql",
+          "lastAcceptedSourceId": "programmers:157343:mysql:1790823344270",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-01T02:55:44.314Z",
+          "firstAcceptedDate": "2026-10-01",
+          "lastAcceptedDate": "2026-10-01"
+        }
+      }
+    },
+    {
       "problemId": "164672",
       "frontendId": "164672",
       "title": "조건에 부합하는 중고거래 상태 조회하기",
