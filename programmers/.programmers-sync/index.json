@@ -711,6 +711,27 @@
       }
     },
     {
+      "problemId": "81302",
+      "frontendId": "81302",
+      "title": "거리두기 확인하기",
+      "titleSlug": "81302_거리두기_확인하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/81302?language=python3",
+      "lastSyncedAt": "2026-10-01T02:20:29.593Z",
+      "firstAcceptedDate": "2026-10-01",
+      "lastAcceptedDate": "2026-10-01",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/81302_거리두기_확인하기.py",
+          "lastAcceptedSourceId": "programmers:81302:python3:1790821229529",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-01T02:20:29.593Z",
+          "firstAcceptedDate": "2026-10-01",
+          "lastAcceptedDate": "2026-10-01"
+        }
+      }
+    },
+    {
       "problemId": "87694",
       "frontendId": "87694",
       "title": "아이템 줍기",

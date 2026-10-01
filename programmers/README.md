@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 81302 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 2026-10-01 | [Python3](python/81302_거리두기_확인하기.py) |
 | 164672 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | 2026-09-30 | [MySQL](mysql/164672_조건에_부합하는_중고거래_상태_조회하기.sql) |
 | 59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | 2026-09-30 | [MySQL](mysql/59409_중성화_여부_파악하기.sql) |
 | 276013 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | 2026-09-30 | [MySQL](mysql/276013_Python_개발자_찾기.sql) |
