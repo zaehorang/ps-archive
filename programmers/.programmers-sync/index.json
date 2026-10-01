@@ -916,6 +916,27 @@
       "lastAcceptedDate": "2026-05-29"
     },
     {
+      "problemId": "131113",
+      "frontendId": "131113",
+      "title": "조건별로 분류하여 주문상태 출력하기",
+      "titleSlug": "131113_조건별로_분류하여_주문상태_출력하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131113",
+      "lastSyncedAt": "2026-10-01T05:08:13.619Z",
+      "firstAcceptedDate": "2026-10-01",
+      "lastAcceptedDate": "2026-10-01",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/131113_조건별로_분류하여_주문상태_출력하기.sql",
+          "lastAcceptedSourceId": "programmers:131113:mysql:1790831293550",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-01T05:08:13.619Z",
+          "firstAcceptedDate": "2026-10-01",
+          "lastAcceptedDate": "2026-10-01"
+        }
+      }
+    },
+    {
       "problemId": "131533",
       "frontendId": "131533",
       "title": "상품 별 오프라인 매출 구하기",
