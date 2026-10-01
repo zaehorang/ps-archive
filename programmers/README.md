@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 77487 | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 2026-10-01 | [MySQL](mysql/77487_헤비_유저가_소유한_장소.sql) |
 | 157341 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | 2026-10-01 | [MySQL](mysql/157341_대여_기록이_존재하는_자동차_리스트_구하기.sql) |
 | 81302 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 2026-10-01 | [Python3](python/81302_거리두기_확인하기.py) |
 | 164672 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | 2026-09-30 | [MySQL](mysql/164672_조건에_부합하는_중고거래_상태_조회하기.sql) |

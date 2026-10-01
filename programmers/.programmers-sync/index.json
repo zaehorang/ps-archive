@@ -711,6 +711,27 @@
       }
     },
     {
+      "problemId": "77487",
+      "frontendId": "77487",
+      "title": "헤비 유저가 소유한 장소",
+      "titleSlug": "77487_헤비_유저가_소유한_장소",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/77487",
+      "lastSyncedAt": "2026-10-01T02:45:25.563Z",
+      "firstAcceptedDate": "2026-10-01",
+      "lastAcceptedDate": "2026-10-01",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/77487_헤비_유저가_소유한_장소.sql",
+          "lastAcceptedSourceId": "programmers:77487:mysql:1790822725488",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-01T02:45:25.563Z",
+          "firstAcceptedDate": "2026-10-01",
+          "lastAcceptedDate": "2026-10-01"
+        }
+      }
+    },
+    {
       "problemId": "81302",
       "frontendId": "81302",
       "title": "거리두기 확인하기",
