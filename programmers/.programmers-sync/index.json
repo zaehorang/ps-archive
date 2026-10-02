@@ -943,15 +943,15 @@
       "titleSlug": "131127_할인_행사",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131127",
-      "lastSyncedAt": "2026-10-02T07:10:25.952Z",
+      "lastSyncedAt": "2026-10-02T07:24:02.246Z",
       "firstAcceptedDate": "2026-10-02",
       "lastAcceptedDate": "2026-10-02",
       "languages": {
         "python3": {
           "solutionPath": "programmers/python/131127_할인_행사.py",
-          "lastAcceptedSourceId": "programmers:131127:python3:1790925025872",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-10-02T07:10:25.952Z",
+          "lastAcceptedSourceId": "programmers:131127:python3:1790925842182",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-10-02T07:24:02.246Z",
           "firstAcceptedDate": "2026-10-02",
           "lastAcceptedDate": "2026-10-02"
         }
