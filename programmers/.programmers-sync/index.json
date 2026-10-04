@@ -1084,6 +1084,27 @@
       }
     },
     {
+      "problemId": "151139",
+      "frontendId": "151139",
+      "title": "대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기",
+      "titleSlug": "151139_대여_횟수가_많은_자동차들의_월별_대여_횟수_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/151139",
+      "lastSyncedAt": "2026-10-04T06:00:38.368Z",
+      "firstAcceptedDate": "2026-10-04",
+      "lastAcceptedDate": "2026-10-04",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/151139_대여_횟수가_많은_자동차들의_월별_대여_횟수_구하기.sql",
+          "lastAcceptedSourceId": "programmers:151139:mysql:1791093638279",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-04T06:00:38.368Z",
+          "firstAcceptedDate": "2026-10-04",
+          "lastAcceptedDate": "2026-10-04"
+        }
+      }
+    },
+    {
       "problemId": "157341",
       "frontendId": "157341",
       "title": "대여 기록이 존재하는 자동차 리스트 구하기",
