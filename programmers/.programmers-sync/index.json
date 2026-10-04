@@ -964,15 +964,15 @@
       "titleSlug": "131532_년_월_성별_별_상품_구매_회원_수_구하기",
       "difficulty": "-",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131532",
-      "lastSyncedAt": "2026-10-04T05:27:04.563Z",
+      "lastSyncedAt": "2026-10-04T05:28:03.359Z",
       "firstAcceptedDate": "2026-10-04",
       "lastAcceptedDate": "2026-10-04",
       "languages": {
         "mysql": {
           "solutionPath": "programmers/mysql/131532_년_월_성별_별_상품_구매_회원_수_구하기.sql",
-          "lastAcceptedSourceId": "programmers:131532:mysql:1791091624479",
-          "solutionRevisionNumber": 1,
-          "lastSyncedAt": "2026-10-04T05:27:04.563Z",
+          "lastAcceptedSourceId": "programmers:131532:mysql:1791091683238",
+          "solutionRevisionNumber": 2,
+          "lastSyncedAt": "2026-10-04T05:28:03.359Z",
           "firstAcceptedDate": "2026-10-04",
           "lastAcceptedDate": "2026-10-04"
         }
