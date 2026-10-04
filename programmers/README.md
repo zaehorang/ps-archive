@@ -3,6 +3,7 @@
 <!-- PROGRAMMERS_TABLE_START -->
 | # | Title | Solved | Languages |
 | ---: | --- | --- | --- |
+| 131532 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | 2026-10-04 | [MySQL](mysql/131532_년_월_성별_별_상품_구매_회원_수_구하기.sql) |
 | 131127 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 2026-10-02 | [Python3](python/131127_할인_행사.py) |
 | 131113 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | 2026-10-01 | [MySQL](mysql/131113_조건별로_분류하여_주문상태_출력하기.sql) |
 | 151138 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | 2026-10-01 | [MySQL](mysql/151138_자동차_대여_기록에서_장기_단기_대여_구분하기.sql) |

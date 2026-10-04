@@ -958,6 +958,27 @@
       }
     },
     {
+      "problemId": "131532",
+      "frontendId": "131532",
+      "title": "년, 월, 성별 별 상품 구매 회원 수 구하기",
+      "titleSlug": "131532_년_월_성별_별_상품_구매_회원_수_구하기",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131532",
+      "lastSyncedAt": "2026-10-04T05:27:04.563Z",
+      "firstAcceptedDate": "2026-10-04",
+      "lastAcceptedDate": "2026-10-04",
+      "languages": {
+        "mysql": {
+          "solutionPath": "programmers/mysql/131532_년_월_성별_별_상품_구매_회원_수_구하기.sql",
+          "lastAcceptedSourceId": "programmers:131532:mysql:1791091624479",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-04T05:27:04.563Z",
+          "firstAcceptedDate": "2026-10-04",
+          "lastAcceptedDate": "2026-10-04"
+        }
+      }
+    },
+    {
       "problemId": "131533",
       "frontendId": "131533",
       "title": "상품 별 오프라인 매출 구하기",
