@@ -984,18 +984,18 @@
       "title": "재구매가 일어난 상품과 회원 리스트 구하기",
       "titleSlug": "131536_재구매가_일어난_상품과_회원_리스트_구하기",
       "difficulty": "-",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131536",
-      "lastSyncedAt": "2026-09-30T08:33:03.256Z",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/131536?utm_source=chatgpt.com",
+      "lastSyncedAt": "2026-10-04T05:13:13.657Z",
       "firstAcceptedDate": "2026-09-30",
-      "lastAcceptedDate": "2026-09-30",
+      "lastAcceptedDate": "2026-10-04",
       "languages": {
         "mysql": {
           "solutionPath": "programmers/mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql",
-          "lastAcceptedSourceId": "programmers:131536:mysql:1790757094493",
-          "solutionRevisionNumber": 2,
-          "lastSyncedAt": "2026-09-30T08:33:03.256Z",
+          "lastAcceptedSourceId": "programmers:131536:mysql:1791090793574",
+          "solutionRevisionNumber": 3,
+          "lastSyncedAt": "2026-10-04T05:13:13.657Z",
           "firstAcceptedDate": "2026-09-30",
-          "lastAcceptedDate": "2026-09-30"
+          "lastAcceptedDate": "2026-10-04"
         }
       }
     },

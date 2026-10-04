@@ -10,10 +10,10 @@
 | 77487 | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | 2026-10-01 | [MySQL](mysql/77487_헤비_유저가_소유한_장소.sql) |
 | 157341 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | 2026-10-01 | [MySQL](mysql/157341_대여_기록이_존재하는_자동차_리스트_구하기.sql) |
 | 81302 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 2026-10-01 | [Python3](python/81302_거리두기_확인하기.py) |
+| 131536 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | 2026-09-30 | [MySQL](mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql) |
 | 164672 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | 2026-09-30 | [MySQL](mysql/164672_조건에_부합하는_중고거래_상태_조회하기.sql) |
 | 59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | 2026-09-30 | [MySQL](mysql/59409_중성화_여부_파악하기.sql) |
 | 276013 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | 2026-09-30 | [MySQL](mysql/276013_Python_개발자_찾기.sql) |
-| 131536 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | 2026-09-30 | [MySQL](mysql/131536_재구매가_일어난_상품과_회원_리스트_구하기.sql) |
 | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | 2026-09-30 | [MySQL](mysql/131533_상품_별_오프라인_매출_구하기.sql) |
 | 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | 2026-09-30 | [MySQL](mysql/144854_조건에_맞는_도서와_저자_리스트_출력하기.sql) |
 | 59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | 2026-09-30 | [MySQL](mysql/59044_오랜_기간_보호한_동물_1.sql) |
