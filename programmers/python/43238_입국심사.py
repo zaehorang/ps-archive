@@ -1,33 +1,63 @@
 def solution(n, times):
     '''
-    한 심사대에 한 명
-    
-    모든 사람 검사 최소 시간
-    
-    0 < n <= 10^9
-    0 < time <= 10^9 
-    
-    입장 시간 말고 끝나는게 빨라야 한다.
+    [문제 해석]
+    - 심사대 하나에 한 명씩, 모든 사람이 심사를 마치는 최소 시간을 구한다.
+
+    [사고 흐름]
+    1. 첫 생각: 가장 빨리 끝나는 심사대에 한 명씩 배정하는 시뮬레이션 (heapq)
+       → 답은 맞지만 최소 n번 반복해야 한다.
+
+    2. 제한사항 확인: n ≤ 10^9, times[i] ≤ 10^9
+       → n번 반복도, 시간을 1분씩 늘리는 것도 시간 초과.
+       → 값이 10^9 이상으로 크다 → 하나씩 세지 말고 log로 줄여야 한다
+       → 이분 탐색을 의심한다.
+
+    3. 질문 뒤집기:
+       "최소 몇 분?"   → 누구를 어디로 보낼지 복잡하다.
+       "T분 안에 가능?" → 심사관마다 T // time 명씩 처리, 더하기만 하면 된다.
+       → 답을 정해 놓고 확인하는 게 쉽다 → 파라메트릭 서치.
+
+    4. 단조성 확인:
+       T가 커지면 처리 가능 인원은 절대 줄지 않는다.
+       ok(T): F F F ... F T T T ... T
+       → 처음 T가 되는 지점 = 정답 (최솟값 → "처음 T" 템플릿)
+
+    5. 범위 설정:
+       - 최소: 1분
+       - 최대: 가장 느린 심사관 혼자 n명을 처리하는 시간 = max(times) * n
+         (이 시간이면 무조건 가능하므로 정답이 범위 안에 반드시 있다)
+
+    [시간복잡도]
+    판정 O(len(times)) × 탐색 O(log(max(times) * n)) ≈ 10만 × 60
     '''
-    
-    min_time = 1
-    max_time = max(times) * n
-    
-    
-    def cal_total_n(t):
-        cnt = 0
+
+    left = 1
+    right = max(times) * n
+
+    def count_people(t):
+        # t분 동안 모든 심사관이 처리할 수 있는 총인원
+        # (누가 어느 심사대로 갈지는 신경 쓰지 않아도 된다)
+        count = 0
+
         for time in times:
-            cnt += t // time
-    
-        return cnt
-    
-    while min_time < max_time:
-        base_time = (max_time + min_time) // 2
-        base = cal_total_n(base_time)
-        
-        if base < n:
-            min_time = base_time + 1
+            count += t // time
+
+        return count
+
+    # "처음 T" 템플릿
+    # - hi = mid 를 쓰므로 mid는 내림 (lo 쪽에 붙어야 무한 루프가 없다)
+    # - mid가 답일 수 있으면 남기고(= mid), 답이 아니면 뺀다(+1)
+    while left < right:
+        mid = (left + right) // 2
+
+        if count_people(mid) < n:
+            # F 구역: mid분으로는 부족하다
+            # → mid는 정답이 될 수 없으므로 범위에서 빼고 오른쪽으로
+            left = mid + 1
         else:
-            max_time = base_time
-        
-    return min_time
+            # T 구역: mid분이면 가능하다
+            # → mid가 정답일 수 있으니 남기고, 더 짧은 시간이 되는지 왼쪽 확인
+            right = mid
+
+    # left == right 가 되는 지점이 처음으로 T가 되는 시간 = 최소 시간
+    return left
