@@ -564,6 +564,27 @@
       }
     },
     {
+      "problemId": "43238",
+      "frontendId": "43238",
+      "title": "입국심사",
+      "titleSlug": "43238_입국심사",
+      "difficulty": "-",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=python3",
+      "lastSyncedAt": "2026-10-05T03:34:04.005Z",
+      "firstAcceptedDate": "2026-10-05",
+      "lastAcceptedDate": "2026-10-05",
+      "languages": {
+        "python3": {
+          "solutionPath": "programmers/python/43238_입국심사.py",
+          "lastAcceptedSourceId": "programmers:43238:python3:1791171243925",
+          "solutionRevisionNumber": 1,
+          "lastSyncedAt": "2026-10-05T03:34:04.005Z",
+          "firstAcceptedDate": "2026-10-05",
+          "lastAcceptedDate": "2026-10-05"
+        }
+      }
+    },
+    {
       "problemId": "49189",
       "frontendId": "49189",
       "title": "가장 먼 노드",
